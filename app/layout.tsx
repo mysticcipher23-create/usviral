@@ -1,6 +1,5 @@
 import type { Metadata } from "next";
 import { Fraunces, Outfit } from "next/font/google";
-import Script from "next/script";
 import "./globals.css";
 
 const display = Fraunces({
@@ -27,12 +26,14 @@ export const metadata: Metadata = {
 export default function RootLayout({ children }: { children: React.ReactNode }) {
   return (
     <html lang="en" className={`${display.variable} ${sans.variable}`}>
-      <body>
-        <Script
+      <head>
+        <script
+          async
           src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-7659671961879571"
-          strategy="beforeInteractive"
           crossOrigin="anonymous"
         />
+      </head>
+      <body>
         {children}
         <footer className="colophon">
           <div className="wrap colophon-row">
