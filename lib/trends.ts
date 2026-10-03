@@ -1,7 +1,7 @@
 import { composePost, uniqueSlug, type RawTrend } from "@/lib/compose";
 import { STORIES } from "@/lib/stories";
 import { easternDate, trafficScore } from "@/lib/format";
-import { readEdition, writeEdition } from "@/lib/store";
+import { listEditions, readEdition, writeEdition } from "@/lib/store";
 import type { Edition, NewsItem } from "@/lib/types";
 
 const BATCH_URL = "https://trends.google.com/_/TrendsUi/data/batchexecute";
@@ -291,5 +291,9 @@ export async function loadToday(): Promise<Edition> {
   const date = easternDate();
   const existing = await loadEdition(date);
   if (isVolumeEdition(existing)) return existing;
+
+  const saved = await listEditions();
+  if (isVolumeEdition(saved[0])) return saved[0];
+
   return buildEdition();
 }

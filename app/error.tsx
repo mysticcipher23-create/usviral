@@ -8,7 +8,11 @@ export default function Error({ error, reset }: { error: Error; reset: () => voi
         Could not load
       </p>
       <h1 className="page-title">The edition did not come through.</h1>
-      <p className="empty">{error.message}</p>
+      <p className="empty">
+        {error.message.startsWith("Minified React error")
+          ? "The daily feed could not be reached."
+          : error.message}
+      </p>
       <button className="refresh dark" type="button" onClick={reset}>
         Try again
       </button>

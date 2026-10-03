@@ -11,8 +11,12 @@ function fileFor(date: string): string {
 }
 
 export async function writeEdition(edition: Edition): Promise<void> {
-  await fs.mkdir(DIR, { recursive: true });
-  await fs.writeFile(fileFor(edition.date), JSON.stringify(edition, null, 2), "utf8");
+  try {
+    await fs.mkdir(DIR, { recursive: true });
+    await fs.writeFile(fileFor(edition.date), JSON.stringify(edition, null, 2), "utf8");
+  } catch (error) {
+    console.error("Could not save the edition.", error);
+  }
 }
 
 export async function readEdition(date: string): Promise<Edition | null> {
