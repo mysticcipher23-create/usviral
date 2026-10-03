@@ -1,3 +1,5 @@
+import { OCTOBER_3 } from "@/lib/october3";
+
 export type StoryBlock = { type: "p"; text: string } | { type: "h2"; text: string };
 
 export type Story = {
@@ -811,4 +813,5 @@ export const STORIES: Record<string, Story> = {
       },
     ],
   },
+  ...OCTOBER_3,
 };
