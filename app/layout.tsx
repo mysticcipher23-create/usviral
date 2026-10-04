@@ -1,4 +1,5 @@
 import type { Metadata } from "next";
+import Link from "next/link";
 import { Fraunces, Outfit } from "next/font/google";
 import "./globals.css";
 
@@ -44,7 +45,10 @@ export default function RootLayout({ children }: { children: React.ReactNode }) 
               Original blogs on the 25 biggest US searches of the past 24 hours. Pictures are made
               for USViral. Edition dates follow US Eastern time. Not affiliated with Google.
             </p>
-            <p className="colophon-meta">United States · Past 24 hours</p>
+            <p className="colophon-links">
+              <Link href="/about">About</Link>
+              <Link href="/contact">Contact</Link>
+            </p>
           </div>
         </footer>
       </body>

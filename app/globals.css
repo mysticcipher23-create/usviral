@@ -758,11 +758,75 @@ blockquote footer {
   font-style: italic;
 }
 
-.colophon-meta {
+.colophon-meta,
+.colophon-links {
   letter-spacing: 0.12em;
   text-transform: uppercase;
   font-size: 11px;
   font-weight: 700;
+}
+
+.colophon-links {
+  display: flex;
+  gap: 16px;
+}
+
+.colophon-links a {
+  color: white;
+  text-decoration: none;
+}
+
+.colophon-links a:hover {
+  color: var(--red);
+}
+
+.sheet {
+  max-width: 740px;
+}
+
+.sheet h2 {
+  margin: 28px 0 8px;
+  font-family: var(--font-display), Georgia, serif;
+  font-size: 28px;
+  font-weight: 560;
+  letter-spacing: -0.03em;
+  line-height: 1.15;
+}
+
+.sheet p {
+  margin: 0 0 14px;
+}
+
+.contact-form {
+  display: grid;
+  gap: 14px;
+  margin-top: 8px;
+}
+
+.contact-form label {
+  display: grid;
+  gap: 6px;
+  font-size: 12px;
+  font-weight: 700;
+  letter-spacing: 0.12em;
+  text-transform: uppercase;
+}
+
+.contact-form input,
+.contact-form textarea {
+  width: 100%;
+  border: 1px solid var(--line);
+  background: white;
+  color: var(--ink);
+  font: inherit;
+  letter-spacing: 0;
+  text-transform: none;
+  padding: 12px 14px;
+}
+
+.contact-form textarea {
+  min-height: 160px;
+  resize: vertical;
 }
 
 :focus-visible {

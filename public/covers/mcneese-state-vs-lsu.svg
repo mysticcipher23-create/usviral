@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1280 720" width="1280" height="720">
+<defs>
+  <filter id="grain">
+    <feTurbulence type="fractalNoise" baseFrequency="0.8" numOctaves="2"/>
+    <feColorMatrix type="saturate" values="0"/>
+    <feComponentTransfer><feFuncA type="linear" slope="0.18"/></feComponentTransfer>
+  </filter>
+</defs>
+
+    <defs>
+      <linearGradient id="sky" x1="0" y1="0" x2="0" y2="1">
+        <stop offset="0" stop-color="#141820"/>
+        <stop offset="1" stop-color="#101820"/>
+      </linearGradient>
+      <radialGradient id="glow" cx="70%" cy="18%" r="40%">
+        <stop offset="0" stop-color="#461d7c" stop-opacity="0.55"/>
+        <stop offset="1" stop-color="#461d7c" stop-opacity="0"/>
+      </radialGradient>
+    </defs>
+    <rect width="1280" height="720" fill="url(#sky)"/>
+    <rect width="1280" height="720" fill="url(#glow)"/>
+    <g fill="#0c1218" opacity="0.9">
+      <path d="M0 250 C 200 180, 420 320, 640 240 C 860 160, 1080 300, 1280 210 L 1280 720 L 0 720 Z"/>
+    </g>
+    <g opacity="0.35">
+        <rect x="180" y="78" width="46" height="18" rx="3" fill="#d7dde8"/>
+        <polygon points="180,96 226,96 150,250 256,250" fill="#fff4d2" opacity="0.16"/>
+      </g><g opacity="0.35">
+        <rect x="420" y="78" width="46" height="18" rx="3" fill="#d7dde8"/>
+        <polygon points="420,96 466,96 390,250 496,250" fill="#fff4d2" opacity="0.16"/>
+      </g><g opacity="0.9">
+        <rect x="860" y="78" width="46" height="18" rx="3" fill="#d7dde8"/>
+        <polygon points="860,96 906,96 830,250 936,250" fill="#fff4d2" opacity="0.16"/>
+      </g><g opacity="0.9">
+        <rect x="1100" y="78" width="46" height="18" rx="3" fill="#d7dde8"/>
+        <polygon points="1100,96 1146,96 1070,250 1176,250" fill="#fff4d2" opacity="0.16"/>
+      </g>
+    <ellipse cx="640" cy="560" rx="520" ry="90" fill="#1d3d28"/>
+    <ellipse cx="640" cy="545" rx="430" ry="62" fill="#245236"/>
+    <g transform="translate(390 400)">
+      <ellipse cx="70" cy="90" rx="80" ry="26" fill="#000" opacity="0.28"/>
+      <path d="M16 78 Q70 8 124 78 L112 104 Q70 36 28 104 Z" fill="#00573f"/>
+      <path d="M34 66 Q70 28 106 66" fill="none" stroke="#111" stroke-width="10"/>
+    </g>
+    <g transform="translate(760 400)">
+      <ellipse cx="70" cy="90" rx="80" ry="26" fill="#000" opacity="0.28"/>
+      <path d="M16 78 Q70 8 124 78 L112 104 Q70 36 28 104 Z" fill="#461d7c"/>
+      <path d="M34 66 Q70 28 106 66" fill="none" stroke="#111" stroke-width="10"/>
+    </g>
+<rect width="1280" height="720" filter="url(#grain)"/>
+</svg>

@@ -1,5 +1,6 @@
-import { mkdir, readFile, writeFile } from "node:fs/promises";
+import { mkdir, readFile, rm, writeFile } from "node:fs/promises";
 import path from "node:path";
+import { paintCover } from "./cover-art.mjs";
 
 const BATCH_URL = "https://trends.google.com/_/TrendsUi/data/batchexecute";
 const TRENDING_RPC = "i0OFE";
@@ -292,6 +293,33 @@ function writeStory(query, headlines) {
   };
 }
 
+async function paintPostCover(post) {
+  const dest = path.join("public", "covers", `${post.slug}.svg`);
+  const jpg = path.join("public", "covers", `${post.slug}.jpg`);
+  try {
+    const bytes = await readFile(jpg);
+    if (bytes.length > 150000 && bytes[0] === 0xff && bytes[1] === 0xd8) {
+      post.image = `/covers/${post.slug}.jpg`;
+      console.log(`cover kept ${post.slug}`);
+      return;
+    }
+    await rm(jpg, { force: true });
+  } catch {
+    // No earlier photograph to replace.
+  }
+  await mkdir(path.dirname(dest), { recursive: true });
+  await writeFile(dest, paintCover(post));
+  post.image = `/covers/${post.slug}.svg`;
+  console.log(`cover painted ${post.slug}`);
+}
+
+async function ensureCovers(posts) {
+  for (const post of posts) {
+    if (!post?.slug) continue;
+    await paintPostCover(post);
+  }
+}
+
 async function main() {
   const date = easternDate();
   const file = path.join("data", "editions", `${date}.json`);
@@ -299,7 +327,9 @@ async function main() {
     try {
       const existing = JSON.parse(await readFile(file, "utf8"));
       if (existing?.sort === "volume" && existing?.posts?.length > 0) {
-        console.log(`${date} already has ${existing.posts.length} posts. Leaving it.`);
+        console.log(`${date} already has ${existing.posts.length} posts. Checking covers.`);
+        await ensureCovers(existing.posts);
+        await writeFile(file, `${JSON.stringify(existing, null, 2)}\n`);
         return;
       }
     } catch {
@@ -353,6 +383,7 @@ async function main() {
   };
 
   await mkdir(path.dirname(file), { recursive: true });
+  await ensureCovers(posts);
   await writeFile(file, `${JSON.stringify(edition, null, 2)}\n`);
   console.log(`Wrote ${posts.length} posts to ${file}`);
 }
