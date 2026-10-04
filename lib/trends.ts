@@ -1,5 +1,4 @@
 import { composePost, uniqueSlug, type RawTrend } from "@/lib/compose";
-import { STORIES } from "@/lib/stories";
 import { easternDate, trafficScore } from "@/lib/format";
 import { listEditions, readEdition, writeEdition } from "@/lib/store";
 import type { Edition, NewsItem } from "@/lib/types";
@@ -227,26 +226,8 @@ function isVolumeEdition(edition: Edition | null): edition is Edition {
   return Boolean(edition && edition.sort === "volume" && edition.limit === 25 && edition.posts.length > 0);
 }
 
-function storyText(slug: string): string | null {
-  const story = STORIES[slug];
-  if (!story) return null;
-  return story.blocks.map((block) => (block.type === "h2" ? `## ${block.text}` : block.text)).join("\n");
-}
-
-function postText(post: Edition["posts"][number]): string {
-  return post.blocks
-    .map((block) => {
-      if (block.type === "h2") return `## ${block.text}`;
-      if (block.type === "quote") return block.text;
-      return block.text;
-    })
-    .join("\n");
-}
-
 function stillUsesOldBrief(edition: Edition): boolean {
   return edition.posts.some((post) => {
-    const fresh = storyText(post.slug);
-    if (fresh && fresh !== postText(post)) return true;
     return (
       !post.image.startsWith("/covers/") ||
       post.blocks.some(

@@ -1,0 +1,40 @@
+name: Daily US edition
+
+on:
+  schedule:
+    # 12:00 UTC is 8:00am US Eastern during daylight time, 7:00am in winter.
+    - cron: "0 12 * * *"
+  workflow_dispatch:
+
+permissions:
+  contents: write
+
+concurrency:
+  group: daily-edition
+  cancel-in-progress: false
+
+jobs:
+  publish:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+
+      - uses: actions/setup-node@v4
+        with:
+          node-version: "22"
+
+      - name: Pull today's US trends and write the edition
+        run: node scripts/daily-edition.mjs
+
+      - name: Commit and push the edition
+        run: |
+          git add data/editions
+          if git diff --cached --quiet; then
+            echo "No new edition to publish."
+            exit 0
+          fi
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          DATE=$(node -e "process.stdout.write(new Intl.DateTimeFormat('en-CA',{timeZone:'America/New_York',year:'numeric',month:'2-digit',day:'2-digit'}).format(new Date()))")
+          git commit -m "Add the ${DATE} US edition."
+          git push

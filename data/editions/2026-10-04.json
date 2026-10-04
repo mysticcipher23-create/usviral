@@ -1,0 +1,861 @@
+{
+  "date": "2026-10-04",
+  "fetchedAt": "2026-10-04T17:40:17.336Z",
+  "geo": "US",
+  "window": "24h",
+  "sort": "volume",
+  "limit": 25,
+  "sourceUrl": "https://trends.google.com/trending?geo=US&hours=24&sort=search-volume",
+  "posts": [
+    {
+      "slug": "colts-vs-commanders",
+      "query": "colts vs commanders",
+      "title": "Colts vs Commanders",
+      "headline": "Marcus Mariota out as Commanders turn to rookie Athan Kaliakmanis",
+      "dek": "Marcus Mariota out as Commanders turn to rookie Athan Kaliakmanis.",
+      "angle": "Marcus Mariota out as Commanders turn to rookie Athan Kaliakmanis",
+      "traffic": "500000",
+      "trafficLabel": "500K+",
+      "image": "/covers/colts-vs-commanders.jpg",
+      "imageSource": "",
+      "publishedAt": "2026-10-04T03:10:00.000Z",
+      "publishedLabel": "",
+      "rank": 1,
+      "blocks": [
+        {
+          "type": "p",
+          "text": "Colts vs Commanders is one of the 25 biggest searches in the United States today. Marcus Mariota out as Commanders turn to rookie Athan Kaliakmanis."
+        },
+        {
+          "type": "h2",
+          "text": "The result people are checking"
+        },
+        {
+          "type": "p",
+          "text": "Commanders lose Marcus Mariota to knee injury early in clash with Colts. What to know about Athan Kaliakmanis, now starting at QB for the Commanders."
+        },
+        {
+          "type": "p",
+          "text": "People are searching “colts vs commanders.” This page stays with those accounts and does not add a score, a name, or an outcome that was not in them."
+        }
+      ],
+      "sources": []
+    },
+    {
+      "slug": "padres-vs-brewers",
+      "query": "padres vs brewers",
+      "title": "Padres vs Brewers",
+      "headline": "Brewers escape Padres in Game 1 after wild roof-aided out in 9th",
+      "dek": "Brewers escape Padres in Game 1 after wild roof-aided out in 9th.",
+      "angle": "Brewers escape Padres in Game 1 after wild roof-aided out in 9th",
+      "traffic": "500000",
+      "trafficLabel": "500K+",
+      "image": "/covers/padres-vs-brewers.jpg",
+      "imageSource": "",
+      "publishedAt": "2026-10-03T22:50:00.000Z",
+      "publishedLabel": "",
+      "rank": 2,
+      "blocks": [
+        {
+          "type": "p",
+          "text": "Padres vs Brewers is one of the 25 biggest searches in the United States today. Brewers escape Padres in Game 1 after wild roof-aided out in 9th."
+        },
+        {
+          "type": "h2",
+          "text": "The result people are checking"
+        },
+        {
+          "type": "p",
+          "text": "Brewers manager credits spirit of Bob Uecker for lucky bounce vs. Padres. Quirk of Crew's home park robs Padres of potential go-ahead rally."
+        },
+        {
+          "type": "p",
+          "text": "People are searching “padres vs brewers.” This page stays with those accounts and does not add a score, a name, or an outcome that was not in them."
+        }
+      ],
+      "sources": []
+    },
+    {
+      "slug": "cowboys-vs-texans",
+      "query": "cowboys vs texans",
+      "title": "Cowboys vs Texans",
+      "headline": "Cowboys-Texans: How to Watch, Listen, Stream in Week 4",
+      "dek": "Cowboys-Texans: How to Watch, Listen, Stream in Week 4.",
+      "angle": "Cowboys-Texans: How to Watch, Listen, Stream in Week 4",
+      "traffic": "200000",
+      "trafficLabel": "200K+",
+      "image": "/covers/cowboys-vs-texans.jpg",
+      "imageSource": "",
+      "publishedAt": "2026-10-04T12:20:00.000Z",
+      "publishedLabel": "",
+      "rank": 3,
+      "blocks": [
+        {
+          "type": "p",
+          "text": "Cowboys vs Texans is one of the 25 biggest searches in the United States today. Cowboys-Texans: How to Watch, Listen, Stream in Week 4."
+        },
+        {
+          "type": "h2",
+          "text": "The result people are checking"
+        },
+        {
+          "type": "p",
+          "text": "Join our Cowboys discussion. Texans vs. Cowboys By the Numbers: Week 4 Stats, Streaks and Series History."
+        },
+        {
+          "type": "p",
+          "text": "People are searching “cowboys vs texans.” This page stays with those accounts and does not add a score, a name, or an outcome that was not in them."
+        }
+      ],
+      "sources": []
+    },
+    {
+      "slug": "rams-vs-eagles",
+      "query": "rams vs eagles",
+      "title": "Rams vs Eagles",
+      "headline": "Eagles vs. Rams Week 4 game thread",
+      "dek": "Eagles vs. Rams Week 4 game thread.",
+      "angle": "Eagles vs. Rams Week 4 game thread",
+      "traffic": "200000",
+      "trafficLabel": "200K+",
+      "image": "/covers/rams-vs-eagles.jpg",
+      "imageSource": "",
+      "publishedAt": "2026-10-04T13:20:00.000Z",
+      "publishedLabel": "",
+      "rank": 4,
+      "blocks": [
+        {
+          "type": "p",
+          "text": "Rams vs Eagles is one of the 25 biggest searches in the United States today. Eagles vs. Rams Week 4 game thread."
+        },
+        {
+          "type": "h2",
+          "text": "The result people are checking"
+        },
+        {
+          "type": "p",
+          "text": "That is the account available when the edition was filed. It is the event people are opening."
+        },
+        {
+          "type": "p",
+          "text": "People are searching “rams vs eagles.” This page stays with those accounts and does not add a score, a name, or an outcome that was not in them."
+        }
+      ],
+      "sources": []
+    },
+    {
+      "slug": "patriots-vs-bills",
+      "query": "patriots vs bills",
+      "title": "Patriots vs Bills",
+      "headline": "The Patriots need a win, and it’s a tall task to pick one up against Josh Allen and the Bills. Follow along",
+      "dek": "The Patriots need a win, and it’s a tall task to pick one up against Josh Allen and the Bills. Follow along.",
+      "angle": "The Patriots need a win, and it’s a tall task to pick one up against Josh Allen and the Bills. Follow along",
+      "traffic": "200000",
+      "trafficLabel": "200K+",
+      "image": "/covers/patriots-vs-bills.jpg",
+      "imageSource": "",
+      "publishedAt": "2026-10-04T15:00:00.000Z",
+      "publishedLabel": "",
+      "rank": 5,
+      "blocks": [
+        {
+          "type": "p",
+          "text": "Patriots vs Bills is one of the 25 biggest searches in the United States today. The Patriots need a win, and it’s a tall task to pick one up against Josh Allen and the Bills. Follow along."
+        },
+        {
+          "type": "h2",
+          "text": "The result people are checking"
+        },
+        {
+          "type": "p",
+          "text": "That is the account available when the edition was filed. It is the event people are opening."
+        },
+        {
+          "type": "p",
+          "text": "People are searching “patriots vs bills.” This page stays with those accounts and does not add a score, a name, or an outcome that was not in them."
+        }
+      ],
+      "sources": []
+    },
+    {
+      "slug": "lucki",
+      "query": "lucki",
+      "title": "Lucki",
+      "headline": "Lucki Stabbed After Alleged Fight With Playboi Carti’s Team",
+      "dek": "Lucki Stabbed After Alleged Fight With Playboi Carti’s Team.",
+      "angle": "Lucki Stabbed After Alleged Fight With Playboi Carti’s Team",
+      "traffic": "200000",
+      "trafficLabel": "200K+",
+      "image": "/covers/lucki.jpg",
+      "imageSource": "",
+      "publishedAt": "2026-10-04T00:40:00.000Z",
+      "publishedLabel": "",
+      "rank": 6,
+      "blocks": [
+        {
+          "type": "p",
+          "text": "Lucki is one of the 25 biggest searches in the United States today. Lucki Stabbed After Alleged Fight With Playboi Carti’s Team."
+        },
+        {
+          "type": "h2",
+          "text": "What is already on the record"
+        },
+        {
+          "type": "p",
+          "text": "Rapper Lucki Suffers Neck Laceration in Wild ComplexCon Brawl With Playboi Carti Present. LUCKI Injured in Altercation at ComplexCon."
+        },
+        {
+          "type": "p",
+          "text": "People are searching “lucki.” This page stays with those accounts and does not add a score, a name, or an outcome that was not in them."
+        }
+      ],
+      "sources": []
+    },
+    {
+      "slug": "colts",
+      "query": "colts",
+      "title": "Colts",
+      "headline": "Colts vs. Commanders: Three must-know storylines for NFL Week 4 London game",
+      "dek": "Colts vs. Commanders: Three must-know storylines for NFL Week 4 London game.",
+      "angle": "Colts vs. Commanders: Three must-know storylines for NFL Week 4 London game",
+      "traffic": "200000",
+      "trafficLabel": "200K+",
+      "image": "/covers/colts.jpg",
+      "imageSource": "",
+      "publishedAt": "2026-10-04T13:20:00.000Z",
+      "publishedLabel": "",
+      "rank": 7,
+      "blocks": [
+        {
+          "type": "p",
+          "text": "Colts is one of the 25 biggest searches in the United States today. Colts vs. Commanders: Three must-know storylines for NFL Week 4 London game."
+        },
+        {
+          "type": "h2",
+          "text": "What is already on the record"
+        },
+        {
+          "type": "p",
+          "text": "Indianapolis Colts vs. Washington Commanders Game Highlights."
+        },
+        {
+          "type": "p",
+          "text": "People are searching “colts.” This page stays with those accounts and does not add a score, a name, or an outcome that was not in them."
+        }
+      ],
+      "sources": []
+    },
+    {
+      "slug": "yankees-vs-rays",
+      "query": "yankees vs rays",
+      "title": "Yankees vs Rays",
+      "headline": "Rasmussen nearly perfect vs. Yankees as Rays take ALDS Game 1",
+      "dek": "Rasmussen nearly perfect vs. Yankees as Rays take ALDS Game 1.",
+      "angle": "Rasmussen nearly perfect vs. Yankees as Rays take ALDS Game 1",
+      "traffic": "200000",
+      "trafficLabel": "200K+",
+      "image": "/covers/yankees-vs-rays.jpg",
+      "imageSource": "",
+      "publishedAt": "2026-10-03T21:30:00.000Z",
+      "publishedLabel": "",
+      "rank": 8,
+      "blocks": [
+        {
+          "type": "p",
+          "text": "Yankees vs Rays is one of the 25 biggest searches in the United States today. Rasmussen nearly perfect vs. Yankees as Rays take ALDS Game 1."
+        },
+        {
+          "type": "h2",
+          "text": "The result people are checking"
+        },
+        {
+          "type": "p",
+          "text": "A punch in the face or a celebration? Game 1 could have gone either way. Day 1 of Division Series delivered no-hit history, a 4-inning save and the latest dome debate."
+        },
+        {
+          "type": "p",
+          "text": "People are searching “yankees vs rays.” This page stays with those accounts and does not add a score, a name, or an outcome that was not in them."
+        }
+      ],
+      "sources": []
+    },
+    {
+      "slug": "cavan-sullivan",
+      "query": "cavan sullivan",
+      "title": "Cavan Sullivan",
+      "headline": "Sullivan shows he's going to be a star as U.S. thrash Mexico",
+      "dek": "Sullivan shows he's going to be a star as U.S. thrash Mexico.",
+      "angle": "Sullivan shows he's going to be a star as U.S. thrash Mexico",
+      "traffic": "200000",
+      "trafficLabel": "200K+",
+      "image": "/covers/cavan-sullivan.jpg",
+      "imageSource": "",
+      "publishedAt": "2026-10-04T01:50:00.000Z",
+      "publishedLabel": "",
+      "rank": 9,
+      "blocks": [
+        {
+          "type": "p",
+          "text": "Cavan Sullivan is one of the 25 biggest searches in the United States today. Sullivan shows he's going to be a star as U.S. thrash Mexico."
+        },
+        {
+          "type": "h2",
+          "text": "What is already on the record"
+        },
+        {
+          "type": "p",
+          "text": "Cavan Sullivan: Manchester City signing becomes youngest US goalscorer in history. Cavan Sullivan’s stunner makes him youngest-ever USMNT scorer in romp over Mexico."
+        },
+        {
+          "type": "p",
+          "text": "People are searching “cavan sullivan.” This page stays with those accounts and does not add a score, a name, or an outcome that was not in them."
+        }
+      ],
+      "sources": []
+    },
+    {
+      "slug": "argentina-vs-burkina-faso",
+      "query": "argentina vs burkina faso",
+      "title": "Argentina vs Burkina Faso",
+      "headline": "Argentina score 7 past makeshift Burkina Faso after travel woes",
+      "dek": "Argentina score 7 past makeshift Burkina Faso after travel woes.",
+      "angle": "Argentina score 7 past makeshift Burkina Faso after travel woes",
+      "traffic": "200000",
+      "trafficLabel": "200K+",
+      "image": "/covers/argentina-vs-burkina-faso.jpg",
+      "imageSource": "",
+      "publishedAt": "2026-10-03T23:00:00.000Z",
+      "publishedLabel": "",
+      "rank": 10,
+      "blocks": [
+        {
+          "type": "p",
+          "text": "Argentina vs Burkina Faso is one of the 25 biggest searches in the United States today. Argentina score 7 past makeshift Burkina Faso after travel woes."
+        },
+        {
+          "type": "h2",
+          "text": "The result people are checking"
+        },
+        {
+          "type": "p",
+          "text": "What Happened With Lionel Messi & Why He’s Not Playing for Argentina vs. Burkina Faso. Argentina vs Burkina Faso: Friendlies stats & head-to-head."
+        },
+        {
+          "type": "p",
+          "text": "People are searching “argentina vs burkina faso.” This page stays with those accounts and does not add a score, a name, or an outcome that was not in them."
+        }
+      ],
+      "sources": []
+    },
+    {
+      "slug": "miami-fl-vs-clemson",
+      "query": "miami fl vs clemson",
+      "title": "Miami Fl vs Clemson",
+      "headline": "Clemson contained by Miami, but Tigers are 'getting tougher'",
+      "dek": "Clemson contained by Miami, but Tigers are 'getting tougher'.",
+      "angle": "Clemson contained by Miami, but Tigers are 'getting tougher'",
+      "traffic": "200000",
+      "trafficLabel": "200K+",
+      "image": "/covers/miami-fl-vs-clemson.jpg",
+      "imageSource": "",
+      "publishedAt": "2026-10-03T22:30:00.000Z",
+      "publishedLabel": "",
+      "rank": 11,
+      "blocks": [
+        {
+          "type": "p",
+          "text": "Miami Fl vs Clemson is one of the 25 biggest searches in the United States today. Clemson contained by Miami, but Tigers are 'getting tougher'."
+        },
+        {
+          "type": "h2",
+          "text": "The result people are checking"
+        },
+        {
+          "type": "p",
+          "text": "Five things we learned in Miami Hurricanes’ statement win over Clemson. Mario Cristobal's new way met Dabo Swinney's old approach -- and one is clearly working better."
+        },
+        {
+          "type": "p",
+          "text": "People are searching “miami fl vs clemson.” This page stays with those accounts and does not add a score, a name, or an outcome that was not in them."
+        }
+      ],
+      "sources": []
+    },
+    {
+      "slug": "estados-unidos-mexico",
+      "query": "estados unidos - méxico",
+      "title": "Estados Unidos - México",
+      "headline": "México pierde ante Estados Unidos en noche trágica de Tala Rangel",
+      "dek": "México pierde ante Estados Unidos en noche trágica de Tala Rangel.",
+      "angle": "México pierde ante Estados Unidos en noche trágica de Tala Rangel",
+      "traffic": "200000",
+      "trafficLabel": "200K+",
+      "image": "/covers/estados-unidos-mexico.jpg",
+      "imageSource": "",
+      "publishedAt": "2026-10-04T01:10:00.000Z",
+      "publishedLabel": "",
+      "rank": 12,
+      "blocks": [
+        {
+          "type": "p",
+          "text": "Estados Unidos - México is one of the 25 biggest searches in the United States today. México pierde ante Estados Unidos en noche trágica de Tala Rangel."
+        },
+        {
+          "type": "h2",
+          "text": "What is already on the record"
+        },
+        {
+          "type": "p",
+          "text": "El joven Sullivan y Estados Unidos golean a un errático México en partido amistoso. A qué hora y dónde ver el Estados Unidos vs. México, partido amistoso del Tri."
+        },
+        {
+          "type": "p",
+          "text": "People are searching “estados unidos - méxico.” This page stays with those accounts and does not add a score, a name, or an outcome that was not in them."
+        }
+      ],
+      "sources": []
+    },
+    {
+      "slug": "mcneese-state-vs-lsu",
+      "query": "mcneese state vs lsu",
+      "title": "Mcneese State vs Lsu",
+      "headline": "Lane Kiffin refused a running clock vs. McNeese State and sent a message to LSU in the process",
+      "dek": "Lane Kiffin refused a running clock vs. McNeese State and sent a message to LSU in the process.",
+      "angle": "Lane Kiffin refused a running clock vs. McNeese State and sent a message to LSU in the process",
+      "traffic": "200000",
+      "trafficLabel": "200K+",
+      "image": "/covers/mcneese-state-vs-lsu.jpg",
+      "imageSource": "",
+      "publishedAt": "2026-10-03T22:50:00.000Z",
+      "publishedLabel": "",
+      "rank": 13,
+      "blocks": [
+        {
+          "type": "p",
+          "text": "Mcneese State vs Lsu is one of the 25 biggest searches in the United States today. Lane Kiffin refused a running clock vs. McNeese State and sent a message to LSU in the process."
+        },
+        {
+          "type": "h2",
+          "text": "The result people are checking"
+        },
+        {
+          "type": "p",
+          "text": "LSU vs. McNEESE STATE: LSU Kickoff Weather Index. Football Welcomes McNeese on Saturday Night in Tiger Stadium."
+        },
+        {
+          "type": "p",
+          "text": "People are searching “mcneese state vs lsu.” This page stays with those accounts and does not add a score, a name, or an outcome that was not in them."
+        }
+      ],
+      "sources": []
+    },
+    {
+      "slug": "florida-vs-missouri",
+      "query": "florida vs missouri",
+      "title": "Florida vs Missouri",
+      "headline": "No. 25 Football Blitzes No. 8 Florida 45-17",
+      "dek": "No. 25 Football Blitzes No. 8 Florida 45-17.",
+      "angle": "No. 25 Football Blitzes No. 8 Florida 45-17",
+      "traffic": "200000",
+      "trafficLabel": "200K+",
+      "image": "/covers/florida-vs-missouri.jpg",
+      "imageSource": "",
+      "publishedAt": "2026-10-03T18:30:00.000Z",
+      "publishedLabel": "",
+      "rank": 14,
+      "blocks": [
+        {
+          "type": "p",
+          "text": "Florida vs Missouri is one of the 25 biggest searches in the United States today. No. 25 Football Blitzes No. 8 Florida 45-17."
+        },
+        {
+          "type": "h2",
+          "text": "The result people are checking"
+        },
+        {
+          "type": "p",
+          "text": "Sweet Homecoming! Mizzou earns long-awaited ranked win by bullying No. 8 Florida 45-17. Mizzou defense makes key tweak to defensive line to stop Florida rushing attack."
+        },
+        {
+          "type": "p",
+          "text": "People are searching “florida vs missouri.” This page stays with those accounts and does not add a score, a name, or an outcome that was not in them."
+        }
+      ],
+      "sources": []
+    },
+    {
+      "slug": "spain-vs-czechia",
+      "query": "spain vs czechia",
+      "title": "Spain vs Czechia",
+      "headline": "Spain's De la Fuente in disbelief as Yamal continues scoring streak",
+      "dek": "Spain's De la Fuente in disbelief as Yamal continues scoring streak.",
+      "angle": "Spain's De la Fuente in disbelief as Yamal continues scoring streak",
+      "traffic": "200000",
+      "trafficLabel": "200K+",
+      "image": "/covers/spain-vs-czechia.jpg",
+      "imageSource": "",
+      "publishedAt": "2026-10-03T17:50:00.000Z",
+      "publishedLabel": "",
+      "rank": 15,
+      "blocks": [
+        {
+          "type": "p",
+          "text": "Spain vs Czechia is one of the 25 biggest searches in the United States today. Spain's De la Fuente in disbelief as Yamal continues scoring streak."
+        },
+        {
+          "type": "h2",
+          "text": "The result people are checking"
+        },
+        {
+          "type": "p",
+          "text": "Spain 3-1 Czech Republic: World champions secure victory to maintain winning run. Lamine Yamal stars again as Spain see off Czechia and maintain perfect start."
+        },
+        {
+          "type": "p",
+          "text": "People are searching “spain vs czechia.” This page stays with those accounts and does not add a score, a name, or an outcome that was not in them."
+        }
+      ],
+      "sources": []
+    },
+    {
+      "slug": "dodgers",
+      "query": "dodgers",
+      "title": "Dodgers",
+      "headline": "Skubal shuts down Braves' bats, stakes Dodgers to 1-0 NLDS lead",
+      "dek": "Skubal shuts down Braves' bats, stakes Dodgers to 1-0 NLDS lead.",
+      "angle": "Skubal shuts down Braves' bats, stakes Dodgers to 1-0 NLDS lead",
+      "traffic": "200000",
+      "trafficLabel": "200K+",
+      "image": "/covers/dodgers.jpg",
+      "imageSource": "",
+      "publishedAt": "2026-10-03T20:00:00.000Z",
+      "publishedLabel": "",
+      "rank": 16,
+      "blocks": [
+        {
+          "type": "p",
+          "text": "Dodgers is one of the 25 biggest searches in the United States today. Skubal shuts down Braves' bats, stakes Dodgers to 1-0 NLDS lead."
+        },
+        {
+          "type": "h2",
+          "text": "What is already on the record"
+        },
+        {
+          "type": "p",
+          "text": "‘Feels like we’re flying too close to the sun.’ Fans, players endure heat at Dodger Stadium. Pumping 100 mph at 100° F, Skubal shows why he was hot Deadline commodity."
+        },
+        {
+          "type": "p",
+          "text": "People are searching “dodgers.” This page stays with those accounts and does not add a score, a name, or an outcome that was not in them."
+        }
+      ],
+      "sources": []
+    },
+    {
+      "slug": "iowa-football",
+      "query": "iowa football",
+      "title": "Iowa Football",
+      "headline": "Smith sets Ohio State's career receptions, receiving TD records",
+      "dek": "Smith sets Ohio State's career receptions, receiving TD records.",
+      "angle": "Smith sets Ohio State's career receptions, receiving TD records",
+      "traffic": "200000",
+      "trafficLabel": "200K+",
+      "image": "/covers/iowa-football.jpg",
+      "imageSource": "",
+      "publishedAt": "2026-10-03T19:40:00.000Z",
+      "publishedLabel": "",
+      "rank": 17,
+      "blocks": [
+        {
+          "type": "p",
+          "text": "Iowa Football is one of the 25 biggest searches in the United States today. Smith sets Ohio State's career receptions, receiving TD records."
+        },
+        {
+          "type": "h2",
+          "text": "What is already on the record"
+        },
+        {
+          "type": "p",
+          "text": "Ohio State has a message for Indiana: Your honeymoon is almost over. Jeremiah Smith: “I’m the best player in the country”."
+        },
+        {
+          "type": "p",
+          "text": "People are searching “iowa football.” This page stays with those accounts and does not add a score, a name, or an outcome that was not in them."
+        }
+      ],
+      "sources": []
+    },
+    {
+      "slug": "jets-vs-bears",
+      "query": "jets vs bears",
+      "title": "Jets vs Bears",
+      "headline": "Game Preview: Jets vs. Bears",
+      "dek": "Game Preview: Jets vs. Bears.",
+      "angle": "Game Preview: Jets vs. Bears",
+      "traffic": "100000",
+      "trafficLabel": "100K+",
+      "image": "/covers/jets-vs-bears.jpg",
+      "imageSource": "",
+      "publishedAt": "2026-10-04T15:50:00.000Z",
+      "publishedLabel": "",
+      "rank": 18,
+      "blocks": [
+        {
+          "type": "p",
+          "text": "Jets vs Bears is one of the 25 biggest searches in the United States today. Game Preview: Jets vs. Bears."
+        },
+        {
+          "type": "h2",
+          "text": "The result people are checking"
+        },
+        {
+          "type": "p",
+          "text": "Chicago vs NY Jets: Bears starting quarterback, streaming, live updates. Jets vs. Bears odds, picks, prediction, spread, line: Start time, betting preview, best bets for NFL Week 4."
+        },
+        {
+          "type": "p",
+          "text": "People are searching “jets vs bears.” This page stays with those accounts and does not add a score, a name, or an outcome that was not in them."
+        }
+      ],
+      "sources": []
+    },
+    {
+      "slug": "packers-vs-buccaneers",
+      "query": "packers vs buccaneers",
+      "title": "Packers vs Buccaneers",
+      "headline": "Packers rule out four, list two questionable vs. Buccaneers",
+      "dek": "Packers rule out four, list two questionable vs. Buccaneers.",
+      "angle": "Packers rule out four, list two questionable vs. Buccaneers",
+      "traffic": "100000",
+      "trafficLabel": "100K+",
+      "image": "/covers/packers-vs-buccaneers.jpg",
+      "imageSource": "",
+      "publishedAt": "2026-10-04T15:40:00.000Z",
+      "publishedLabel": "",
+      "rank": 19,
+      "blocks": [
+        {
+          "type": "p",
+          "text": "Packers vs Buccaneers is one of the 25 biggest searches in the United States today. Packers rule out four, list two questionable vs. Buccaneers."
+        },
+        {
+          "type": "h2",
+          "text": "The result people are checking"
+        },
+        {
+          "type": "p",
+          "text": "Packers will have new-look offensive line vs Buccaneers after two guards ruled inactive. Packers vs. Buccaneers: Who's in, who's out for Week 4?"
+        },
+        {
+          "type": "p",
+          "text": "People are searching “packers vs buccaneers.” This page stays with those accounts and does not add a score, a name, or an outcome that was not in them."
+        }
+      ],
+      "sources": []
+    },
+    {
+      "slug": "texas-tech-vs-colorado",
+      "query": "texas tech vs colorado",
+      "title": "Texas Tech vs Colorado",
+      "headline": "Colorado needs a QB to 'step up' after blowout loss to Texas Tech",
+      "dek": "Colorado needs a QB to 'step up' after blowout loss to Texas Tech.",
+      "angle": "Colorado needs a QB to 'step up' after blowout loss to Texas Tech",
+      "traffic": "100000",
+      "trafficLabel": "100K+",
+      "image": "/covers/texas-tech-vs-colorado.jpg",
+      "imageSource": "",
+      "publishedAt": "2026-10-03T22:30:00.000Z",
+      "publishedLabel": "",
+      "rank": 20,
+      "blocks": [
+        {
+          "type": "p",
+          "text": "Texas Tech vs Colorado is one of the 25 biggest searches in the United States today. Colorado needs a QB to 'step up' after blowout loss to Texas Tech."
+        },
+        {
+          "type": "h2",
+          "text": "The result people are checking"
+        },
+        {
+          "type": "p",
+          "text": "Deion Sanders says Colorado football team has 'one glaring problem' after loss to Texas Tech. Deion Sanders, Colorado lose third in a row."
+        },
+        {
+          "type": "p",
+          "text": "People are searching “texas tech vs colorado.” This page stays with those accounts and does not add a score, a name, or an outcome that was not in them."
+        }
+      ],
+      "sources": []
+    },
+    {
+      "slug": "arkansas-vs-texas-a-and-m",
+      "query": "arkansas vs texas a&m",
+      "title": "Arkansas vs Texas A&m",
+      "headline": "Something to build on? Texas A&M rides ground game to beatdown of Arkansas",
+      "dek": "Something to build on? Texas A&M rides ground game to beatdown of Arkansas.",
+      "angle": "Something to build on? Texas A&M rides ground game to beatdown of Arkansas",
+      "traffic": "100000",
+      "trafficLabel": "100K+",
+      "image": "/covers/arkansas-vs-texas-a-and-m.jpg",
+      "imageSource": "",
+      "publishedAt": "2026-10-03T22:00:00.000Z",
+      "publishedLabel": "",
+      "rank": 21,
+      "blocks": [
+        {
+          "type": "p",
+          "text": "Arkansas vs Texas A&m is one of the 25 biggest searches in the United States today. Something to build on? Texas A&M rides ground game to beatdown of Arkansas."
+        },
+        {
+          "type": "h2",
+          "text": "The result people are checking"
+        },
+        {
+          "type": "p",
+          "text": "Hogs downed by Aggies in College Station. How to Follow: Arkansas vs. Texas A&M."
+        },
+        {
+          "type": "p",
+          "text": "People are searching “arkansas vs texas a&m.” This page stays with those accounts and does not add a score, a name, or an outcome that was not in them."
+        }
+      ],
+      "sources": []
+    },
+    {
+      "slug": "indiana-vs-rutgers",
+      "query": "indiana vs rutgers",
+      "title": "Indiana vs Rutgers",
+      "headline": "No. 6 Indiana Hoosiers vs Rutgers Scarlet Knights Highlights 🏈 FOX College Football",
+      "dek": "No. 6 Indiana Hoosiers vs Rutgers Scarlet Knights Highlights 🏈 FOX College Football.",
+      "angle": "No. 6 Indiana Hoosiers vs Rutgers Scarlet Knights Highlights 🏈 FOX College Football",
+      "traffic": "100000",
+      "trafficLabel": "100K+",
+      "image": "/covers/indiana-vs-rutgers.jpg",
+      "imageSource": "",
+      "publishedAt": "2026-10-03T23:00:00.000Z",
+      "publishedLabel": "",
+      "rank": 22,
+      "blocks": [
+        {
+          "type": "p",
+          "text": "Indiana vs Rutgers is one of the 25 biggest searches in the United States today. No. 6 Indiana Hoosiers vs Rutgers Scarlet Knights Highlights 🏈 FOX College Football."
+        },
+        {
+          "type": "h2",
+          "text": "The result people are checking"
+        },
+        {
+          "type": "p",
+          "text": "Turbo Richard runs for 204 yards and a TD in No. 6 Indiana’s 47-15 romp over Rutgers. Indiana offense does something Big Ten hasn't seen since 2014 in win at Rutgers."
+        },
+        {
+          "type": "p",
+          "text": "People are searching “indiana vs rutgers.” This page stays with those accounts and does not add a score, a name, or an outcome that was not in them."
+        }
+      ],
+      "sources": []
+    },
+    {
+      "slug": "kentucky-vs-south-carolina",
+      "query": "kentucky vs south carolina",
+      "title": "Kentucky vs South Carolina",
+      "headline": "A scorching seat and another squandered lead: Wrapping Gamecocks-Kentucky",
+      "dek": "A scorching seat and another squandered lead: Wrapping Gamecocks-Kentucky.",
+      "angle": "A scorching seat and another squandered lead: Wrapping Gamecocks-Kentucky",
+      "traffic": "100000",
+      "trafficLabel": "100K+",
+      "image": "/covers/kentucky-vs-south-carolina.jpg",
+      "imageSource": "",
+      "publishedAt": "2026-10-03T19:20:00.000Z",
+      "publishedLabel": "",
+      "rank": 23,
+      "blocks": [
+        {
+          "type": "p",
+          "text": "Kentucky vs South Carolina is one of the 25 biggest searches in the United States today. A scorching seat and another squandered lead: Wrapping Gamecocks-Kentucky."
+        },
+        {
+          "type": "h2",
+          "text": "The result people are checking"
+        },
+        {
+          "type": "p",
+          "text": "Minchey rallies No. 24 Kentucky to 35-34 OT win at South Caroilna. Stein Continues to Set New Standard in First Season."
+        },
+        {
+          "type": "p",
+          "text": "People are searching “kentucky vs south carolina.” This page stays with those accounts and does not add a score, a name, or an outcome that was not in them."
+        }
+      ],
+      "sources": []
+    },
+    {
+      "slug": "washington-vs-usc",
+      "query": "washington vs usc",
+      "title": "Washington vs Usc",
+      "headline": "USC gets late defensive stop in comeback win over Washington",
+      "dek": "USC gets late defensive stop in comeback win over Washington.",
+      "angle": "USC gets late defensive stop in comeback win over Washington",
+      "traffic": "100000",
+      "trafficLabel": "100K+",
+      "image": "/covers/washington-vs-usc.jpg",
+      "imageSource": "",
+      "publishedAt": "2026-10-03T22:40:00.000Z",
+      "publishedLabel": "",
+      "rank": 24,
+      "blocks": [
+        {
+          "type": "p",
+          "text": "Washington vs Usc is one of the 25 biggest searches in the United States today. USC gets late defensive stop in comeback win over Washington."
+        },
+        {
+          "type": "h2",
+          "text": "The result people are checking"
+        },
+        {
+          "type": "p",
+          "text": "USC silences the ‘Fire Lincoln!’ chants with thrilling comeback win over Washington. Washington Huskies weren’t good enough anywhere to upset USC."
+        },
+        {
+          "type": "p",
+          "text": "People are searching “washington vs usc.” This page stays with those accounts and does not add a score, a name, or an outcome that was not in them."
+        }
+      ],
+      "sources": []
+    },
+    {
+      "slug": "byu-vs-tcu",
+      "query": "byu vs tcu",
+      "title": "Byu vs Tcu",
+      "headline": "‘We will take it’: BYU ekes out sloppy 17-10 win over TCU",
+      "dek": "‘We will take it’: BYU ekes out sloppy 17-10 win over TCU.",
+      "angle": "‘We will take it’: BYU ekes out sloppy 17-10 win over TCU",
+      "traffic": "100000",
+      "trafficLabel": "100K+",
+      "image": "/covers/byu-vs-tcu.jpg",
+      "imageSource": "",
+      "publishedAt": "2026-10-03T22:10:00.000Z",
+      "publishedLabel": "",
+      "rank": 25,
+      "blocks": [
+        {
+          "type": "p",
+          "text": "Byu vs Tcu is one of the 25 biggest searches in the United States today. ‘We will take it’: BYU ekes out sloppy 17-10 win over TCU."
+        },
+        {
+          "type": "h2",
+          "text": "The result people are checking"
+        },
+        {
+          "type": "p",
+          "text": "Instant takeaways from No. 10 BYU’s gritty win at TCU. Bear Bachmeier runs for 2 TDs as No. 10 BYU overcomes loss of LJ Martin to beat TCU 17-10."
+        },
+        {
+          "type": "p",
+          "text": "People are searching “byu vs tcu.” This page stays with those accounts and does not add a score, a name, or an outcome that was not in them."
+        }
+      ],
+      "sources": []
+    }
+  ]
+}
