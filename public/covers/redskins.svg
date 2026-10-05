@@ -11,11 +11,11 @@
     <defs>
       <linearGradient id="sky" x1="0" y1="0" x2="0" y2="1">
         <stop offset="0" stop-color="#10141c"/>
-        <stop offset="1" stop-color="#2a3340"/>
+        <stop offset="1" stop-color="#3a2418"/>
       </linearGradient>
       <radialGradient id="glow" cx="70%" cy="18%" r="40%">
-        <stop offset="0" stop-color="#a71930" stop-opacity="0.55"/>
-        <stop offset="1" stop-color="#a71930" stop-opacity="0"/>
+        <stop offset="0" stop-color="#1d4e89" stop-opacity="0.55"/>
+        <stop offset="1" stop-color="#1d4e89" stop-opacity="0"/>
       </radialGradient>
     </defs>
     <rect width="1280" height="720" fill="url(#sky)"/>
@@ -29,7 +29,7 @@
       </g><g opacity="0.9">
         <rect x="420" y="78" width="46" height="18" rx="3" fill="#d7dde8"/>
         <polygon points="420,96 466,96 390,250 496,250" fill="#fff4d2" opacity="0.16"/>
-      </g><g opacity="0.9">
+      </g><g opacity="0.35">
         <rect x="860" y="78" width="46" height="18" rx="3" fill="#d7dde8"/>
         <polygon points="860,96 906,96 830,250 936,250" fill="#fff4d2" opacity="0.16"/>
       </g><g opacity="0.9">
@@ -40,12 +40,12 @@
     <ellipse cx="640" cy="545" rx="430" ry="62" fill="#245236"/>
     <g transform="translate(390 400)">
       <ellipse cx="70" cy="90" rx="80" ry="26" fill="#000" opacity="0.28"/>
-      <path d="M16 78 Q70 8 124 78 L112 104 Q70 36 28 104 Z" fill="#203731"/>
+      <path d="M16 78 Q70 8 124 78 L112 104 Q70 36 28 104 Z" fill="#0e3b2e"/>
       <path d="M34 66 Q70 28 106 66" fill="none" stroke="#111" stroke-width="10"/>
     </g>
     <g transform="translate(760 400)">
       <ellipse cx="70" cy="90" rx="80" ry="26" fill="#000" opacity="0.28"/>
-      <path d="M16 78 Q70 8 124 78 L112 104 Q70 36 28 104 Z" fill="#a71930"/>
+      <path d="M16 78 Q70 8 124 78 L112 104 Q70 36 28 104 Z" fill="#1d4e89"/>
       <path d="M34 66 Q70 28 106 66" fill="none" stroke="#111" stroke-width="10"/>
     </g>
 <rect width="1280" height="720" filter="url(#grain)"/>

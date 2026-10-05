@@ -38,7 +38,7 @@
       </g>
     <path d="M220 620 L640 430 L1060 620 Z" fill="#1f6b3a"/>
     <path d="M220 620 L640 430 L1060 620 Z" fill="none" stroke="#f4f1ea" stroke-width="4"/>
-    <circle cx="640" cy="500" r="16" fill="#f4f1ea"/>
+    <circle cx="760" cy="470" r="16" fill="#f4f1ea"/>
     <rect x="600" y="560" width="80" height="14" fill="#f4f1ea"/>
 <rect width="1280" height="720" filter="url(#grain)"/>
 </svg>

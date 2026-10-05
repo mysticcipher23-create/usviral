@@ -38,15 +38,10 @@
       </g>
     <ellipse cx="640" cy="560" rx="520" ry="90" fill="#1d3d28"/>
     <ellipse cx="640" cy="545" rx="430" ry="62" fill="#245236"/>
-    <g transform="translate(390 400)">
-      <ellipse cx="70" cy="90" rx="80" ry="26" fill="#000" opacity="0.28"/>
-      <path d="M16 78 Q70 8 124 78 L112 104 Q70 36 28 104 Z" fill="#002244"/>
-      <path d="M34 66 Q70 28 106 66" fill="none" stroke="#111" stroke-width="10"/>
-    </g>
-    <g transform="translate(760 400)">
-      <ellipse cx="70" cy="90" rx="80" ry="26" fill="#000" opacity="0.28"/>
-      <path d="M16 78 Q70 8 124 78 L112 104 Q70 36 28 104 Z" fill="#c60c30"/>
-      <path d="M34 66 Q70 28 106 66" fill="none" stroke="#111" stroke-width="10"/>
-    </g>
+      <rect x="160" y="500" width="960" height="10" fill="#f4f1ea"/>
+      <g transform="translate(760 430) rotate(-18)">
+        <ellipse cx="0" cy="0" rx="54" ry="32" fill="#6b3a22"/>
+        <path d="M-30 0 H30" stroke="#f4f1ea" stroke-width="4"/>
+      </g>
 <rect width="1280" height="720" filter="url(#grain)"/>
 </svg>
