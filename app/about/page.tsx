@@ -35,9 +35,9 @@ export default function AboutPage() {
           </p>
           <h2>The pictures</h2>
           <p>
-            Covers are original illustrations made for USViral. They are not news photographs. They
-            do not use real people&apos;s faces, logos, or words in the image. A new edition&apos;s
-            pictures are generated with the page, one scene for each story.
+            Each story gets an original photorealistic scene made for that report. They are not
+            news photographs. They do not use real people&apos;s faces, logos, or words. A new
+            edition&apos;s pictures are generated with the page, one scene for each story.
           </p>
           <h2>What this site is not</h2>
           <p>

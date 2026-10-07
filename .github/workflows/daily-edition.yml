@@ -23,6 +23,9 @@ jobs:
         with:
           node-version: "22"
 
+      - name: Install the image crop tool
+        run: pip install pillow
+
       - name: Pull today's US trends and write the edition
         run: node scripts/daily-edition.mjs
 

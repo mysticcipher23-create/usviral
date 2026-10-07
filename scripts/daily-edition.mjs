@@ -1,6 +1,7 @@
+import { spawnSync } from "node:child_process";
 import { mkdir, readFile, rm, writeFile } from "node:fs/promises";
 import path from "node:path";
-import { paintCover } from "./cover-art.mjs";
+import { coverPrompt } from "./cover-art.mjs";
 
 const BATCH_URL = "https://trends.google.com/_/TrendsUi/data/batchexecute";
 const TRENDING_RPC = "i0OFE";
@@ -27,6 +28,13 @@ function easternDate(date = new Date()) {
     month: "2-digit",
     day: "2-digit",
   }).format(date);
+}
+
+function easternDay(iso) {
+  if (!iso) return "";
+  const date = new Date(iso);
+  if (Number.isNaN(date.getTime())) return "";
+  return easternDate(date);
 }
 
 function titleCase(input) {
@@ -293,35 +301,98 @@ function writeStory(query, headlines) {
   };
 }
 
+function hash(text) {
+  let value = 2166136261;
+  for (const char of text) {
+    value ^= char.charCodeAt(0);
+    value = Math.imul(value, 16777619);
+  }
+  return value >>> 0;
+}
+
+function hideCornerBadge(file) {
+  const script = `
+from PIL import Image, ImageFilter
+im = Image.open(${JSON.stringify(file)}).convert("RGB")
+w, h = im.size
+x, y = max(0, w - 250), max(0, h - 80)
+above = im.crop((x, max(0, y - 100), w, y))
+patch = above.filter(ImageFilter.GaussianBlur(12)).resize((w - x, h - y))
+im.paste(patch, (x, y))
+im = im.resize((1280, 720), Image.Resampling.LANCZOS)
+im.save(${JSON.stringify(file)}, "JPEG", quality=88, optimize=True)
+`;
+  const result = spawnSync("python", ["-c", script], { encoding: "utf8" });
+  if (result.status !== 0) {
+    console.warn(`corner crop skipped for ${path.basename(file)}: ${(result.stderr || "").trim()}`);
+  }
+}
+
+async function downloadCover(post) {
+  const prompt = coverPrompt(post);
+  const url = new URL(`https://image.pollinations.ai/prompt/${encodeURIComponent(prompt)}`);
+  url.searchParams.set("width", "1280");
+  url.searchParams.set("height", "720");
+  url.searchParams.set("nologo", "true");
+  url.searchParams.set("private", "true");
+  url.searchParams.set("enhance", "true");
+  url.searchParams.set("model", "flux");
+  url.searchParams.set("seed", String(hash(post.slug) % 100000));
+
+  let lastError = "empty image";
+  for (let attempt = 0; attempt < 3; attempt += 1) {
+    try {
+      const response = await fetch(url, { signal: AbortSignal.timeout(120000) });
+      if (!response.ok) throw new Error(`HTTP ${response.status}`);
+      const bytes = Buffer.from(await response.arrayBuffer());
+      if (bytes.length > 20000 && bytes[0] === 0xff && bytes[1] === 0xd8) return bytes;
+      lastError = `not a jpeg (${bytes.length} bytes)`;
+    } catch (error) {
+      lastError = error instanceof Error ? error.message : String(error);
+    }
+  }
+  throw new Error(lastError);
+}
+
 async function paintPostCover(post) {
-  const dest = path.join("public", "covers", `${post.slug}.svg`);
+  const svg = path.join("public", "covers", `${post.slug}.svg`);
   const jpg = path.join("public", "covers", `${post.slug}.jpg`);
   try {
     const bytes = await readFile(jpg);
-    if (bytes.length > 150000 && bytes[0] === 0xff && bytes[1] === 0xd8) {
+    if (bytes.length > 40000 && bytes[0] === 0xff && bytes[1] === 0xd8) {
       post.image = `/covers/${post.slug}.jpg`;
+      await rm(svg, { force: true });
       console.log(`cover kept ${post.slug}`);
       return;
     }
     await rm(jpg, { force: true });
   } catch {
-    // No earlier photograph to replace.
+    // No photograph yet.
   }
-  await mkdir(path.dirname(dest), { recursive: true });
-  await writeFile(dest, paintCover(post));
-  post.image = `/covers/${post.slug}.svg`;
-  console.log(`cover painted ${post.slug}`);
+
+  await mkdir(path.dirname(jpg), { recursive: true });
+  try {
+    await writeFile(jpg, await downloadCover(post));
+    hideCornerBadge(jpg);
+    await rm(svg, { force: true });
+    post.image = `/covers/${post.slug}.jpg`;
+    console.log(`cover photographed ${post.slug}`);
+  } catch (error) {
+    const reason = error instanceof Error ? error.message : error;
+    console.warn(`cover failed ${post.slug}: ${reason}`);
+  }
 }
 
 async function ensureCovers(posts) {
-  for (const post of posts) {
-    if (!post?.slug) continue;
-    await paintPostCover(post);
-  }
+  await mapPool(
+    posts.filter((post) => post?.slug),
+    1,
+    (post) => paintPostCover(post),
+  );
 }
 
 async function main() {
-  const date = easternDate();
+  const date = process.env.EDITION_DATE || easternDate();
   const file = path.join("data", "editions", `${date}.json`);
   if (!process.env.FORCE_EDITION) {
     try {
@@ -337,9 +408,12 @@ async function main() {
     }
   }
 
-  const payload = await postRpc(TRENDING_RPC, [null, null, "US", 0, "en-US", 24, 2]);
+  const hours = Number(process.env.TREND_HOURS || 24);
+  const payload = await postRpc(TRENDING_RPC, [null, null, "US", 0, "en-US", hours, 2]);
+  const startDate = process.env.FILTER_START_DATE || "";
   const ranked = parseTrendRows(payload)
-    .filter((row) => row.query.trim())
+    .filter((row) => row.query.trim() && !/\bvs\.?\s*$/i.test(row.query))
+    .filter((row) => !startDate || easternDay(row.startedAt) === startDate)
     .sort((a, b) => b.volume - a.volume || b.growth - a.growth)
     .slice(0, TOP_LIMIT);
 
@@ -383,7 +457,7 @@ async function main() {
   };
 
   await mkdir(path.dirname(file), { recursive: true });
-  await ensureCovers(posts);
+  if (!process.env.SKIP_COVERS) await ensureCovers(posts);
   await writeFile(file, `${JSON.stringify(edition, null, 2)}\n`);
   console.log(`Wrote ${posts.length} posts to ${file}`);
 }

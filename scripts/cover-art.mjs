@@ -1,272 +1,97 @@
-const TEAMS = {
-  colts: "#002c5f",
-  commanders: "#5a1414",
-  cowboys: "#041e42",
-  texans: "#a71930",
-  rams: "#003594",
-  eagles: "#004c54",
-  patriots: "#002244",
-  bills: "#c60c30",
-  padres: "#2f241d",
-  brewers: "#12284b",
-  yankees: "#0c2340",
-  rays: "#092c5c",
-  dodgers: "#005a9c",
-  clemson: "#f56600",
-  miami: "#005030",
-  lsu: "#461d7c",
-  mcneese: "#00573f",
-  florida: "#0021a5",
-  missouri: "#f1b82d",
-  iowa: "#ffcd00",
-  packers: "#203731",
-  buccaneers: "#a71930",
-  "texas tech": "#cc0000",
-  colorado: "#cfb87c",
-  arkansas: "#9d2235",
-  "texas a": "#500000",
-  indiana: "#990000",
-  rutgers: "#cc0033",
-  kentucky: "#0033a0",
-  "south carolina": "#73000a",
-  washington: "#4b2e83",
-  usc: "#990000",
-  byu: "#002e5d",
-  tcu: "#4d1979",
-  argentina: "#74acdf",
-  mexico: "#006847",
-  spain: "#c60b1e",
-  czechia: "#11457e",
-  "burkina faso": "#009e49",
+const KNOWN = {
+  "colts-vs-commanders":
+    "An NFL sideline at night after a quarterback has left with a knee injury. An unmarked navy helmet rests on the empty bench beside a hinged knee brace and a folded towel. Burgundy and blue stadium light falls on the grass. No people.",
+  "padres-vs-brewers":
+    "Inside a baseball stadium at night with the roof closed. A baseball hangs in midair just under the dark steel roof trusses above the outfield grass, and a distant fielder looks up. Brown and navy seats, playoff lighting.",
+  "cowboys-vs-texans":
+    "An American football field in the hour before a night game. Two unmarked helmets, one silver-navy and one deep red, sit on the turf at midfield while the stands begin to fill. No people in the foreground.",
+  "rams-vs-eagles":
+    "Field-level view of a live night football game, shot from behind the offense. Players wear plain royal blue and midnight green, helmets unmarked, faces hidden. The crowd is a blur of light.",
+  "patriots-vs-bills":
+    "A cold night football game. A quarterback in plain navy, seen from behind, drops back to pass with his breath fogging. The defense wears plain red and unmarked helmets. Winter air, bright stadium lights.",
+  lucki:
+    "An empty hip-hop club stage after the show. One microphone in a hard white spotlight, a scuffed black floor, deep red curtains, and the rest of the room dark. Quiet and tense. No people.",
+  colts:
+    "Dusk in a huge European soccer stadium where an American football game is about to be played. Plain blue uniforms and unmarked helmets line up on the pitch, faces hidden. The stands are oval, not a US football bowl.",
+  "yankees-vs-rays":
+    "A night playoff baseball game that is nearly perfect. A pitcher in plain navy is seen from behind on the mound, cap unmarked, all the bases empty, the catcher small in the distance.",
+  "cavan-sullivan":
+    "Night international soccer. A young player seen strictly from behind, in a plain white kit with no crest, strikes a shot that is ripping into the goal net. A large crowd is out of focus.",
+  "argentina-vs-burkina-faso":
+    "A floodlit soccer match that has become a rout. The ball is in the back of the net and players in plain light-blue and green kits celebrate as silhouettes, no crests, no numbers.",
+  "miami-fl-vs-clemson":
+    "A night college football game. A defensive line in plain green is crouched and has contained an offense in plain orange. Helmets are unmarked and faces are hidden. The crowd is a blur of orange and green.",
+  "estados-unidos-mexico":
+    "A night soccer match. A goalkeeper in a plain green kit with no crest kneels alone in the goalmouth, back to the camera, head bowed. The net is still. The stadium feels heavy and quiet.",
+  "mcneese-state-vs-lsu":
+    "Late in a night college game inside a huge stadium washed in purple and gold. The offense is still lined up, as if the clock was never sped up. Plain uniforms, unmarked helmets, faces hidden. The scoreboard is only a soft glow.",
+  "florida-vs-missouri":
+    "A night college football blowout. A running back in plain black and gold, seen from behind, bursts through a gap while defenders in plain blue and orange trail. Helmets have no marks.",
+  "spain-vs-czechia":
+    "Floodlit soccer. A winger in a plain red kit with no crest, seen from the side and slightly behind so the face is hidden, strikes the ball toward goal on a scoring run.",
+  dodgers:
+    "A night baseball playoff. A pitcher in a plain blue cap with no logo is mid-delivery, face hidden, while a row of unused bats leans in the opposing dugout.",
+  "iowa-football":
+    "An autumn college football afternoon. A receiver in a plain scarlet jersey leaps in the end zone, back to the camera, both hands securing the football. The helmet is unmarked. Packed stands.",
+  "jets-vs-bears":
+    "An American football field before kickoff on a gray afternoon. Two unmarked helmets, one green and one navy, rest on the turf. The stands are still filling. No people close to the camera.",
+  "packers-vs-buccaneers":
+    "An NFL locker-room bench before a game. Four unmarked green helmets are set aside, and two more plain red helmets sit apart, the way an injury report clears players out. No people.",
+  "texas-tech-vs-colorado":
+    "After a college football blowout, a quarterback stands alone at midfield, seen from behind, helmet unmarked. One side of the stadium is red and the other is black and gold, and most of the seats are quiet.",
+  "arkansas-vs-texas-a-and-m":
+    "A night college football game decided on the ground. A running back seen from behind churns through the line on torn-up turf, plain maroon jersey, unmarked helmet, defenders falling behind him.",
+  "indiana-vs-rutgers":
+    "A night college football highlight. A ball carrier in plain crimson, seen from behind, leans through a tackle under bright lights. The other team wears plain scarlet. Helmets hide every face. No numbers.",
+  "kentucky-vs-south-carolina":
+    "A hot college sideline late in a game where a lead slipped away. A coach stands with his back to the camera, hands on his hips. The crowd is a blur of blue and garnet. The scoreboard is only soft light.",
+  "washington-vs-usc":
+    "A night football goal-line stand. A pile of players in plain purple and cardinal, helmets unmarked and faces hidden, the ball spotted just short of the end zone. The crowd is standing.",
+  "byu-vs-tcu":
+    "A wet college football field at night in a messy, low-scoring game. A football has just cleared the uprights. Players in plain navy and purple stand still, faces hidden by unmarked helmets.",
 };
 
-function hash(text) {
-  let value = 2166136261;
-  for (const char of text) {
-    value ^= char.charCodeAt(0);
-    value = Math.imul(value, 16777619);
+function blobOf(post) {
+  const notes = Array.isArray(post.blocks) ? post.blocks.map((block) => block.text ?? "").join(" ") : "";
+  return `${post.query ?? ""} ${post.headline ?? ""} ${notes}`.toLowerCase();
+}
+
+function sceneFor(post) {
+  if (KNOWN[post.slug]) return KNOWN[post.slug];
+  const blob = blobOf(post);
+
+  if (/stab|fight with|attack/.test(blob)) {
+    return "An empty music-club stage after a show. One microphone in a hard spotlight, the rest of the room dark. No people.";
   }
-  return value >>> 0;
-}
-
-function pick(seed, list) {
-  return list[(seed >>> 0) % list.length];
-}
-
-function teamColor(name, fallback) {
-  const key = Object.keys(TEAMS).find((team) => name.includes(team));
-  return key ? TEAMS[key] : fallback;
-}
-
-function sceneKind(post) {
-  const blob = `${post.query} ${post.headline}`.toLowerCase();
-  if (/stab|fight with|attack/.test(blob)) return "stage";
-  if (/padres|brewers|yankees|rays|dodgers|baseball|inning|alds|nlds/.test(blob)) return "baseball";
-  if (/argentina|mexico|méxico|spain|czechia|burkina|sullivan|soccer|futbol/.test(blob)) return "soccer";
-  if (/hockey|puck|overtime goal/.test(blob)) return "hockey";
-  if (/basketball|wnba|nba/.test(blob)) return "basketball";
-  if (
-    /colts|commanders|cowboys|texans|rams|eagles|patriots|bills|clemson|miami|lsu|mcneese|florida|missouri|iowa|packers|buccaneers|texas tech|colorado|arkansas|rutgers|indiana|kentucky|carolina|washington|usc|byu|tcu|football|nfl/.test(
-      blob,
-    )
-  ) {
-    return "football";
+  if (/roof/.test(blob)) {
+    return "A night baseball stadium with the roof closed. A baseball hangs just under the steel trusses above the outfield.";
   }
-  return "desk";
-}
-
-function footballVariant(post) {
-  const blob = `${post.query} ${post.headline}`.toLowerCase();
-  if (/out as|injury|questionable|ruled out|knee/.test(blob)) return "bench";
-  if (/blowout|beatdown|blitz|ground game|rush/.test(blob)) return "tracks";
-  if (/comeback|late|stop|ekes|win over/.test(blob)) return "line";
-  return "helmets";
-}
-
-function sides(query) {
-  const parts = query.toLowerCase().split(/\s+vs\.?\s+|\s+-\s+/);
-  return [parts[0] ?? query, parts[1] ?? ""];
-}
-
-function sky(seed, left, right) {
-  return `
-    <defs>
-      <linearGradient id="sky" x1="0" y1="0" x2="0" y2="1">
-        <stop offset="0" stop-color="${pick(seed, ["#141820", "#1b2430", "#10141c", "#241810"])}"/>
-        <stop offset="1" stop-color="${pick(seed >> 3, ["#2a3340", "#101820", "#3a2418"])}"/>
-      </linearGradient>
-      <radialGradient id="glow" cx="70%" cy="18%" r="40%">
-        <stop offset="0" stop-color="${right}" stop-opacity="0.55"/>
-        <stop offset="1" stop-color="${right}" stop-opacity="0"/>
-      </radialGradient>
-    </defs>
-    <rect width="1280" height="720" fill="url(#sky)"/>
-    <rect width="1280" height="720" fill="url(#glow)"/>
-    <g fill="${left}" opacity="0.9">
-      <path d="M0 250 C 200 180, 420 320, 640 240 C 860 160, 1080 300, 1280 210 L 1280 720 L 0 720 Z"/>
-    </g>`;
-}
-
-function lights(seed) {
-  const spots = [180, 420, 860, 1100];
-  return spots
-    .map((x, index) => {
-      const on = (seed >> index) & 1;
-      return `<g opacity="${on ? 0.9 : 0.35}">
-        <rect x="${x}" y="78" width="46" height="18" rx="3" fill="#d7dde8"/>
-        <polygon points="${x},96 ${x + 46},96 ${x - 30},250 ${x + 76},250" fill="#fff4d2" opacity="0.16"/>
-      </g>`;
-    })
-    .join("");
-}
-
-function frame(inner) {
-  return `<?xml version="1.0" encoding="UTF-8"?>
-<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1280 720" width="1280" height="720">
-<defs>
-  <filter id="grain">
-    <feTurbulence type="fractalNoise" baseFrequency="0.8" numOctaves="2"/>
-    <feColorMatrix type="saturate" values="0"/>
-    <feComponentTransfer><feFuncA type="linear" slope="0.18"/></feComponentTransfer>
-  </filter>
-</defs>
-${inner}
-<rect width="1280" height="720" filter="url(#grain)"/>
-</svg>`;
-}
-
-function football(post) {
-  const seed = hash(post.slug);
-  const [home, away] = sides(post.query);
-  const left = teamColor(home, pick(seed, ["#123055", "#5a1414", "#0e3b2e", "#3a2418"]));
-  const right = teamColor(away, pick(seed >> 4, ["#c4552a", "#d7a441", "#7d1d3f", "#1d4e89"]));
-  const variant = footballVariant(post);
-  const bowl = `${sky(seed, "#0c1218", right)}
-    ${lights(seed)}
-    <ellipse cx="640" cy="560" rx="520" ry="90" fill="#1d3d28"/>
-    <ellipse cx="640" cy="545" rx="430" ry="62" fill="#245236"/>`;
-
-  if (variant === "bench") {
-    return frame(`${bowl}
-      <rect x="180" y="470" width="920" height="36" rx="6" fill="#2a2118"/>
-      <g transform="translate(430 390)">
-        <ellipse cx="70" cy="78" rx="78" ry="28" fill="#000" opacity="0.25"/>
-        <path d="M20 70 Q70 10 120 70 L110 92 Q70 40 30 92 Z" fill="${left}"/>
-        <path d="M38 62 Q70 28 102 62" fill="none" stroke="#111" stroke-width="8"/>
-      </g>`);
+  if (/knee|ruled out|questionable|injury/.test(blob)) {
+    return "An empty football sideline at night. Unmarked helmets and a knee brace rest on the bench, the way an injury report clears a lineup. No people.";
   }
-
-  if (variant === "tracks") {
-    return frame(`${bowl}
-      <path d="M250 620 C 400 540, 560 560, 760 470 C 900 410, 1040 430, 1160 360" fill="none" stroke="#c4a574" stroke-width="18" stroke-linecap="round" opacity="0.8"/>
-      <ellipse cx="1160" cy="360" rx="34" ry="16" fill="${right}"/>`);
+  if (/perfect|shuts down|shut out/.test(blob)) {
+    return "A night baseball game. A pitcher seen from behind, cap unmarked, with the bases empty and unused bats in the dugout.";
   }
-
-  if (variant === "line") {
-    return frame(`${bowl}
-      <rect x="160" y="500" width="960" height="10" fill="#f4f1ea"/>
-      <g transform="translate(760 430) rotate(-18)">
-        <ellipse cx="0" cy="0" rx="54" ry="32" fill="#6b3a22"/>
-        <path d="M-30 0 H30" stroke="#f4f1ea" stroke-width="4"/>
-      </g>`);
+  if (/soccer|futbol|méxico|mexico|spain|argentina|goal/.test(blob)) {
+    return "Floodlit soccer at night. Players in plain kits with no crests chase a ball toward the net, faces turned away.";
   }
-
-  return frame(`${bowl}
-    <g transform="translate(390 400)">
-      <ellipse cx="70" cy="90" rx="80" ry="26" fill="#000" opacity="0.28"/>
-      <path d="M16 78 Q70 8 124 78 L112 104 Q70 36 28 104 Z" fill="${left}"/>
-      <path d="M34 66 Q70 28 106 66" fill="none" stroke="#111" stroke-width="10"/>
-    </g>
-    <g transform="translate(760 400)">
-      <ellipse cx="70" cy="90" rx="80" ry="26" fill="#000" opacity="0.28"/>
-      <path d="M16 78 Q70 8 124 78 L112 104 Q70 36 28 104 Z" fill="${right}"/>
-      <path d="M34 66 Q70 28 106 66" fill="none" stroke="#111" stroke-width="10"/>
-    </g>`);
+  if (/baseball|inning|alds|nlds|dodgers|yankees|padres|brewers/.test(blob)) {
+    return "A night baseball game seen from the seats. The diamond is bright and the players are distant shapes in plain uniforms.";
+  }
+  if (/football|nfl|ncaaf|vs/.test(blob)) {
+    return "A night football game from field level. Players in plain uniforms and unmarked helmets are lined up, faces hidden, stadium lights above a packed crowd.";
+  }
+  return "A documentary photograph of the place this event happened, empty of celebrities and portraits, framed the way a newspaper photographer would shoot the scene.";
 }
 
-function baseball(post) {
-  const seed = hash(post.slug);
-  const blob = `${post.query} ${post.headline}`.toLowerCase();
-  const roof = /roof/.test(blob);
-  const quiet = /shut|perfect|escape/.test(blob);
-  const [home, away] = sides(post.query);
-  const left = teamColor(home, "#12284b");
-  const right = teamColor(away, "#c4552a");
-  return frame(`${sky(seed, left, right)}
-    ${roof ? `<path d="M80 180 H1200 L1100 250 H180 Z" fill="#1a1e24" opacity="0.85"/>` : lights(seed)}
-    <path d="M220 620 L640 430 L1060 620 Z" fill="#1f6b3a"/>
-    <path d="M220 620 L640 430 L1060 620 Z" fill="none" stroke="#f4f1ea" stroke-width="4"/>
-    <circle cx="${quiet ? 640 : 760}" cy="${quiet ? 500 : 470}" r="16" fill="#f4f1ea"/>
-    <rect x="600" y="560" width="80" height="14" fill="#f4f1ea"/>`);
-}
-
-function soccer(post) {
-  const seed = hash(post.slug);
-  const blob = `${post.query} ${post.headline}`.toLowerCase();
-  const many = /thrash|seven|7 |blow|score/.test(blob);
-  const [home, away] = sides(post.query);
-  const left = teamColor(home, "#0e3b2e");
-  const right = teamColor(away, "#c60b1e");
-  const balls = many
-    ? `<circle cx="860" cy="470" r="22" fill="#f4f1ea"/><circle cx="910" cy="500" r="22" fill="#f4f1ea"/><circle cx="820" cy="505" r="22" fill="#f4f1ea"/>`
-    : `<circle cx="760" cy="500" r="28" fill="#f4f1ea"/><path d="M760 476 L748 492 H772 Z" fill="#222"/>`;
-  return frame(`${sky(seed, left, right)}
-    ${lights(seed)}
-    <rect x="0" y="540" width="1280" height="180" fill="#1c6b38"/>
-    <rect x="250" y="300" width="14" height="250" fill="#f4f1ea"/>
-    <rect x="980" y="300" width="14" height="250" fill="#f4f1ea"/>
-    <path d="M264 314 H966 V536 H264 Z" fill="none" stroke="#f4f1ea" stroke-width="6"/>
-    ${balls}`);
-}
-
-function stage() {
-  return frame(`
-    <rect width="1280" height="720" fill="#14080c"/>
-    <rect x="0" y="0" width="180" height="720" fill="#6e1420"/>
-    <rect x="1100" y="0" width="180" height="720" fill="#6e1420"/>
-    <ellipse cx="640" cy="250" rx="220" ry="40" fill="#f2d48a" opacity="0.25"/>
-    <rect x="600" y="300" width="16" height="220" fill="#222"/>
-    <circle cx="608" cy="292" r="28" fill="#2a2a2a"/>
-    <rect x="430" y="520" width="420" height="18" fill="#3a2418"/>`);
-}
-
-function hockey(post) {
-  const seed = hash(post.slug);
-  return frame(`${sky(seed, "#0e1a24", "#c4552a")}
-    <rect x="0" y="430" width="1280" height="290" fill="#d5e4ee"/>
-    <rect x="860" y="300" width="180" height="130" fill="none" stroke="#b9c4ce" stroke-width="8"/>
-    <path d="M868 308 H1032 V422 H868 Z" fill="none" stroke="#f4f1ea" stroke-width="3"/>
-    <circle cx="620" cy="520" r="18" fill="#161616"/>`);
-}
-
-function basketball(post) {
-  const seed = hash(post.slug);
-  return frame(`${sky(seed, "#241018", "#7d1d3f")}
-    <rect x="0" y="460" width="1280" height="260" fill="#8a4b2a"/>
-    <rect x="860" y="150" width="18" height="220" fill="#d7dde8"/>
-    <rect x="760" y="150" width="220" height="12" fill="#d7dde8"/>
-    <path d="M800 162 Q870 230 940 162" fill="none" stroke="#f4f1ea" stroke-width="4"/>
-    <circle cx="870" cy="210" r="26" fill="#c4552a"/>`);
-}
-
-function desk(post) {
-  const seed = hash(post.slug);
-  const wood = pick(seed, ["#3a2418", "#2a2118", "#1d2430"]);
-  return frame(`
-    <rect width="1280" height="720" fill="#12151b"/>
-    <rect x="0" y="420" width="1280" height="300" fill="${wood}"/>
-    <rect x="160" y="180" width="420" height="250" fill="#1a1e24"/>
-    <circle cx="860" cy="250" r="70" fill="#e7c27a" opacity="0.85"/>
-    <rect x="848" y="320" width="24" height="120" fill="#222"/>`);
-}
-
-export function paintCover(post) {
-  const kind = sceneKind(post);
-  if (kind === "baseball") return baseball(post);
-  if (kind === "soccer") return soccer(post);
-  if (kind === "stage") return stage();
-  if (kind === "football") return football(post);
-  if (kind === "hockey") return hockey(post);
-  if (kind === "basketball") return basketball(post);
-  return desk(post);
+export function coverPrompt(post) {
+  const scene = KNOWN[post.slug] ?? sceneFor(post);
+  return [
+    "Photorealistic documentary photograph, 35mm lens, natural color, sharp detail, horizontal 16:9 frame.",
+    scene,
+    "Everything is unmarked: no logos, no numbers, no crests, no brand names.",
+    "No readable text, no letters, no scoreboard digits, no watermarks, no captions.",
+    "No identifiable faces. Anyone in frame is distant, turned away, or hidden by a helmet.",
+    "No blood, no weapons, no graphic injury.",
+  ].join(" ");
 }
