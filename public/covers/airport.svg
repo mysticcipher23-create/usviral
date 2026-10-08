@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1280 720" width="1280" height="720">
+<defs>
+  <filter id="grain">
+    <feTurbulence type="fractalNoise" baseFrequency="0.8" numOctaves="2"/>
+    <feColorMatrix type="saturate" values="0"/>
+    <feComponentTransfer><feFuncA type="linear" slope="0.18"/></feComponentTransfer>
+  </filter>
+</defs>
+
+    <rect width="1280" height="720" fill="#14080c"/>
+    <rect x="0" y="0" width="180" height="720" fill="#6e1420"/>
+    <rect x="1100" y="0" width="180" height="720" fill="#6e1420"/>
+    <ellipse cx="640" cy="250" rx="220" ry="40" fill="#f2d48a" opacity="0.25"/>
+    <rect x="600" y="300" width="16" height="220" fill="#222"/>
+    <circle cx="608" cy="292" r="28" fill="#2a2a2a"/>
+    <rect x="430" y="520" width="420" height="18" fill="#3a2418"/>
+<rect width="1280" height="720" filter="url(#grain)"/>
+</svg>
