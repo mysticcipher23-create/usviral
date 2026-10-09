@@ -1,0 +1,861 @@
+{
+  "date": "2026-10-09",
+  "fetchedAt": "2026-10-09T12:17:58.367Z",
+  "geo": "US",
+  "window": "24h",
+  "sort": "volume",
+  "limit": 25,
+  "sourceUrl": "https://trends.google.com/trending?geo=US&hours=24&sort=search-volume",
+  "posts": [
+    {
+      "slug": "cowboys",
+      "query": "cowboys",
+      "title": "Cowboys",
+      "headline": "Buccaneers explode in third quarter against Cowboys to get first win",
+      "dek": "Buccaneers explode in third quarter against Cowboys to get first win.",
+      "angle": "Buccaneers explode in third quarter against Cowboys to get first win",
+      "traffic": "1000000",
+      "trafficLabel": "1M+",
+      "image": "/covers/cowboys.svg",
+      "imageSource": "",
+      "publishedAt": "2026-10-09T00:10:00.000Z",
+      "publishedLabel": "",
+      "rank": 1,
+      "blocks": [
+        {
+          "type": "p",
+          "text": "Cowboys is one of the 25 biggest searches in the United States today. Buccaneers explode in third quarter against Cowboys to get first win."
+        },
+        {
+          "type": "h2",
+          "text": "What is already on the record"
+        },
+        {
+          "type": "p",
+          "text": "Jerry Jones 'extraordinarily disappointed' after Cowboys loss to Buccaneers. Buccaneers dominate second half, stun Cowboys: What went wrong for Dallas?"
+        },
+        {
+          "type": "p",
+          "text": "People are searching “cowboys.” This page stays with those accounts and does not add a score, a name, or an outcome that was not in them."
+        }
+      ],
+      "sources": []
+    },
+    {
+      "slug": "cleveland-guardians",
+      "query": "cleveland guardians",
+      "title": "Cleveland Guardians",
+      "headline": "Guardians survive in Chicago, head home with chance to advance",
+      "dek": "Guardians survive in Chicago, head home with chance to advance.",
+      "angle": "Guardians survive in Chicago, head home with chance to advance",
+      "traffic": "500000",
+      "trafficLabel": "500K+",
+      "image": "/covers/cleveland-guardians.svg",
+      "imageSource": "",
+      "publishedAt": "2026-10-09T00:40:00.000Z",
+      "publishedLabel": "",
+      "rank": 2,
+      "blocks": [
+        {
+          "type": "p",
+          "text": "Cleveland Guardians is one of the 25 biggest searches in the United States today. Guardians survive in Chicago, head home with chance to advance."
+        },
+        {
+          "type": "h2",
+          "text": "What is already on the record"
+        },
+        {
+          "type": "p",
+          "text": "Jose Ramirez has completely changed Guardians' playoff story in 48 hours. Not done yet! Guardians storm back to force Game 5 in Cleveland."
+        },
+        {
+          "type": "p",
+          "text": "People are searching “cleveland guardians.” This page stays with those accounts and does not add a score, a name, or an outcome that was not in them."
+        }
+      ],
+      "sources": []
+    },
+    {
+      "slug": "fort-hood-shooter",
+      "query": "fort hood shooter",
+      "title": "Fort Hood Shooter",
+      "headline": "Public executions in the US were once a community spectacle and then they stopped",
+      "dek": "Public executions in the US were once a community spectacle and then they stopped.",
+      "angle": "Public executions in the US were once a community spectacle and then they stopped",
+      "traffic": "200000",
+      "trafficLabel": "200K+",
+      "image": "/covers/fort-hood-shooter.svg",
+      "imageSource": "",
+      "publishedAt": "2026-10-08T20:30:00.000Z",
+      "publishedLabel": "",
+      "rank": 3,
+      "blocks": [
+        {
+          "type": "p",
+          "text": "Fort Hood Shooter is one of the 25 biggest searches in the United States today. Public executions in the US were once a community spectacle and then they stopped."
+        },
+        {
+          "type": "h2",
+          "text": "What is already on the record"
+        },
+        {
+          "type": "p",
+          "text": "That is the account available when the edition was filed. It is the event people are opening."
+        },
+        {
+          "type": "p",
+          "text": "People are searching “fort hood shooter.” This page stays with those accounts and does not add a score, a name, or an outcome that was not in them."
+        }
+      ],
+      "sources": []
+    },
+    {
+      "slug": "ceedee-lamb",
+      "query": "ceedee lamb",
+      "title": "Ceedee Lamb",
+      "headline": "Cowboys injury updates: CeeDee Lamb, Tyler Guyton exits add to Dallas' list of concerns",
+      "dek": "Cowboys injury updates: CeeDee Lamb, Tyler Guyton exits add to Dallas' list of concerns.",
+      "angle": "Cowboys injury updates: CeeDee Lamb, Tyler Guyton exits add to Dallas' list of concerns",
+      "traffic": "100000",
+      "trafficLabel": "100K+",
+      "image": "/covers/ceedee-lamb.svg",
+      "imageSource": "",
+      "publishedAt": "2026-10-09T00:30:00.000Z",
+      "publishedLabel": "",
+      "rank": 4,
+      "blocks": [
+        {
+          "type": "p",
+          "text": "Ceedee Lamb is one of the 25 biggest searches in the United States today. Cowboys injury updates: CeeDee Lamb, Tyler Guyton exits add to Dallas' list of concerns."
+        },
+        {
+          "type": "h2",
+          "text": "What is already on the record"
+        },
+        {
+          "type": "p",
+          "text": "Cowboys close to within 24-16 on George Pickens' TD as CeeDee Lamb is questionable to return. CeeDee Lamb Questionable to Return on Thursday With Quad Injury - NFL News."
+        },
+        {
+          "type": "p",
+          "text": "People are searching “ceedee lamb.” This page stays with those accounts and does not add a score, a name, or an outcome that was not in them."
+        }
+      ],
+      "sources": []
+    },
+    {
+      "slug": "baker-mayfield",
+      "query": "baker mayfield",
+      "title": "Baker Mayfield",
+      "headline": "Sources - Baker Mayfield return hinges on when QB can grip football",
+      "dek": "Sources - Baker Mayfield return hinges on when QB can grip football.",
+      "angle": "Sources - Baker Mayfield return hinges on when QB can grip football",
+      "traffic": "100000",
+      "trafficLabel": "100K+",
+      "image": "/covers/baker-mayfield.svg",
+      "imageSource": "",
+      "publishedAt": "2026-10-09T00:20:00.000Z",
+      "publishedLabel": "",
+      "rank": 5,
+      "blocks": [
+        {
+          "type": "p",
+          "text": "Baker Mayfield is one of the 25 biggest searches in the United States today. Sources - Baker Mayfield return hinges on when QB can grip football."
+        },
+        {
+          "type": "h2",
+          "text": "What is already on the record"
+        },
+        {
+          "type": "p",
+          "text": "Is Baker Mayfield Playing Tonight? (Injury Update, Betting Impact for Bucs vs. Cowboys in NFL Week 5). When will Baker Mayfield return from injury for the Buccaneers?"
+        },
+        {
+          "type": "p",
+          "text": "People are searching “baker mayfield.” This page stays with those accounts and does not add a score, a name, or an outcome that was not in them."
+        }
+      ],
+      "sources": []
+    },
+    {
+      "slug": "76ers",
+      "query": "76ers",
+      "title": "76ers",
+      "headline": "LeBron James scores 10 points in 18 minutes in 76ers debut",
+      "dek": "LeBron James scores 10 points in 18 minutes in 76ers debut.",
+      "angle": "LeBron James scores 10 points in 18 minutes in 76ers debut",
+      "traffic": "100000",
+      "trafficLabel": "100K+",
+      "image": "/covers/76ers.svg",
+      "imageSource": "",
+      "publishedAt": "2026-10-08T23:30:00.000Z",
+      "publishedLabel": "",
+      "rank": 6,
+      "blocks": [
+        {
+          "type": "p",
+          "text": "76ers is one of the 25 biggest searches in the United States today. LeBron James scores 10 points in 18 minutes in 76ers debut."
+        },
+        {
+          "type": "h2",
+          "text": "What is already on the record"
+        },
+        {
+          "type": "p",
+          "text": "Philadelphia 76ers’ LeBron James Gets 100% Real About His Preseason Debut Vs. Brooklyn Nets. LeBron James: NBA superstar makes Philadelphia 76ers debut in pre-season defeat by Brooklyn Nets."
+        },
+        {
+          "type": "p",
+          "text": "People are searching “76ers.” This page stays with those accounts and does not add a score, a name, or an outcome that was not in them."
+        }
+      ],
+      "sources": []
+    },
+    {
+      "slug": "south-florida-vs-utsa",
+      "query": "south florida vs utsa",
+      "title": "South Florida vs Utsa",
+      "headline": "UTSA to host South Florida in nationally televised Thursday tilt",
+      "dek": "UTSA to host South Florida in nationally televised Thursday tilt.",
+      "angle": "UTSA to host South Florida in nationally televised Thursday tilt",
+      "traffic": "50000",
+      "trafficLabel": "50K+",
+      "image": "/covers/south-florida-vs-utsa.svg",
+      "imageSource": "",
+      "publishedAt": "2026-10-08T22:40:00.000Z",
+      "publishedLabel": "",
+      "rank": 7,
+      "blocks": [
+        {
+          "type": "p",
+          "text": "South Florida vs Utsa is one of the 25 biggest searches in the United States today. UTSA to host South Florida in nationally televised Thursday tilt."
+        },
+        {
+          "type": "h2",
+          "text": "The result people are checking"
+        },
+        {
+          "type": "p",
+          "text": "South Florida Bulls vs. UTSA Roadrunners Live Score and Stats. UTSA to host ESPN’s ‘SportsCenter’ at Alamodome."
+        },
+        {
+          "type": "p",
+          "text": "People are searching “south florida vs utsa.” This page stays with those accounts and does not add a score, a name, or an outcome that was not in them."
+        }
+      ],
+      "sources": []
+    },
+    {
+      "slug": "high-wind-watch",
+      "query": "high wind watch",
+      "title": "High Wind Watch",
+      "headline": "Hurricane Isaias live updates: Gulf Coast evacuations underway as storm nears Category 3 strength",
+      "dek": "Hurricane Isaias live updates: Gulf Coast evacuations underway as storm nears Category 3 strength.",
+      "angle": "Hurricane Isaias live updates: Gulf Coast evacuations underway as storm nears Category 3 strength",
+      "traffic": "50000",
+      "trafficLabel": "50K+",
+      "image": "/covers/high-wind-watch.svg",
+      "imageSource": "",
+      "publishedAt": "2026-10-08T15:50:00.000Z",
+      "publishedLabel": "",
+      "rank": 8,
+      "blocks": [
+        {
+          "type": "p",
+          "text": "High Wind Watch is one of the 25 biggest searches in the United States today. Hurricane Isaias live updates: Gulf Coast evacuations underway as storm nears Category 3 strength."
+        },
+        {
+          "type": "h2",
+          "text": "What is already on the record"
+        },
+        {
+          "type": "p",
+          "text": "Isaias is expected to strengthen into a major hurricane as it nears the US Gulf Coast. Dangerous Hurricane Isaias intensifies, could be strong Cat 2 at landfall."
+        },
+        {
+          "type": "p",
+          "text": "People are searching “high wind watch.” This page stays with those accounts and does not add a score, a name, or an outcome that was not in them."
+        }
+      ],
+      "sources": []
+    },
+    {
+      "slug": "green-card",
+      "query": "green card",
+      "title": "Green Card",
+      "headline": "Trump administration freezes green cards for Microsoft, IT firms, probes universities",
+      "dek": "Trump administration freezes green cards for Microsoft, IT firms, probes universities.",
+      "angle": "Trump administration freezes green cards for Microsoft, IT firms, probes universities",
+      "traffic": "50000",
+      "trafficLabel": "50K+",
+      "image": "/covers/green-card.svg",
+      "imageSource": "",
+      "publishedAt": "2026-10-09T09:40:00.000Z",
+      "publishedLabel": "",
+      "rank": 9,
+      "blocks": [
+        {
+          "type": "p",
+          "text": "Green Card is one of the 25 biggest searches in the United States today. Trump administration freezes green cards for Microsoft, IT firms, probes universities."
+        },
+        {
+          "type": "h2",
+          "text": "What is already on the record"
+        },
+        {
+          "type": "p",
+          "text": "World in Brief: White House suspends tech companies from visa programme; Polanski fails to become MP. Immigration split-screen: Microsoft gets a crackdown and a medal."
+        },
+        {
+          "type": "p",
+          "text": "People are searching “green card.” This page stays with those accounts and does not add a score, a name, or an outcome that was not in them."
+        }
+      ],
+      "sources": []
+    },
+    {
+      "slug": "souplantation",
+      "query": "souplantation",
+      "title": "Souplantation",
+      "headline": "Souplantation will return to Orange County in 2027. ‘There is a god’",
+      "dek": "Souplantation will return to Orange County in 2027. ‘There is a god’.",
+      "angle": "Souplantation will return to Orange County in 2027. ‘There is a god’",
+      "traffic": "20000",
+      "trafficLabel": "20K+",
+      "image": "/covers/souplantation.svg",
+      "imageSource": "",
+      "publishedAt": "2026-10-08T23:50:00.000Z",
+      "publishedLabel": "",
+      "rank": 10,
+      "blocks": [
+        {
+          "type": "p",
+          "text": "Souplantation is one of the 25 biggest searches in the United States today. Souplantation will return to Orange County in 2027. ‘There is a god’."
+        },
+        {
+          "type": "h2",
+          "text": "What is already on the record"
+        },
+        {
+          "type": "p",
+          "text": "Souplantation confirms California comeback. Here's where. Salad bar buffet Souplantation plans a comeback in Orange County."
+        },
+        {
+          "type": "p",
+          "text": "People are searching “souplantation.” This page stays with those accounts and does not add a score, a name, or an outcome that was not in them."
+        }
+      ],
+      "sources": []
+    },
+    {
+      "slug": "dak-prescott",
+      "query": "dak prescott",
+      "title": "Dak Prescott",
+      "headline": "Cowboys' Prescott irked by stadium worker's callout after loss",
+      "dek": "Cowboys' Prescott irked by stadium worker's callout after loss.",
+      "angle": "Cowboys' Prescott irked by stadium worker's callout after loss",
+      "traffic": "20000",
+      "trafficLabel": "20K+",
+      "image": "/covers/dak-prescott.svg",
+      "imageSource": "",
+      "publishedAt": "2026-10-08T23:40:00.000Z",
+      "publishedLabel": "",
+      "rank": 11,
+      "blocks": [
+        {
+          "type": "p",
+          "text": "Dak Prescott is one of the 25 biggest searches in the United States today. Cowboys' Prescott irked by stadium worker's callout after loss."
+        },
+        {
+          "type": "h2",
+          "text": "What is already on the record"
+        },
+        {
+          "type": "p",
+          "text": "Dallas Cowboys QB Demands Worker Be Removed for Calling Him Out on ‘Embarrassing’ Loss. GOTI? After Cowboys' performance vs. Buccaneers, 'embarrassing' phrase is a better fit."
+        },
+        {
+          "type": "p",
+          "text": "People are searching “dak prescott.” This page stays with those accounts and does not add a score, a name, or an outcome that was not in them."
+        }
+      ],
+      "sources": []
+    },
+    {
+      "slug": "earthquake-now",
+      "query": "earthquake now",
+      "title": "Earthquake Now",
+      "headline": "Earthquake in Los Angeles County: 3.2-magnitude quake rattles Long Beach area",
+      "dek": "Earthquake in Los Angeles County: 3.2-magnitude quake rattles Long Beach area.",
+      "angle": "Earthquake in Los Angeles County: 3.2-magnitude quake rattles Long Beach area",
+      "traffic": "20000",
+      "trafficLabel": "20K+",
+      "image": "/covers/earthquake-now.svg",
+      "imageSource": "",
+      "publishedAt": "2026-10-09T07:40:00.000Z",
+      "publishedLabel": "",
+      "rank": 12,
+      "blocks": [
+        {
+          "type": "p",
+          "text": "Earthquake Now is one of the 25 biggest searches in the United States today. Earthquake in Los Angeles County: 3.2-magnitude quake rattles Long Beach area."
+        },
+        {
+          "type": "h2",
+          "text": "What is already on the record"
+        },
+        {
+          "type": "p",
+          "text": "Earthquake preparedness event in downtown LA. Earthquake strikes northeast of Bakersfield, near Kern Canyon fault."
+        },
+        {
+          "type": "p",
+          "text": "People are searching “earthquake now.” This page stays with those accounts and does not add a score, a name, or an outcome that was not in them."
+        }
+      ],
+      "sources": []
+    },
+    {
+      "slug": "mortgage-rates",
+      "query": "mortgage rates",
+      "title": "Mortgage Rates",
+      "headline": "Mortgage rates rise for seventh straight week, squeezing homebuyers",
+      "dek": "Mortgage rates rise for seventh straight week, squeezing homebuyers.",
+      "angle": "Mortgage rates rise for seventh straight week, squeezing homebuyers",
+      "traffic": "20000",
+      "trafficLabel": "20K+",
+      "image": "/covers/mortgage-rates.svg",
+      "imageSource": "",
+      "publishedAt": "2026-10-08T12:40:00.000Z",
+      "publishedLabel": "",
+      "rank": 13,
+      "blocks": [
+        {
+          "type": "p",
+          "text": "Mortgage Rates is one of the 25 biggest searches in the United States today. Mortgage rates rise for seventh straight week, squeezing homebuyers."
+        },
+        {
+          "type": "h2",
+          "text": "What is already on the record"
+        },
+        {
+          "type": "p",
+          "text": "If You’re Rushing to Lock In a Mortgage Rate, Here’s What You Need to Know. Here's the latest sticker shock: Borrowing for a mortgage — or a car."
+        },
+        {
+          "type": "p",
+          "text": "People are searching “mortgage rates.” This page stays with those accounts and does not add a score, a name, or an outcome that was not in them."
+        }
+      ],
+      "sources": []
+    },
+    {
+      "slug": "wladimir-klitschko-guardianship-kaya",
+      "query": "wladimir klitschko guardianship kaya",
+      "title": "Wladimir Klitschko Guardianship Kaya",
+      "headline": "Hayden Panettiere, Wladimir Klitschko’s Daughter, 11, Appears in Court Alongside Dad",
+      "dek": "Hayden Panettiere, Wladimir Klitschko’s Daughter, 11, Appears in Court Alongside Dad.",
+      "angle": "Hayden Panettiere, Wladimir Klitschko’s Daughter, 11, Appears in Court Alongside Dad",
+      "traffic": "20000",
+      "trafficLabel": "20K+",
+      "image": "/covers/wladimir-klitschko-guardianship-kaya.svg",
+      "imageSource": "",
+      "publishedAt": "2026-10-08T20:10:00.000Z",
+      "publishedLabel": "",
+      "rank": 14,
+      "blocks": [
+        {
+          "type": "p",
+          "text": "Wladimir Klitschko Guardianship Kaya is one of the 25 biggest searches in the United States today. Hayden Panettiere, Wladimir Klitschko’s Daughter, 11, Appears in Court Alongside Dad."
+        },
+        {
+          "type": "h2",
+          "text": "What is already on the record"
+        },
+        {
+          "type": "p",
+          "text": "Hayden Panettiere's ex Wladimir Klitschko gets legal status to protect their daughter's inheritance. Hayden Panettiere's ex-fiance claims her jewelry was sold to pawn shop."
+        },
+        {
+          "type": "p",
+          "text": "People are searching “wladimir klitschko guardianship kaya.” This page stays with those accounts and does not add a score, a name, or an outcome that was not in them."
+        }
+      ],
+      "sources": []
+    },
+    {
+      "slug": "mo-state-vs-wku",
+      "query": "mo state vs wku",
+      "title": "Mo State vs Wku",
+      "headline": "Western Kentucky 34-13 Missouri State (Oct 8, 2026) Game Recap",
+      "dek": "Western Kentucky 34-13 Missouri State (Oct 8, 2026) Game Recap.",
+      "angle": "Western Kentucky 34-13 Missouri State (Oct 8, 2026) Game Recap",
+      "traffic": "20000",
+      "trafficLabel": "20K+",
+      "image": "/covers/mo-state-vs-wku.svg",
+      "imageSource": "",
+      "publishedAt": "2026-10-08T22:10:00.000Z",
+      "publishedLabel": "",
+      "rank": 15,
+      "blocks": [
+        {
+          "type": "p",
+          "text": "Mo State vs Wku is one of the 25 biggest searches in the United States today. Western Kentucky 34-13 Missouri State (Oct 8, 2026) Game Recap."
+        },
+        {
+          "type": "h2",
+          "text": "The result people are checking"
+        },
+        {
+          "type": "p",
+          "text": "WKU Football looks for first conference win against Missouri State."
+        },
+        {
+          "type": "p",
+          "text": "People are searching “mo state vs wku.” This page stays with those accounts and does not add a score, a name, or an outcome that was not in them."
+        }
+      ],
+      "sources": []
+    },
+    {
+      "slug": "bladen-county-military-aircraft-fire",
+      "query": "bladen county military aircraft fire",
+      "title": "Bladen County Military Aircraft Fire",
+      "headline": "4 Marines Receiving Medical Care After Osprey Mishap",
+      "dek": "4 Marines Receiving Medical Care After Osprey Mishap.",
+      "angle": "4 Marines Receiving Medical Care After Osprey Mishap",
+      "traffic": "20000",
+      "trafficLabel": "20K+",
+      "image": "/covers/bladen-county-military-aircraft-fire.svg",
+      "imageSource": "",
+      "publishedAt": "2026-10-08T19:00:00.000Z",
+      "publishedLabel": "",
+      "rank": 16,
+      "blocks": [
+        {
+          "type": "p",
+          "text": "Bladen County Military Aircraft Fire is one of the 25 biggest searches in the United States today. 4 Marines Receiving Medical Care After Osprey Mishap."
+        },
+        {
+          "type": "h2",
+          "text": "What is already on the record"
+        },
+        {
+          "type": "p",
+          "text": "Crews battle military aircraft fire in Bladen County. Marine Corps Osprey catches fire, makes emergency landing in Bladen County."
+        },
+        {
+          "type": "p",
+          "text": "People are searching “bladen county military aircraft fire.” This page stays with those accounts and does not add a score, a name, or an outcome that was not in them."
+        }
+      ],
+      "sources": []
+    },
+    {
+      "slug": "santos-vs-flamengo",
+      "query": "santos vs flamengo",
+      "title": "Santos vs Flamengo",
+      "headline": "Jorginho critica decisão de Daronco em Santos x Flamengo: \"Conseguiu fazer o pior cenário possível\"",
+      "dek": "Jorginho critica decisão de Daronco em Santos x Flamengo: \"Conseguiu fazer o pior cenário possível\".",
+      "angle": "Jorginho critica decisão de Daronco em Santos x Flamengo: \"Conseguiu fazer o pior cenário possível\"",
+      "traffic": "20000",
+      "trafficLabel": "20K+",
+      "image": "/covers/santos-vs-flamengo.svg",
+      "imageSource": "",
+      "publishedAt": "2026-10-08T21:40:00.000Z",
+      "publishedLabel": "",
+      "rank": 17,
+      "blocks": [
+        {
+          "type": "p",
+          "text": "Santos vs Flamengo is one of the 25 biggest searches in the United States today. Jorginho critica decisão de Daronco em Santos x Flamengo: \"Conseguiu fazer o pior cenário possível\"."
+        },
+        {
+          "type": "h2",
+          "text": "The result people are checking"
+        },
+        {
+          "type": "p",
+          "text": "Jorginho expulso e pênaltis: ex-árbitros analisam polêmicas em Santos x Fla. Com dois gols de Neymar, Santos e Flamengo empatam em jogo polêmico na Vila."
+        },
+        {
+          "type": "p",
+          "text": "People are searching “santos vs flamengo.” This page stays with those accounts and does not add a score, a name, or an outcome that was not in them."
+        }
+      ],
+      "sources": []
+    },
+    {
+      "slug": "south-alabama-vs-ar-state",
+      "query": "south alabama vs ar state",
+      "title": "South Alabama vs Ar State",
+      "headline": "South Alabama Jaguars vs. Arkansas State Red Wolves Live Score and Stats",
+      "dek": "South Alabama Jaguars vs. Arkansas State Red Wolves Live Score and Stats.",
+      "angle": "South Alabama Jaguars vs. Arkansas State Red Wolves Live Score and Stats",
+      "traffic": "20000",
+      "trafficLabel": "20K+",
+      "image": "/covers/south-alabama-vs-ar-state.svg",
+      "imageSource": "",
+      "publishedAt": "2026-10-08T22:40:00.000Z",
+      "publishedLabel": "",
+      "rank": 18,
+      "blocks": [
+        {
+          "type": "p",
+          "text": "South Alabama vs Ar State is one of the 25 biggest searches in the United States today. South Alabama Jaguars vs. Arkansas State Red Wolves Live Score and Stats."
+        },
+        {
+          "type": "h2",
+          "text": "The result people are checking"
+        },
+        {
+          "type": "p",
+          "text": "South Alabama outlasts Arkansas State in highest-scoring FBS game of season. South Alabama Jaguars vs. Arkansas State Red Wolves: Full Highlights."
+        },
+        {
+          "type": "p",
+          "text": "People are searching “south alabama vs ar state.” This page stays with those accounts and does not add a score, a name, or an outcome that was not in them."
+        }
+      ],
+      "sources": []
+    },
+    {
+      "slug": "peyton-manning-son-football-offers",
+      "query": "peyton manning son football offers",
+      "title": "Peyton Manning Son Football Offers",
+      "headline": "Marshall Manning's first big decision is looking like the right one",
+      "dek": "Marshall Manning's first big decision is looking like the right one.",
+      "angle": "Marshall Manning's first big decision is looking like the right one",
+      "traffic": "20000",
+      "trafficLabel": "20K+",
+      "image": "/covers/peyton-manning-son-football-offers.svg",
+      "imageSource": "",
+      "publishedAt": "2026-10-08T15:00:00.000Z",
+      "publishedLabel": "",
+      "rank": 19,
+      "blocks": [
+        {
+          "type": "p",
+          "text": "Peyton Manning Son Football Offers is one of the 25 biggest searches in the United States today. Marshall Manning's first big decision is looking like the right one."
+        },
+        {
+          "type": "h2",
+          "text": "What is already on the record"
+        },
+        {
+          "type": "p",
+          "text": "Peyton Manning's freshman son gets rocked, but fans are more stunned at all the scholarship offers. Marshall Manning, 15-year-old son of Hall of Famer Peyton, already has multiple college offers on table."
+        },
+        {
+          "type": "p",
+          "text": "People are searching “peyton manning son football offers.” This page stays with those accounts and does not add a score, a name, or an outcome that was not in them."
+        }
+      ],
+      "sources": []
+    },
+    {
+      "slug": "mms-marvel-candy-collection",
+      "query": "mms marvel candy collection",
+      "title": "Mms Marvel Candy Collection",
+      "headline": "M&M’s Is Bringing Back a Fan-Favorite Collaboration That’s Guaranteed To Sell Out",
+      "dek": "M&M’s Is Bringing Back a Fan-Favorite Collaboration That’s Guaranteed To Sell Out.",
+      "angle": "M&M’s Is Bringing Back a Fan-Favorite Collaboration That’s Guaranteed To Sell Out",
+      "traffic": "20000",
+      "trafficLabel": "20K+",
+      "image": "/covers/mms-marvel-candy-collection.svg",
+      "imageSource": "",
+      "publishedAt": "2026-10-08T16:10:00.000Z",
+      "publishedLabel": "",
+      "rank": 20,
+      "blocks": [
+        {
+          "type": "p",
+          "text": "Mms Marvel Candy Collection is one of the 25 biggest searches in the United States today. M&M’s Is Bringing Back a Fan-Favorite Collaboration That’s Guaranteed To Sell Out."
+        },
+        {
+          "type": "h2",
+          "text": "What is already on the record"
+        },
+        {
+          "type": "p",
+          "text": "M&M'S and Marvel unite for a U.S. collaboration between two fan favorites across the Marvel Universe and the candy aisle. M&M’s Marvel candy returns ahead of ‘Avengers: Doomsday’: Prices, Walmart exclusive and where to buy."
+        },
+        {
+          "type": "p",
+          "text": "People are searching “mms marvel candy collection.” This page stays with those accounts and does not add a score, a name, or an outcome that was not in them."
+        }
+      ],
+      "sources": []
+    },
+    {
+      "slug": "cassidy-hutchinson",
+      "query": "cassidy hutchinson",
+      "title": "Cassidy Hutchinson",
+      "headline": "Federal grand jury hears evidence in probe of former Trump aide Cassidy Hutchinson's Jan. 6 testimony: source",
+      "dek": "Federal grand jury hears evidence in probe of former Trump aide Cassidy Hutchinson's Jan. 6 testimony: source.",
+      "angle": "Federal grand jury hears evidence in probe of former Trump aide Cassidy Hutchinson's Jan. 6 testimony: source",
+      "traffic": "20000",
+      "trafficLabel": "20K+",
+      "image": "/covers/cassidy-hutchinson.svg",
+      "imageSource": "",
+      "publishedAt": "2026-10-08T17:50:00.000Z",
+      "publishedLabel": "",
+      "rank": 21,
+      "blocks": [
+        {
+          "type": "p",
+          "text": "Cassidy Hutchinson is one of the 25 biggest searches in the United States today. Federal grand jury hears evidence in probe of former Trump aide Cassidy Hutchinson's Jan. 6 testimony: source."
+        },
+        {
+          "type": "h2",
+          "text": "What is already on the record"
+        },
+        {
+          "type": "p",
+          "text": "DOJ grand jury investigating former White House aide Cassidy Hutchinson. DoJ seeks to charge ex-Trump aide who gave key testimony on January 6 attack."
+        },
+        {
+          "type": "p",
+          "text": "People are searching “cassidy hutchinson.” This page stays with those accounts and does not add a score, a name, or an outcome that was not in them."
+        }
+      ],
+      "sources": []
+    },
+    {
+      "slug": "ice-bronx",
+      "query": "ice bronx",
+      "title": "Ice Bronx",
+      "headline": "ICE agent shoots man in New York City",
+      "dek": "ICE agent shoots man in New York City.",
+      "angle": "ICE agent shoots man in New York City",
+      "traffic": "20000",
+      "trafficLabel": "20K+",
+      "image": "/covers/ice-bronx.svg",
+      "imageSource": "",
+      "publishedAt": "2026-10-08T23:50:00.000Z",
+      "publishedLabel": "",
+      "rank": 22,
+      "blocks": [
+        {
+          "type": "p",
+          "text": "Ice Bronx is one of the 25 biggest searches in the United States today. ICE agent shoots man in New York City."
+        },
+        {
+          "type": "h2",
+          "text": "What is already on the record"
+        },
+        {
+          "type": "p",
+          "text": "Live updates: NYC Mayor Mamdani calls on Trump to halt ICE operations in the city after man is shot. ICE Agent Shoots Man During Arrest Attempt in New York Neighborhood."
+        },
+        {
+          "type": "p",
+          "text": "People are searching “ice bronx.” This page stays with those accounts and does not add a score, a name, or an outcome that was not in them."
+        }
+      ],
+      "sources": []
+    },
+    {
+      "slug": "spurs-game",
+      "query": "spurs game",
+      "title": "Spurs Game",
+      "headline": "Game Recap: Hawks 123, Spurs 116",
+      "dek": "Game Recap: Hawks 123, Spurs 116.",
+      "angle": "Game Recap: Hawks 123, Spurs 116",
+      "traffic": "20000",
+      "trafficLabel": "20K+",
+      "image": "/covers/spurs-game.svg",
+      "imageSource": "",
+      "publishedAt": "2026-10-08T21:00:00.000Z",
+      "publishedLabel": "",
+      "rank": 23,
+      "blocks": [
+        {
+          "type": "p",
+          "text": "Spurs Game is one of the 25 biggest searches in the United States today. Game Recap: Hawks 123, Spurs 116."
+        },
+        {
+          "type": "h2",
+          "text": "What is already on the record"
+        },
+        {
+          "type": "p",
+          "text": "3 way-too-early takeaways after Victor Wembanyama, Spurs lost NBA Preseason opener to Hawks."
+        },
+        {
+          "type": "p",
+          "text": "People are searching “spurs game.” This page stays with those accounts and does not add a score, a name, or an outcome that was not in them."
+        }
+      ],
+      "sources": []
+    },
+    {
+      "slug": "court",
+      "query": "court",
+      "title": "Court",
+      "headline": "Supreme Court, for Now, Sides With Trump Administration in TV Ad Fight",
+      "dek": "Supreme Court, for Now, Sides With Trump Administration in TV Ad Fight.",
+      "angle": "Supreme Court, for Now, Sides With Trump Administration in TV Ad Fight",
+      "traffic": "20000",
+      "trafficLabel": "20K+",
+      "image": "/covers/court.svg",
+      "imageSource": "",
+      "publishedAt": "2026-10-08T21:20:00.000Z",
+      "publishedLabel": "",
+      "rank": 24,
+      "blocks": [
+        {
+          "type": "p",
+          "text": "Court is one of the 25 biggest searches in the United States today. Supreme Court, for Now, Sides With Trump Administration in TV Ad Fight."
+        },
+        {
+          "type": "h2",
+          "text": "What is already on the record"
+        },
+        {
+          "type": "p",
+          "text": "US Supreme Court won't speed up Democratic challenge to FCC political ad policy, for now. Supreme Court again sides with Trump in dispute over campaign ads."
+        },
+        {
+          "type": "p",
+          "text": "People are searching “court.” This page stays with those accounts and does not add a score, a name, or an outcome that was not in them."
+        }
+      ],
+      "sources": []
+    },
+    {
+      "slug": "jeremy-strong",
+      "query": "jeremy strong",
+      "title": "Jeremy Strong",
+      "headline": "Aaron Sorkin on ‘The Social Reckoning’",
+      "dek": "Aaron Sorkin on ‘The Social Reckoning’.",
+      "angle": "Aaron Sorkin on ‘The Social Reckoning’",
+      "traffic": "20000",
+      "trafficLabel": "20K+",
+      "image": "/covers/jeremy-strong.svg",
+      "imageSource": "",
+      "publishedAt": "2026-10-09T09:20:00.000Z",
+      "publishedLabel": "",
+      "rank": 25,
+      "blocks": [
+        {
+          "type": "p",
+          "text": "Jeremy Strong is one of the 25 biggest searches in the United States today. Aaron Sorkin on ‘The Social Reckoning’."
+        },
+        {
+          "type": "h2",
+          "text": "What is already on the record"
+        },
+        {
+          "type": "p",
+          "text": "Aaron Sorkin’s Farce to Be Reckoned With. Aaron Sorkin warns of Facebook's recklessness in 'The Social Reckoning'."
+        },
+        {
+          "type": "p",
+          "text": "People are searching “jeremy strong.” This page stays with those accounts and does not add a score, a name, or an outcome that was not in them."
+        }
+      ],
+      "sources": []
+    }
+  ]
+}
