@@ -1,0 +1,861 @@
+{
+  "date": "2026-10-11",
+  "fetchedAt": "2026-10-11T12:17:46.197Z",
+  "geo": "US",
+  "window": "24h",
+  "sort": "volume",
+  "limit": 25,
+  "sourceUrl": "https://trends.google.com/trending?geo=US&hours=24&sort=search-volume",
+  "posts": [
+    {
+      "slug": "arch-manning",
+      "query": "arch manning",
+      "title": "Arch Manning",
+      "headline": "Best of Week 6: A Red River game winner and upsets galore in the SEC",
+      "dek": "Best of Week 6: A Red River game winner and upsets galore in the SEC.",
+      "angle": "Best of Week 6: A Red River game winner and upsets galore in the SEC",
+      "traffic": "1000000",
+      "trafficLabel": "1M+",
+      "image": "/covers/arch-manning.svg",
+      "imageSource": "",
+      "publishedAt": "2026-10-10T15:30:00.000Z",
+      "publishedLabel": "",
+      "rank": 1,
+      "blocks": [
+        {
+          "type": "p",
+          "text": "Arch Manning is one of the 25 biggest searches in the United States today. Best of Week 6: A Red River game winner and upsets galore in the SEC."
+        },
+        {
+          "type": "h2",
+          "text": "What is already on the record"
+        },
+        {
+          "type": "p",
+          "text": "Red River Rivalry: What to know for the 2026 Texas-OU game. Oklahoma stuns No. 1 Texas in a Red River Rivalry thriller."
+        },
+        {
+          "type": "p",
+          "text": "People are searching “arch manning.” This page stays with those accounts and does not add a score, a name, or an outcome that was not in them."
+        }
+      ],
+      "sources": []
+    },
+    {
+      "slug": "alabama-football",
+      "query": "alabama football",
+      "title": "Alabama Football",
+      "headline": "Georgia rallies, posts first victory at Alabama since 2007",
+      "dek": "Georgia rallies, posts first victory at Alabama since 2007.",
+      "angle": "Georgia rallies, posts first victory at Alabama since 2007",
+      "traffic": "1000000",
+      "trafficLabel": "1M+",
+      "image": "/covers/alabama-football.svg",
+      "imageSource": "",
+      "publishedAt": "2026-10-10T23:40:00.000Z",
+      "publishedLabel": "",
+      "rank": 2,
+      "blocks": [
+        {
+          "type": "p",
+          "text": "Alabama Football is one of the 25 biggest searches in the United States today. Georgia rallies, posts first victory at Alabama since 2007."
+        },
+        {
+          "type": "h2",
+          "text": "What is already on the record"
+        },
+        {
+          "type": "p",
+          "text": "3 takeaways from Alabama’s home loss to Georgia. Kirby Smart has entered his most dangerous era after Georgia’s aggressive win over Alabama."
+        },
+        {
+          "type": "p",
+          "text": "People are searching “alabama football.” This page stays with those accounts and does not add a score, a name, or an outcome that was not in them."
+        }
+      ],
+      "sources": []
+    },
+    {
+      "slug": "marvin-harrison-jr",
+      "query": "marvin harrison jr",
+      "title": "Marvin Harrison Jr",
+      "headline": "Sources - Cardinals finalizing deal to trade WR Marvin Harrison Jr",
+      "dek": "Sources - Cardinals finalizing deal to trade WR Marvin Harrison Jr.",
+      "angle": "Sources - Cardinals finalizing deal to trade WR Marvin Harrison Jr",
+      "traffic": "500000",
+      "trafficLabel": "500K+",
+      "image": "/covers/marvin-harrison-jr.svg",
+      "imageSource": "",
+      "publishedAt": "2026-10-10T15:00:00.000Z",
+      "publishedLabel": "",
+      "rank": 3,
+      "blocks": [
+        {
+          "type": "p",
+          "text": "Marvin Harrison Jr is one of the 25 biggest searches in the United States today. Sources - Cardinals finalizing deal to trade WR Marvin Harrison Jr."
+        },
+        {
+          "type": "h2",
+          "text": "What is already on the record"
+        },
+        {
+          "type": "p",
+          "text": "‘They Could Definitely Use Him’ — Shannon Sharpe and Chad Johnson Name Marvin Harrison Jr.’s Ideal Landing Spot Amid Trade Rumors. NFL Network: Cardinals finalizing trade of WR Marvin Harrison Jr."
+        },
+        {
+          "type": "p",
+          "text": "People are searching “marvin harrison jr.” This page stays with those accounts and does not add a score, a name, or an outcome that was not in them."
+        }
+      ],
+      "sources": []
+    },
+    {
+      "slug": "indiana-football",
+      "query": "indiana football",
+      "title": "Indiana Football",
+      "headline": "What Indiana coach Curt Cignetti said after comeback win at Nebraska",
+      "dek": "What Indiana coach Curt Cignetti said after comeback win at Nebraska.",
+      "angle": "What Indiana coach Curt Cignetti said after comeback win at Nebraska",
+      "traffic": "500000",
+      "trafficLabel": "500K+",
+      "image": "/covers/indiana-football.svg",
+      "imageSource": "",
+      "publishedAt": "2026-10-10T16:20:00.000Z",
+      "publishedLabel": "",
+      "rank": 4,
+      "blocks": [
+        {
+          "type": "p",
+          "text": "Indiana Football is one of the 25 biggest searches in the United States today. What Indiana coach Curt Cignetti said after comeback win at Nebraska."
+        },
+        {
+          "type": "h2",
+          "text": "What is already on the record"
+        },
+        {
+          "type": "p",
+          "text": "Huskers Push No. 7 Hoosiers to Limit - University of Nebraska. Husker fans pack Lincoln for Big Noon Kickoff."
+        },
+        {
+          "type": "p",
+          "text": "People are searching “indiana football.” This page stays with those accounts and does not add a score, a name, or an outcome that was not in them."
+        }
+      ],
+      "sources": []
+    },
+    {
+      "slug": "cleveland-guardians",
+      "query": "cleveland guardians",
+      "title": "Cleveland Guardians",
+      "headline": "Williams' short-rest gem helps Guardians complete ALDS comeback",
+      "dek": "Williams' short-rest gem helps Guardians complete ALDS comeback.",
+      "angle": "Williams' short-rest gem helps Guardians complete ALDS comeback",
+      "traffic": "500000",
+      "trafficLabel": "500K+",
+      "image": "/covers/cleveland-guardians.svg",
+      "imageSource": "",
+      "publishedAt": "2026-10-11T00:20:00.000Z",
+      "publishedLabel": "",
+      "rank": 5,
+      "blocks": [
+        {
+          "type": "p",
+          "text": "Cleveland Guardians is one of the 25 biggest searches in the United States today. Williams' short-rest gem helps Guardians complete ALDS comeback."
+        },
+        {
+          "type": "h2",
+          "text": "What is already on the record"
+        },
+        {
+          "type": "p",
+          "text": "6 incredible stats from the Guardians' 21-K, Ramírez-fueled clincher. Guardians complete ALDS comeback over White Sox, strike out record 21 batters to set up date with Rays."
+        },
+        {
+          "type": "p",
+          "text": "People are searching “cleveland guardians.” This page stays with those accounts and does not add a score, a name, or an outcome that was not in them."
+        }
+      ],
+      "sources": []
+    },
+    {
+      "slug": "maryland-vs-ohio-state",
+      "query": "maryland vs ohio state",
+      "title": "Maryland vs Ohio State",
+      "headline": "Ryan Day loses his cool as Ohio State's sloppiness takes center stage",
+      "dek": "Ryan Day loses his cool as Ohio State's sloppiness takes center stage.",
+      "angle": "Ryan Day loses his cool as Ohio State's sloppiness takes center stage",
+      "traffic": "200000",
+      "trafficLabel": "200K+",
+      "image": "/covers/maryland-vs-ohio-state.svg",
+      "imageSource": "",
+      "publishedAt": "2026-10-10T19:00:00.000Z",
+      "publishedLabel": "",
+      "rank": 6,
+      "blocks": [
+        {
+          "type": "p",
+          "text": "Maryland vs Ohio State is one of the 25 biggest searches in the United States today. Ryan Day loses his cool as Ohio State's sloppiness takes center stage."
+        },
+        {
+          "type": "h2",
+          "text": "The result people are checking"
+        },
+        {
+          "type": "p",
+          "text": "Ohio State 45-16 Maryland (Oct 10, 2026) Game Recap."
+        },
+        {
+          "type": "p",
+          "text": "People are searching “maryland vs ohio state.” This page stays with those accounts and does not add a score, a name, or an outcome that was not in them."
+        }
+      ],
+      "sources": []
+    },
+    {
+      "slug": "tennessee-vs-arkansas",
+      "query": "tennessee vs arkansas",
+      "title": "Tennessee vs Arkansas",
+      "headline": "Tennessee football has to rally to beat Arkansas 24-17 in Fayetteville",
+      "dek": "Tennessee football has to rally to beat Arkansas 24-17 in Fayetteville.",
+      "angle": "Tennessee football has to rally to beat Arkansas 24-17 in Fayetteville",
+      "traffic": "200000",
+      "trafficLabel": "200K+",
+      "image": "/covers/tennessee-vs-arkansas.svg",
+      "imageSource": "",
+      "publishedAt": "2026-10-10T13:40:00.000Z",
+      "publishedLabel": "",
+      "rank": 7,
+      "blocks": [
+        {
+          "type": "p",
+          "text": "Tennessee vs Arkansas is one of the 25 biggest searches in the United States today. Tennessee football has to rally to beat Arkansas 24-17 in Fayetteville."
+        },
+        {
+          "type": "h2",
+          "text": "The result people are checking"
+        },
+        {
+          "type": "p",
+          "text": "Late Score Secures #15/14 Vols' Win in Fayetteville. 10 Things To Know."
+        },
+        {
+          "type": "p",
+          "text": "People are searching “tennessee vs arkansas.” This page stays with those accounts and does not add a score, a name, or an outcome that was not in them."
+        }
+      ],
+      "sources": []
+    },
+    {
+      "slug": "ucla-vs-oregon",
+      "query": "ucla vs oregon",
+      "title": "Ucla vs Oregon",
+      "headline": "UCLA 17-15 Oregon (Oct 10, 2026) Game Recap",
+      "dek": "UCLA 17-15 Oregon (Oct 10, 2026) Game Recap.",
+      "angle": "UCLA 17-15 Oregon (Oct 10, 2026) Game Recap",
+      "traffic": "200000",
+      "trafficLabel": "200K+",
+      "image": "/covers/ucla-vs-oregon.svg",
+      "imageSource": "",
+      "publishedAt": "2026-10-10T14:30:00.000Z",
+      "publishedLabel": "",
+      "rank": 8,
+      "blocks": [
+        {
+          "type": "p",
+          "text": "Ucla vs Oregon is one of the 25 biggest searches in the United States today. UCLA 17-15 Oregon (Oct 10, 2026) Game Recap."
+        },
+        {
+          "type": "h2",
+          "text": "The result people are checking"
+        },
+        {
+          "type": "p",
+          "text": "UCLA Bruins upset Oregon Ducks to stay unbeaten and change the Big Ten championship picture. Bill Oram’s three takeaways from No. 13 Oregon’s 17-15 loss to No. 21 UCLA."
+        },
+        {
+          "type": "p",
+          "text": "People are searching “ucla vs oregon.” This page stays with those accounts and does not add a score, a name, or an outcome that was not in them."
+        }
+      ],
+      "sources": []
+    },
+    {
+      "slug": "south-carolina-vs-florida",
+      "query": "south carolina vs florida",
+      "title": "South Carolina vs Florida",
+      "headline": "South Carolina stuns No. 16 Florida Gators in the Swamp",
+      "dek": "South Carolina stuns No. 16 Florida Gators in the Swamp.",
+      "angle": "South Carolina stuns No. 16 Florida Gators in the Swamp",
+      "traffic": "200000",
+      "trafficLabel": "200K+",
+      "image": "/covers/south-carolina-vs-florida.svg",
+      "imageSource": "",
+      "publishedAt": "2026-10-10T14:10:00.000Z",
+      "publishedLabel": "",
+      "rank": 9,
+      "blocks": [
+        {
+          "type": "p",
+          "text": "South Carolina vs Florida is one of the 25 biggest searches in the United States today. South Carolina stuns No. 16 Florida Gators in the Swamp."
+        },
+        {
+          "type": "h2",
+          "text": "The result people are checking"
+        },
+        {
+          "type": "p",
+          "text": "Home loss to South Carolina has Florida free-falling in ESPN's FPI. Gators Dressed For Occasion, But Did Not Play Like It."
+        },
+        {
+          "type": "p",
+          "text": "People are searching “south carolina vs florida.” This page stays with those accounts and does not add a score, a name, or an outcome that was not in them."
+        }
+      ],
+      "sources": []
+    },
+    {
+      "slug": "real-madrid-vs-villarreal",
+      "query": "real madrid vs villarreal",
+      "title": "Real Madrid vs Villarreal",
+      "headline": "Real Madrid’s Vinícius Júnior sent off for hair-pulling in victory over Villarreal",
+      "dek": "Real Madrid’s Vinícius Júnior sent off for hair-pulling in victory over Villarreal.",
+      "angle": "Real Madrid’s Vinícius Júnior sent off for hair-pulling in victory over Villarreal",
+      "traffic": "200000",
+      "trafficLabel": "200K+",
+      "image": "/covers/real-madrid-vs-villarreal.svg",
+      "imageSource": "",
+      "publishedAt": "2026-10-10T16:20:00.000Z",
+      "publishedLabel": "",
+      "rank": 10,
+      "blocks": [
+        {
+          "type": "p",
+          "text": "Real Madrid vs Villarreal is one of the 25 biggest searches in the United States today. Real Madrid’s Vinícius Júnior sent off for hair-pulling in victory over Villarreal."
+        },
+        {
+          "type": "h2",
+          "text": "The result people are checking"
+        },
+        {
+          "type": "p",
+          "text": "‘They Forgot’—Vinicius Jr’s Contrasting Public, Private Response to Real Madrid Red Card. Real's Vinicius apologises after red card for hair pull against Villarreal."
+        },
+        {
+          "type": "p",
+          "text": "People are searching “real madrid vs villarreal.” This page stays with those accounts and does not add a score, a name, or an outcome that was not in them."
+        }
+      ],
+      "sources": []
+    },
+    {
+      "slug": "kentucky-football",
+      "query": "kentucky football",
+      "title": "Kentucky Football",
+      "headline": "Kentucky converts 2-point play in OT to upset No. 10 LSU",
+      "dek": "Kentucky converts 2-point play in OT to upset No. 10 LSU.",
+      "angle": "Kentucky converts 2-point play in OT to upset No. 10 LSU",
+      "traffic": "200000",
+      "trafficLabel": "200K+",
+      "image": "/covers/kentucky-football.svg",
+      "imageSource": "",
+      "publishedAt": "2026-10-11T01:00:00.000Z",
+      "publishedLabel": "",
+      "rank": 11,
+      "blocks": [
+        {
+          "type": "p",
+          "text": "Kentucky Football is one of the 25 biggest searches in the United States today. Kentucky converts 2-point play in OT to upset No. 10 LSU."
+        },
+        {
+          "type": "h2",
+          "text": "What is already on the record"
+        },
+        {
+          "type": "p",
+          "text": "Kentucky shocks LSU with second-straight walk-off two-point conversion win in overtime. LSU's road woes continue as Kentucky stuns No. 10 Tigers, adding pressure to CFP hopes."
+        },
+        {
+          "type": "p",
+          "text": "People are searching “kentucky football.” This page stays with those accounts and does not add a score, a name, or an outcome that was not in them."
+        }
+      ],
+      "sources": []
+    },
+    {
+      "slug": "d-c-united-vs-inter-miami",
+      "query": "d.c. united vs inter miami",
+      "title": "D.c. United vs Inter Miami",
+      "headline": "Lionel Messi: Inter Miami forward scores twice in 4-0 win over DC United",
+      "dek": "Lionel Messi: Inter Miami forward scores twice in 4-0 win over DC United.",
+      "angle": "Lionel Messi: Inter Miami forward scores twice in 4-0 win over DC United",
+      "traffic": "200000",
+      "trafficLabel": "200K+",
+      "image": "/covers/d-c-united-vs-inter-miami.svg",
+      "imageSource": "",
+      "publishedAt": "2026-10-10T22:30:00.000Z",
+      "publishedLabel": "",
+      "rank": 12,
+      "blocks": [
+        {
+          "type": "p",
+          "text": "D.c. United vs Inter Miami is one of the 25 biggest searches in the United States today. Lionel Messi: Inter Miami forward scores twice in 4-0 win over DC United."
+        },
+        {
+          "type": "h2",
+          "text": "The result people are checking"
+        },
+        {
+          "type": "p",
+          "text": "Messi scores twice for Miami in 1st game since Argentina farewell. Lionel Messi delivers masterclass following Argentina retirement."
+        },
+        {
+          "type": "p",
+          "text": "People are searching “d.c. united vs inter miami.” This page stays with those accounts and does not add a score, a name, or an outcome that was not in them."
+        }
+      ],
+      "sources": []
+    },
+    {
+      "slug": "barcelona-vs-getafe",
+      "query": "barcelona vs getafe",
+      "title": "Barcelona vs Getafe",
+      "headline": "Barcelona continúa con su inicio perfecto al vencer 3-0 al Getafe",
+      "dek": "Barcelona continúa con su inicio perfecto al vencer 3-0 al Getafe.",
+      "angle": "Barcelona continúa con su inicio perfecto al vencer 3-0 al Getafe",
+      "traffic": "200000",
+      "trafficLabel": "200K+",
+      "image": "/covers/barcelona-vs-getafe.svg",
+      "imageSource": "",
+      "publishedAt": "2026-10-10T13:00:00.000Z",
+      "publishedLabel": "",
+      "rank": 13,
+      "blocks": [
+        {
+          "type": "p",
+          "text": "Barcelona vs Getafe is one of the 25 biggest searches in the United States today. Barcelona continúa con su inicio perfecto al vencer 3-0 al Getafe."
+        },
+        {
+          "type": "h2",
+          "text": "The result people are checking"
+        },
+        {
+          "type": "p",
+          "text": "Barcelona continúa con inicio perfecto. El Madrid resiste sin Vinicius. El Barça muerde más que el Getafe."
+        },
+        {
+          "type": "p",
+          "text": "People are searching “barcelona vs getafe.” This page stays with those accounts and does not add a score, a name, or an outcome that was not in them."
+        }
+      ],
+      "sources": []
+    },
+    {
+      "slug": "art-of-play-brooklyn",
+      "query": "art of play brooklyn",
+      "title": "Art of Play Brooklyn",
+      "headline": "Kelly Clarkson Claims She Got the Pretty Woman Treatment at N.Y.C. Store: ‘You Just Lost a Huge Sale’",
+      "dek": "Kelly Clarkson Claims She Got the Pretty Woman Treatment at N.Y.C. Store: ‘You Just Lost a Huge Sale’.",
+      "angle": "Kelly Clarkson Claims She Got the Pretty Woman Treatment at N.Y.C. Store: ‘You Just Lost a Huge Sale’",
+      "traffic": "100000",
+      "trafficLabel": "100K+",
+      "image": "/covers/art-of-play-brooklyn.svg",
+      "imageSource": "",
+      "publishedAt": "2026-10-10T19:40:00.000Z",
+      "publishedLabel": "",
+      "rank": 14,
+      "blocks": [
+        {
+          "type": "p",
+          "text": "Art of Play Brooklyn is one of the 25 biggest searches in the United States today. Kelly Clarkson Claims She Got the Pretty Woman Treatment at N.Y.C. Store: ‘You Just Lost a Huge Sale’."
+        },
+        {
+          "type": "h2",
+          "text": "What is already on the record"
+        },
+        {
+          "type": "p",
+          "text": "Kelly Clarkson Blasts New York Store Over 'Pretty Woman Moment'. Kelly Clarkson blasts Brooklyn store for treating her like Julia Roberts in ‘Pretty Woman’: ‘You’re an idiot’."
+        },
+        {
+          "type": "p",
+          "text": "People are searching “art of play brooklyn.” This page stays with those accounts and does not add a score, a name, or an outcome that was not in them."
+        }
+      ],
+      "sources": []
+    },
+    {
+      "slug": "usc-vs-penn-state",
+      "query": "usc vs penn state",
+      "title": "Usc vs Penn State",
+      "headline": "No. 19 USC moves to 6-1, tops Penn State in White Out game",
+      "dek": "No. 19 USC moves to 6-1, tops Penn State in White Out game.",
+      "angle": "No. 19 USC moves to 6-1, tops Penn State in White Out game",
+      "traffic": "100000",
+      "trafficLabel": "100K+",
+      "image": "/covers/usc-vs-penn-state.svg",
+      "imageSource": "",
+      "publishedAt": "2026-10-10T16:10:00.000Z",
+      "publishedLabel": "",
+      "rank": 15,
+      "blocks": [
+        {
+          "type": "p",
+          "text": "Usc vs Penn State is one of the 25 biggest searches in the United States today. No. 19 USC moves to 6-1, tops Penn State in White Out game."
+        },
+        {
+          "type": "h2",
+          "text": "The result people are checking"
+        },
+        {
+          "type": "p",
+          "text": "Three takeaways from Penn State football’s 31-23 White Out loss vs. USC. Jayden Maiava leads No. 19 USC past Penn State 31-23."
+        },
+        {
+          "type": "p",
+          "text": "People are searching “usc vs penn state.” This page stays with those accounts and does not add a score, a name, or an outcome that was not in them."
+        }
+      ],
+      "sources": []
+    },
+    {
+      "slug": "america-monterrey",
+      "query": "américa - monterrey",
+      "title": "América - Monterrey",
+      "headline": "América empata con Rayados y queda líder en su 110 aniversario",
+      "dek": "América empata con Rayados y queda líder en su 110 aniversario.",
+      "angle": "América empata con Rayados y queda líder en su 110 aniversario",
+      "traffic": "100000",
+      "trafficLabel": "100K+",
+      "image": "/covers/america-monterrey.svg",
+      "imageSource": "",
+      "publishedAt": "2026-10-11T02:20:00.000Z",
+      "publishedLabel": "",
+      "rank": 16,
+      "blocks": [
+        {
+          "type": "p",
+          "text": "América - Monterrey is one of the 25 biggest searches in the United States today. América empata con Rayados y queda líder en su 110 aniversario."
+        },
+        {
+          "type": "h2",
+          "text": "What is already on the record"
+        },
+        {
+          "type": "p",
+          "text": "América empata en casa 1-1 con Monterrey y celebra su 110.º aniversario afirmándose como líder. El América recibe a su verdugo en la fiesta de sus 110 años."
+        },
+        {
+          "type": "p",
+          "text": "People are searching “américa - monterrey.” This page stays with those accounts and does not add a score, a name, or an outcome that was not in them."
+        }
+      ],
+      "sources": []
+    },
+    {
+      "slug": "ole-miss-vs-vanderbilt",
+      "query": "ole miss vs vanderbilt",
+      "title": "Ole Miss vs Vanderbilt",
+      "headline": "Vanderbilt football vs Ole Miss score prediction for Week 6 game",
+      "dek": "Vanderbilt football vs Ole Miss score prediction for Week 6 game.",
+      "angle": "Vanderbilt football vs Ole Miss score prediction for Week 6 game",
+      "traffic": "100000",
+      "trafficLabel": "100K+",
+      "image": "/covers/ole-miss-vs-vanderbilt.svg",
+      "imageSource": "",
+      "publishedAt": "2026-10-10T13:50:00.000Z",
+      "publishedLabel": "",
+      "rank": 17,
+      "blocks": [
+        {
+          "type": "p",
+          "text": "Ole Miss vs Vanderbilt is one of the 25 biggest searches in the United States today. Vanderbilt football vs Ole Miss score prediction for Week 6 game."
+        },
+        {
+          "type": "h2",
+          "text": "The result people are checking"
+        },
+        {
+          "type": "p",
+          "text": "Analysis: DeWeese, Siskey break down Ole Miss' win at Vanderbilt."
+        },
+        {
+          "type": "p",
+          "text": "People are searching “ole miss vs vanderbilt.” This page stays with those accounts and does not add a score, a name, or an outcome that was not in them."
+        }
+      ],
+      "sources": []
+    },
+    {
+      "slug": "kansas-vs-utah",
+      "query": "kansas vs utah",
+      "title": "Kansas vs Utah",
+      "headline": "Big 12 Update on Kansas-Utah Football Game",
+      "dek": "Big 12 Update on Kansas-Utah Football Game.",
+      "angle": "Big 12 Update on Kansas-Utah Football Game",
+      "traffic": "100000",
+      "trafficLabel": "100K+",
+      "image": "/covers/kansas-vs-utah.svg",
+      "imageSource": "",
+      "publishedAt": "2026-10-10T23:00:00.000Z",
+      "publishedLabel": "",
+      "rank": 18,
+      "blocks": [
+        {
+          "type": "p",
+          "text": "Kansas vs Utah is one of the 25 biggest searches in the United States today. Big 12 Update on Kansas-Utah Football Game."
+        },
+        {
+          "type": "h2",
+          "text": "The result people are checking"
+        },
+        {
+          "type": "p",
+          "text": "Gordon Monson: Utah football shows style, substance and stubbornness in its latest win. Kansas at Utah Moved to 7 p.m. CT."
+        },
+        {
+          "type": "p",
+          "text": "People are searching “kansas vs utah.” This page stays with those accounts and does not add a score, a name, or an outcome that was not in them."
+        }
+      ],
+      "sources": []
+    },
+    {
+      "slug": "posiciones-de-atlas-futbol-club-contra-chivas",
+      "query": "posiciones de atlas fútbol club contra chivas",
+      "title": "Posiciones De Atlas Fútbol Club Contra Chivas",
+      "headline": "Chivas rescata el empate en el Clásico Tapatío ante Atlas",
+      "dek": "Chivas rescata el empate en el Clásico Tapatío ante Atlas.",
+      "angle": "Chivas rescata el empate en el Clásico Tapatío ante Atlas",
+      "traffic": "100000",
+      "trafficLabel": "100K+",
+      "image": "/covers/posiciones-de-atlas-futbol-club-contra-chivas.svg",
+      "imageSource": "",
+      "publishedAt": "2026-10-11T03:10:00.000Z",
+      "publishedLabel": "",
+      "rank": 19,
+      "blocks": [
+        {
+          "type": "p",
+          "text": "Posiciones De Atlas Fútbol Club Contra Chivas is one of the 25 biggest searches in the United States today. Chivas rescata el empate en el Clásico Tapatío ante Atlas."
+        },
+        {
+          "type": "h2",
+          "text": "What is already on the record"
+        },
+        {
+          "type": "p",
+          "text": "Chivas vs Atlas: Un Clásico Tapatío y un duelo de canteras con realidades opuestas. ¡Se van tablas! Atlas y Chivas dividen puntos en el Clásico Tapatío."
+        },
+        {
+          "type": "p",
+          "text": "People are searching “posiciones de atlas fútbol club contra chivas.” This page stays with those accounts and does not add a score, a name, or an outcome that was not in them."
+        }
+      ],
+      "sources": []
+    },
+    {
+      "slug": "illinois-vs-mi-state",
+      "query": "illinois vs mi state",
+      "title": "Illinois vs Mi State",
+      "headline": "MSU stages wild comeback, falls in crushing OT loss: 'Hurts even worse'",
+      "dek": "MSU stages wild comeback, falls in crushing OT loss: 'Hurts even worse'.",
+      "angle": "MSU stages wild comeback, falls in crushing OT loss: 'Hurts even worse'",
+      "traffic": "100000",
+      "trafficLabel": "100K+",
+      "image": "/covers/illinois-vs-mi-state.svg",
+      "imageSource": "",
+      "publishedAt": "2026-10-10T18:30:00.000Z",
+      "publishedLabel": "",
+      "rank": 20,
+      "blocks": [
+        {
+          "type": "p",
+          "text": "Illinois vs Mi State is one of the 25 biggest searches in the United States today. MSU stages wild comeback, falls in crushing OT loss: 'Hurts even worse'."
+        },
+        {
+          "type": "h2",
+          "text": "The result people are checking"
+        },
+        {
+          "type": "p",
+          "text": "Michigan State’s Two-Point Gamble Ends In Overtime Heartbreak. Michigan State football grades vs Illinois as injuries sap defense."
+        },
+        {
+          "type": "p",
+          "text": "People are searching “illinois vs mi state.” This page stays with those accounts and does not add a score, a name, or an outcome that was not in them."
+        }
+      ],
+      "sources": []
+    },
+    {
+      "slug": "texas-a-and-m-vs-missouri",
+      "query": "texas a&m vs missouri",
+      "title": "Texas A&m vs Missouri",
+      "headline": "Ground and grind: Mizzou bullies Texas A&M with staunch defense, tough running",
+      "dek": "Ground and grind: Mizzou bullies Texas A&M with staunch defense, tough running.",
+      "angle": "Ground and grind: Mizzou bullies Texas A&M with staunch defense, tough running",
+      "traffic": "100000",
+      "trafficLabel": "100K+",
+      "image": "/covers/texas-a-and-m-vs-missouri.svg",
+      "imageSource": "",
+      "publishedAt": "2026-10-10T14:10:00.000Z",
+      "publishedLabel": "",
+      "rank": 21,
+      "blocks": [
+        {
+          "type": "p",
+          "text": "Texas A&m vs Missouri is one of the 25 biggest searches in the United States today. Ground and grind: Mizzou bullies Texas A&M with staunch defense, tough running."
+        },
+        {
+          "type": "h2",
+          "text": "The result people are checking"
+        },
+        {
+          "type": "p",
+          "text": "Football Drops 27-6 Decision to No. 14 Missouri. Wrights and Wrongs: Takeaways from No. 14 Mizzou's 27-6 win over Texas A&M."
+        },
+        {
+          "type": "p",
+          "text": "People are searching “texas a&m vs missouri.” This page stays with those accounts and does not add a score, a name, or an outcome that was not in them."
+        }
+      ],
+      "sources": []
+    },
+    {
+      "slug": "man-utd-vs-spurs",
+      "query": "man utd vs spurs",
+      "title": "Man Utd vs Spurs",
+      "headline": "'I kissed Rodrigo' - Roberto de Zerbi praises Bentancur's red card against Manchester United",
+      "dek": "'I kissed Rodrigo' - Roberto de Zerbi praises Bentancur's red card against Manchester United.",
+      "angle": "'I kissed Rodrigo' - Roberto de Zerbi praises Bentancur's red card against Manchester United",
+      "traffic": "100000",
+      "trafficLabel": "100K+",
+      "image": "/covers/man-utd-vs-spurs.svg",
+      "imageSource": "",
+      "publishedAt": "2026-10-10T15:30:00.000Z",
+      "publishedLabel": "",
+      "rank": 22,
+      "blocks": [
+        {
+          "type": "p",
+          "text": "Man Utd vs Spurs is one of the 25 biggest searches in the United States today. 'I kissed Rodrigo' - Roberto de Zerbi praises Bentancur's red card against Manchester United."
+        },
+        {
+          "type": "h2",
+          "text": "The result people are checking"
+        },
+        {
+          "type": "p",
+          "text": "Senne Lammens: Man United must get 'sour' taste of late Tottenham woe out of mouth. Manchester United and Spurs come back to reality as City saga offers brief distraction."
+        },
+        {
+          "type": "p",
+          "text": "People are searching “man utd vs spurs.” This page stays with those accounts and does not add a score, a name, or an outcome that was not in them."
+        }
+      ],
+      "sources": []
+    },
+    {
+      "slug": "oklahoma-state-football",
+      "query": "oklahoma state football",
+      "title": "Oklahoma State Football",
+      "headline": "Oklahoma State 42-28 UCF (Oct 10, 2026) Game Recap",
+      "dek": "Oklahoma State 42-28 UCF (Oct 10, 2026) Game Recap.",
+      "angle": "Oklahoma State 42-28 UCF (Oct 10, 2026) Game Recap",
+      "traffic": "100000",
+      "trafficLabel": "100K+",
+      "image": "/covers/oklahoma-state-football.svg",
+      "imageSource": "",
+      "publishedAt": "2026-10-10T13:40:00.000Z",
+      "publishedLabel": "",
+      "rank": 23,
+      "blocks": [
+        {
+          "type": "p",
+          "text": "Oklahoma State Football is one of the 25 biggest searches in the United States today. Oklahoma State 42-28 UCF (Oct 10, 2026) Game Recap."
+        },
+        {
+          "type": "h2",
+          "text": "What is already on the record"
+        },
+        {
+          "type": "p",
+          "text": "UCF’s Scott Frost Believes Bye Week Comes at a Good Time. Oklahoma State Coach Eric Morris’s UCF Postgame Transcript."
+        },
+        {
+          "type": "p",
+          "text": "People are searching “oklahoma state football.” This page stays with those accounts and does not add a score, a name, or an outcome that was not in them."
+        }
+      ],
+      "sources": []
+    },
+    {
+      "slug": "brock-thomas",
+      "query": "brock thomas",
+      "title": "Brock Thomas",
+      "headline": "Oregon football vs. UCLA final score, reaction to Ducks' second loss",
+      "dek": "Oregon football vs. UCLA final score, reaction to Ducks' second loss.",
+      "angle": "Oregon football vs. UCLA final score, reaction to Ducks' second loss",
+      "traffic": "100000",
+      "trafficLabel": "100K+",
+      "image": "/covers/brock-thomas.svg",
+      "imageSource": "",
+      "publishedAt": "2026-10-10T22:20:00.000Z",
+      "publishedLabel": "",
+      "rank": 24,
+      "blocks": [
+        {
+          "type": "p",
+          "text": "Brock Thomas is one of the 25 biggest searches in the United States today. Oregon football vs. UCLA final score, reaction to Ducks' second loss."
+        },
+        {
+          "type": "h2",
+          "text": "What is already on the record"
+        },
+        {
+          "type": "p",
+          "text": "Are Oregon's College Football Playoff hopes dead? 'We’re fighting an uphill battle now'. Which Oregon QB starts against Nebraska? Spot in flux after Dylan Raiola benched vs. UCLA."
+        },
+        {
+          "type": "p",
+          "text": "People are searching “brock thomas.” This page stays with those accounts and does not add a score, a name, or an outcome that was not in them."
+        }
+      ],
+      "sources": []
+    },
+    {
+      "slug": "wwe",
+      "query": "wwe",
+      "title": "Wwe",
+      "headline": "WWE Money in the Bank takeaways: Everyone wants a shot at Roman Reigns",
+      "dek": "WWE Money in the Bank takeaways: Everyone wants a shot at Roman Reigns.",
+      "angle": "WWE Money in the Bank takeaways: Everyone wants a shot at Roman Reigns",
+      "traffic": "100000",
+      "trafficLabel": "100K+",
+      "image": "/covers/wwe.svg",
+      "imageSource": "",
+      "publishedAt": "2026-10-10T20:20:00.000Z",
+      "publishedLabel": "",
+      "rank": 25,
+      "blocks": [
+        {
+          "type": "p",
+          "text": "Wwe is one of the 25 biggest searches in the United States today. WWE Money in the Bank takeaways: Everyone wants a shot at Roman Reigns."
+        },
+        {
+          "type": "h2",
+          "text": "What is already on the record"
+        },
+        {
+          "type": "p",
+          "text": "WWE Money in the Bank 2026 Winners, Live Grades, Reaction and Highlights. Complete Money in the Bank 2026 results."
+        },
+        {
+          "type": "p",
+          "text": "People are searching “wwe.” This page stays with those accounts and does not add a score, a name, or an outcome that was not in them."
+        }
+      ],
+      "sources": []
+    }
+  ]
+}
