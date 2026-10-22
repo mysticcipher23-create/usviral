@@ -1,0 +1,861 @@
+{
+  "date": "2026-10-22",
+  "fetchedAt": "2026-10-22T12:33:51.425Z",
+  "geo": "US",
+  "window": "24h",
+  "sort": "volume",
+  "limit": 25,
+  "sourceUrl": "https://trends.google.com/trending?geo=US&hours=24&sort=search-volume",
+  "posts": [
+    {
+      "slug": "warriors-vs-lakers",
+      "query": "warriors vs lakers",
+      "title": "Warriors vs Lakers",
+      "headline": "Luka Doncic embraces lead role, pairs with Kessler to dominate Warriors",
+      "dek": "Luka Doncic embraces lead role, pairs with Kessler to dominate Warriors.",
+      "angle": "Luka Doncic embraces lead role, pairs with Kessler to dominate Warriors",
+      "traffic": "500000",
+      "trafficLabel": "500K+",
+      "image": "/covers/warriors-vs-lakers.svg",
+      "imageSource": "",
+      "publishedAt": "2026-10-22T01:00:00.000Z",
+      "publishedLabel": "",
+      "rank": 1,
+      "blocks": [
+        {
+          "type": "p",
+          "text": "Warriors vs Lakers is one of the 25 biggest searches in the United States today. Luka Doncic embraces lead role, pairs with Kessler to dominate Warriors."
+        },
+        {
+          "type": "h2",
+          "text": "The result people are checking"
+        },
+        {
+          "type": "p",
+          "text": "Recap: Anthony Edwards highlights Wednesday's action. Lakers’ new Luka Doncic era opens with rout of Warriors."
+        },
+        {
+          "type": "p",
+          "text": "People are searching “warriors vs lakers.” This page stays with those accounts and does not add a score, a name, or an outcome that was not in them."
+        }
+      ],
+      "sources": []
+    },
+    {
+      "slug": "john-anderson",
+      "query": "john anderson",
+      "title": "John Anderson",
+      "headline": "Country Music Hall of Fame member John Anderson dies at 71",
+      "dek": "Country Music Hall of Fame member John Anderson dies at 71.",
+      "angle": "Country Music Hall of Fame member John Anderson dies at 71",
+      "traffic": "200000",
+      "trafficLabel": "200K+",
+      "image": "/covers/john-anderson.svg",
+      "imageSource": "",
+      "publishedAt": "2026-10-21T23:50:00.000Z",
+      "publishedLabel": "",
+      "rank": 2,
+      "blocks": [
+        {
+          "type": "p",
+          "text": "John Anderson is one of the 25 biggest searches in the United States today. Country Music Hall of Fame member John Anderson dies at 71."
+        },
+        {
+          "type": "h2",
+          "text": "What is already on the record"
+        },
+        {
+          "type": "p",
+          "text": "John Anderson, country music hall of famer, dead at 71. Country music world ‘completely shook’ by legend’s sudden death: ‘Just devastating’."
+        },
+        {
+          "type": "p",
+          "text": "People are searching “john anderson.” This page stays with those accounts and does not add a score, a name, or an outcome that was not in them."
+        }
+      ],
+      "sources": []
+    },
+    {
+      "slug": "timberwolves-vs-heat",
+      "query": "timberwolves vs heat",
+      "title": "Timberwolves vs Heat",
+      "headline": "Timberwolves Season Opener: What to expect this season",
+      "dek": "Timberwolves Season Opener: What to expect this season.",
+      "angle": "Timberwolves Season Opener: What to expect this season",
+      "traffic": "200000",
+      "trafficLabel": "200K+",
+      "image": "/covers/timberwolves-vs-heat.svg",
+      "imageSource": "",
+      "publishedAt": "2026-10-21T22:10:00.000Z",
+      "publishedLabel": "",
+      "rank": 3,
+      "blocks": [
+        {
+          "type": "p",
+          "text": "Timberwolves vs Heat is one of the 25 biggest searches in the United States today. Timberwolves Season Opener: What to expect this season."
+        },
+        {
+          "type": "h2",
+          "text": "The result people are checking"
+        },
+        {
+          "type": "p",
+          "text": "That is the account available when the edition was filed. It is the event people are opening."
+        },
+        {
+          "type": "p",
+          "text": "People are searching “timberwolves vs heat.” This page stays with those accounts and does not add a score, a name, or an outcome that was not in them."
+        }
+      ],
+      "sources": []
+    },
+    {
+      "slug": "bioware",
+      "query": "bioware",
+      "title": "Bioware",
+      "headline": "Electronic Arts to Shed 400 Jobs, Shut Down BioWare to Cut Costs",
+      "dek": "Electronic Arts to Shed 400 Jobs, Shut Down BioWare to Cut Costs.",
+      "angle": "Electronic Arts to Shed 400 Jobs, Shut Down BioWare to Cut Costs",
+      "traffic": "200000",
+      "trafficLabel": "200K+",
+      "image": "/covers/bioware.svg",
+      "imageSource": "",
+      "publishedAt": "2026-10-21T17:00:00.000Z",
+      "publishedLabel": "",
+      "rank": 4,
+      "blocks": [
+        {
+          "type": "p",
+          "text": "Bioware is one of the 25 biggest searches in the United States today. Electronic Arts to Shed 400 Jobs, Shut Down BioWare to Cut Costs."
+        },
+        {
+          "type": "h2",
+          "text": "What is already on the record"
+        },
+        {
+          "type": "p",
+          "text": "Next Mass Effect game cancelled as EA shuts down legendary sci-fi RPG studio BioWare. Mass layoffs rock California gaming giant as boss’ memo released."
+        },
+        {
+          "type": "p",
+          "text": "People are searching “bioware.” This page stays with those accounts and does not add a score, a name, or an outcome that was not in them."
+        }
+      ],
+      "sources": []
+    },
+    {
+      "slug": "real-madrid-vs-rb-leipzig",
+      "query": "real madrid vs rb leipzig",
+      "title": "Real Madrid vs Rb Leipzig",
+      "headline": "Mbappé and Diomande delight, Vinícius Jr. whistled in Real Madrid win",
+      "dek": "Mbappé and Diomande delight, Vinícius Jr. whistled in Real Madrid win.",
+      "angle": "Mbappé and Diomande delight, Vinícius Jr. whistled in Real Madrid win",
+      "traffic": "200000",
+      "trafficLabel": "200K+",
+      "image": "/covers/real-madrid-vs-rb-leipzig.svg",
+      "imageSource": "",
+      "publishedAt": "2026-10-21T16:50:00.000Z",
+      "publishedLabel": "",
+      "rank": 5,
+      "blocks": [
+        {
+          "type": "p",
+          "text": "Real Madrid vs Rb Leipzig is one of the 25 biggest searches in the United States today. Mbappé and Diomande delight, Vinícius Jr. whistled in Real Madrid win."
+        },
+        {
+          "type": "h2",
+          "text": "The result people are checking"
+        },
+        {
+          "type": "p",
+          "text": "Champions League: Silva sparks Real Madrid’s demolition of Leipzig as Lask stun Sporting. Real Madrid 4-1 RB Leipzig: Champions League – as it happened."
+        },
+        {
+          "type": "p",
+          "text": "People are searching “real madrid vs rb leipzig.” This page stays with those accounts and does not add a score, a name, or an outcome that was not in them."
+        }
+      ],
+      "sources": []
+    },
+    {
+      "slug": "suns-vs-trail-blazers",
+      "query": "suns vs trail blazers",
+      "title": "Suns vs Trail Blazers",
+      "headline": "Trail Blazers 124-83 Suns (Oct 21, 2026) Game Recap",
+      "dek": "Trail Blazers 124-83 Suns (Oct 21, 2026) Game Recap.",
+      "angle": "Trail Blazers 124-83 Suns (Oct 21, 2026) Game Recap",
+      "traffic": "200000",
+      "trafficLabel": "200K+",
+      "image": "/covers/suns-vs-trail-blazers.svg",
+      "imageSource": "",
+      "publishedAt": "2026-10-22T01:00:00.000Z",
+      "publishedLabel": "",
+      "rank": 6,
+      "blocks": [
+        {
+          "type": "p",
+          "text": "Suns vs Trail Blazers is one of the 25 biggest searches in the United States today. Trail Blazers 124-83 Suns (Oct 21, 2026) Game Recap."
+        },
+        {
+          "type": "h2",
+          "text": "The result people are checking"
+        },
+        {
+          "type": "p",
+          "text": "Damian Lillard's 25 propels Blazers over Suns in season debut. Phoenix Suns fall in embarrassing fashion to Blazers in opener."
+        },
+        {
+          "type": "p",
+          "text": "People are searching “suns vs trail blazers.” This page stays with those accounts and does not add a score, a name, or an outcome that was not in them."
+        }
+      ],
+      "sources": []
+    },
+    {
+      "slug": "bucks-vs-wizards",
+      "query": "bucks vs wizards",
+      "title": "Bucks vs Wizards",
+      "headline": "Anthony Davis powers Wizards’ season-opening win over Bucks",
+      "dek": "Anthony Davis powers Wizards’ season-opening win over Bucks.",
+      "angle": "Anthony Davis powers Wizards’ season-opening win over Bucks",
+      "traffic": "200000",
+      "trafficLabel": "200K+",
+      "image": "/covers/bucks-vs-wizards.svg",
+      "imageSource": "",
+      "publishedAt": "2026-10-21T22:00:00.000Z",
+      "publishedLabel": "",
+      "rank": 7,
+      "blocks": [
+        {
+          "type": "p",
+          "text": "Bucks vs Wizards is one of the 25 biggest searches in the United States today. Anthony Davis powers Wizards’ season-opening win over Bucks."
+        },
+        {
+          "type": "h2",
+          "text": "The result people are checking"
+        },
+        {
+          "type": "p",
+          "text": "Davis on offense, Coulibaly on defense. Wizards lean on AD, Trae to secure season-opening victory."
+        },
+        {
+          "type": "p",
+          "text": "People are searching “bucks vs wizards.” This page stays with those accounts and does not add a score, a name, or an outcome that was not in them."
+        }
+      ],
+      "sources": []
+    },
+    {
+      "slug": "mavericks-vs-rockets",
+      "query": "mavericks vs rockets",
+      "title": "Mavericks vs Rockets",
+      "headline": "Rockets 128-110 Mavericks (Oct 21, 2026) Game Recap",
+      "dek": "Rockets 128-110 Mavericks (Oct 21, 2026) Game Recap.",
+      "angle": "Rockets 128-110 Mavericks (Oct 21, 2026) Game Recap",
+      "traffic": "200000",
+      "trafficLabel": "200K+",
+      "image": "/covers/mavericks-vs-rockets.svg",
+      "imageSource": "",
+      "publishedAt": "2026-10-21T23:30:00.000Z",
+      "publishedLabel": "",
+      "rank": 8,
+      "blocks": [
+        {
+          "type": "p",
+          "text": "Mavericks vs Rockets is one of the 25 biggest searches in the United States today. Rockets 128-110 Mavericks (Oct 21, 2026) Game Recap."
+        },
+        {
+          "type": "h2",
+          "text": "The result people are checking"
+        },
+        {
+          "type": "p",
+          "text": "Game Recap: Rockets 128, Mavericks 110. 5 thoughts from Mavericks-Rockets: Starters' lack of rhythm leads to season-opening blowout."
+        },
+        {
+          "type": "p",
+          "text": "People are searching “mavericks vs rockets.” This page stays with those accounts and does not add a score, a name, or an outcome that was not in them."
+        }
+      ],
+      "sources": []
+    },
+    {
+      "slug": "valkyries-vs-dream",
+      "query": "valkyries vs dream",
+      "title": "Valkyries vs Dream",
+      "headline": "How the Dream ran over the Valkyries to take a 2-1 lead in the WNBA Finals",
+      "dek": "How the Dream ran over the Valkyries to take a 2-1 lead in the WNBA Finals.",
+      "angle": "How the Dream ran over the Valkyries to take a 2-1 lead in the WNBA Finals",
+      "traffic": "200000",
+      "trafficLabel": "200K+",
+      "image": "/covers/valkyries-vs-dream.svg",
+      "imageSource": "",
+      "publishedAt": "2026-10-21T23:00:00.000Z",
+      "publishedLabel": "",
+      "rank": 9,
+      "blocks": [
+        {
+          "type": "p",
+          "text": "Valkyries vs Dream is one of the 25 biggest searches in the United States today. How the Dream ran over the Valkyries to take a 2-1 lead in the WNBA Finals."
+        },
+        {
+          "type": "h2",
+          "text": "The result people are checking"
+        },
+        {
+          "type": "p",
+          "text": "Dream’s Angel Reese lets Valkyries know: ‘Y’all not taking this from us.’. Atlanta Dream roll to Game 3 win, take a 2-1 series lead on Golden State."
+        },
+        {
+          "type": "p",
+          "text": "People are searching “valkyries vs dream.” This page stays with those accounts and does not add a score, a name, or an outcome that was not in them."
+        }
+      ],
+      "sources": []
+    },
+    {
+      "slug": "atlas-america",
+      "query": "atlas - américa",
+      "title": "Atlas - América",
+      "headline": "América muestra el músculo de líder general y exhibe al Atlas",
+      "dek": "América muestra el músculo de líder general y exhibe al Atlas.",
+      "angle": "América muestra el músculo de líder general y exhibe al Atlas",
+      "traffic": "200000",
+      "trafficLabel": "200K+",
+      "image": "/covers/atlas-america.svg",
+      "imageSource": "",
+      "publishedAt": "2026-10-22T00:10:00.000Z",
+      "publishedLabel": "",
+      "rank": 10,
+      "blocks": [
+        {
+          "type": "p",
+          "text": "Atlas - América is one of the 25 biggest searches in the United States today. América muestra el músculo de líder general y exhibe al Atlas."
+        },
+        {
+          "type": "h2",
+          "text": "What is already on the record"
+        },
+        {
+          "type": "p",
+          "text": "El calendario de los siguientes 5 partidos del América tras golear 5-2 al Atlas. América y Monterrey lucen su poder y Santos rompe récord de triunfos en México."
+        },
+        {
+          "type": "p",
+          "text": "People are searching “atlas - américa.” This page stays with those accounts and does not add a score, a name, or an outcome that was not in them."
+        }
+      ],
+      "sources": []
+    },
+    {
+      "slug": "como-vs-man-utd",
+      "query": "como vs man utd",
+      "title": "Como vs Man Utd",
+      "headline": "Manchester United reaction LIVE: Fernandes questions Carrick's tactics",
+      "dek": "Manchester United reaction LIVE: Fernandes questions Carrick's tactics.",
+      "angle": "Manchester United reaction LIVE: Fernandes questions Carrick's tactics",
+      "traffic": "200000",
+      "trafficLabel": "200K+",
+      "image": "/covers/como-vs-man-utd.svg",
+      "imageSource": "",
+      "publishedAt": "2026-10-21T15:50:00.000Z",
+      "publishedLabel": "",
+      "rank": 11,
+      "blocks": [
+        {
+          "type": "p",
+          "text": "Como vs Man Utd is one of the 25 biggest searches in the United States today. Manchester United reaction LIVE: Fernandes questions Carrick's tactics."
+        },
+        {
+          "type": "h2",
+          "text": "The result people are checking"
+        },
+        {
+          "type": "p",
+          "text": "Who are Como? The vacation-destination club that just rocked Man United. Inside Como’s greatest night: ‘Disney’ model, a 14-page Man Utd dossier and Florence Pugh."
+        },
+        {
+          "type": "p",
+          "text": "People are searching “como vs man utd.” This page stays with those accounts and does not add a score, a name, or an outcome that was not in them."
+        }
+      ],
+      "sources": []
+    },
+    {
+      "slug": "champions-league",
+      "query": "champions league",
+      "title": "Champions League",
+      "headline": "Bayern 2-2 Arsenal (Oct 21, 2026) Game Analysis",
+      "dek": "Bayern 2-2 Arsenal (Oct 21, 2026) Game Analysis.",
+      "angle": "Bayern 2-2 Arsenal (Oct 21, 2026) Game Analysis",
+      "traffic": "200000",
+      "trafficLabel": "200K+",
+      "image": "/covers/champions-league.svg",
+      "imageSource": "",
+      "publishedAt": "2026-10-21T19:00:00.000Z",
+      "publishedLabel": "",
+      "rank": 12,
+      "blocks": [
+        {
+          "type": "p",
+          "text": "Champions League is one of the 25 biggest searches in the United States today. Bayern 2-2 Arsenal (Oct 21, 2026) Game Analysis."
+        },
+        {
+          "type": "h2",
+          "text": "What is already on the record"
+        },
+        {
+          "type": "p",
+          "text": "Bayern Munich 2-2 Arsenal: Fan views on Champions League game. Rice rescues Arsenal at Bayern as Real Madrid hit four."
+        },
+        {
+          "type": "p",
+          "text": "People are searching “champions league.” This page stays with those accounts and does not add a score, a name, or an outcome that was not in them."
+        }
+      ],
+      "sources": []
+    },
+    {
+      "slug": "real-madrid",
+      "query": "real madrid",
+      "title": "Real Madrid",
+      "headline": "Polémica, análisis y reacciones del Real Madrid 4-1 Leipzig de UEFA Champions League",
+      "dek": "Polémica, análisis y reacciones del Real Madrid 4-1 Leipzig de UEFA Champions League.",
+      "angle": "Polémica, análisis y reacciones del Real Madrid 4-1 Leipzig de UEFA Champions League",
+      "traffic": "200000",
+      "trafficLabel": "200K+",
+      "image": "/covers/real-madrid.svg",
+      "imageSource": "",
+      "publishedAt": "2026-10-21T19:10:00.000Z",
+      "publishedLabel": "",
+      "rank": 13,
+      "blocks": [
+        {
+          "type": "p",
+          "text": "Real Madrid is one of the 25 biggest searches in the United States today. Polémica, análisis y reacciones del Real Madrid 4-1 Leipzig de UEFA Champions League."
+        },
+        {
+          "type": "h2",
+          "text": "What is already on the record"
+        },
+        {
+          "type": "p",
+          "text": "Pleno de victorias en la Champions. El Madrid cambia el viento camino del clásico con una goleada ante el Leipzig pese al deprimido Vinicius."
+        },
+        {
+          "type": "p",
+          "text": "People are searching “real madrid.” This page stays with those accounts and does not add a score, a name, or an outcome that was not in them."
+        }
+      ],
+      "sources": []
+    },
+    {
+      "slug": "timberwolves",
+      "query": "timberwolves",
+      "title": "Timberwolves",
+      "headline": "Giannis Antetokounmpo says Heat need to trust each other more after blowout loss",
+      "dek": "Giannis Antetokounmpo says Heat need to trust each other more after blowout loss.",
+      "angle": "Giannis Antetokounmpo says Heat need to trust each other more after blowout loss",
+      "traffic": "200000",
+      "trafficLabel": "200K+",
+      "image": "/covers/timberwolves.svg",
+      "imageSource": "",
+      "publishedAt": "2026-10-21T22:50:00.000Z",
+      "publishedLabel": "",
+      "rank": 14,
+      "blocks": [
+        {
+          "type": "p",
+          "text": "Timberwolves is one of the 25 biggest searches in the United States today. Giannis Antetokounmpo says Heat need to trust each other more after blowout loss."
+        },
+        {
+          "type": "h2",
+          "text": "What is already on the record"
+        },
+        {
+          "type": "p",
+          "text": "Anthony Edwards and LaMelo Ball are talking the talk and walking the walk. RandBall: Wolves didn’t get Giannis — and it looks like they’re better for it."
+        },
+        {
+          "type": "p",
+          "text": "People are searching “timberwolves.” This page stays with those accounts and does not add a score, a name, or an outcome that was not in them."
+        }
+      ],
+      "sources": []
+    },
+    {
+      "slug": "yaxel-lendeborg",
+      "query": "yaxel lendeborg",
+      "title": "Yaxel Lendeborg",
+      "headline": "‘I lost all respect’: Warriors rookie blasts Lakers star Luka Doncic after blowout loss",
+      "dek": "‘I lost all respect’: Warriors rookie blasts Lakers star Luka Doncic after blowout loss.",
+      "angle": "‘I lost all respect’: Warriors rookie blasts Lakers star Luka Doncic after blowout loss",
+      "traffic": "100000",
+      "trafficLabel": "100K+",
+      "image": "/covers/yaxel-lendeborg.svg",
+      "imageSource": "",
+      "publishedAt": "2026-10-22T02:20:00.000Z",
+      "publishedLabel": "",
+      "rank": 15,
+      "blocks": [
+        {
+          "type": "p",
+          "text": "Yaxel Lendeborg is one of the 25 biggest searches in the United States today. ‘I lost all respect’: Warriors rookie blasts Lakers star Luka Doncic after blowout loss."
+        },
+        {
+          "type": "h2",
+          "text": "What is already on the record"
+        },
+        {
+          "type": "p",
+          "text": "Unsportsmanlike with Evan, Canty and Michelle. Yaxel Lendeborg on Luka Dončić: ‘I’ve lost all respect for him’."
+        },
+        {
+          "type": "p",
+          "text": "People are searching “yaxel lendeborg.” This page stays with those accounts and does not add a score, a name, or an outcome that was not in them."
+        }
+      ],
+      "sources": []
+    },
+    {
+      "slug": "ty-jerome",
+      "query": "ty jerome",
+      "title": "Ty Jerome",
+      "headline": "Grizzlies 123-103 Jazz (Oct 21, 2026) Game Recap",
+      "dek": "Grizzlies 123-103 Jazz (Oct 21, 2026) Game Recap.",
+      "angle": "Grizzlies 123-103 Jazz (Oct 21, 2026) Game Recap",
+      "traffic": "100000",
+      "trafficLabel": "100K+",
+      "image": "/covers/ty-jerome.svg",
+      "imageSource": "",
+      "publishedAt": "2026-10-22T00:20:00.000Z",
+      "publishedLabel": "",
+      "rank": 16,
+      "blocks": [
+        {
+          "type": "p",
+          "text": "Ty Jerome is one of the 25 biggest searches in the United States today. Grizzlies 123-103 Jazz (Oct 21, 2026) Game Recap."
+        },
+        {
+          "type": "h2",
+          "text": "What is already on the record"
+        },
+        {
+          "type": "p",
+          "text": "The Utah Jazz open new era with ugly loss to Grizzlies. 3 takeaways from a forgettable opening night. Cam Boozer faces Darryn Peterson, but Grizzlies guard Ty Jerome is the biggest star."
+        },
+        {
+          "type": "p",
+          "text": "People are searching “ty jerome.” This page stays with those accounts and does not add a score, a name, or an outcome that was not in them."
+        }
+      ],
+      "sources": []
+    },
+    {
+      "slug": "judge-judy",
+      "query": "judge judy",
+      "title": "Judge Judy",
+      "headline": "14 Rare Photos of Judge Judy with Her Husband and Their Blended Family, as She Turns 84 Today",
+      "dek": "14 Rare Photos of Judge Judy with Her Husband and Their Blended Family, as She Turns 84 Today.",
+      "angle": "14 Rare Photos of Judge Judy with Her Husband and Their Blended Family, as She Turns 84 Today",
+      "traffic": "100000",
+      "trafficLabel": "100K+",
+      "image": "/covers/judge-judy.svg",
+      "imageSource": "",
+      "publishedAt": "2026-10-21T15:10:00.000Z",
+      "publishedLabel": "",
+      "rank": 17,
+      "blocks": [
+        {
+          "type": "p",
+          "text": "Judge Judy is one of the 25 biggest searches in the United States today. 14 Rare Photos of Judge Judy with Her Husband and Their Blended Family, as She Turns 84 Today."
+        },
+        {
+          "type": "h2",
+          "text": "What is already on the record"
+        },
+        {
+          "type": "p",
+          "text": "Today’s Jewish birthday: Judy Sheindlin. Fact check: 'Judge Judy' aka Judy Sheindlin faces death hoax on her 84th birthday as ‘Judy Justice’ ends."
+        },
+        {
+          "type": "p",
+          "text": "People are searching “judge judy.” This page stays with those accounts and does not add a score, a name, or an outcome that was not in them."
+        }
+      ],
+      "sources": []
+    },
+    {
+      "slug": "bulls-vs-raptors",
+      "query": "bulls vs raptors",
+      "title": "Bulls vs Raptors",
+      "headline": "Raptors 135-92 Bulls (Oct 21, 2026) Game Recap",
+      "dek": "Raptors 135-92 Bulls (Oct 21, 2026) Game Recap.",
+      "angle": "Raptors 135-92 Bulls (Oct 21, 2026) Game Recap",
+      "traffic": "100000",
+      "trafficLabel": "100K+",
+      "image": "/covers/bulls-vs-raptors.svg",
+      "imageSource": "",
+      "publishedAt": "2026-10-21T22:30:00.000Z",
+      "publishedLabel": "",
+      "rank": 18,
+      "blocks": [
+        {
+          "type": "p",
+          "text": "Bulls vs Raptors is one of the 25 biggest searches in the United States today. Raptors 135-92 Bulls (Oct 21, 2026) Game Recap."
+        },
+        {
+          "type": "h2",
+          "text": "The result people are checking"
+        },
+        {
+          "type": "p",
+          "text": "All the insane records Raptors, Kawhi Leonard broke in NBA season opener vs. Bulls. Kawhi Leonard is showing Toronto a different side of himself this time around."
+        },
+        {
+          "type": "p",
+          "text": "People are searching “bulls vs raptors.” This page stays with those accounts and does not add a score, a name, or an outcome that was not in them."
+        }
+      ],
+      "sources": []
+    },
+    {
+      "slug": "pacers-vs-pelicans",
+      "query": "pacers vs pelicans",
+      "title": "Pacers vs Pelicans",
+      "headline": "Charlotte Hornets vs Brooklyn Nets Oct 21, 2026 Box Scores",
+      "dek": "Charlotte Hornets vs Brooklyn Nets Oct 21, 2026 Box Scores.",
+      "angle": "Charlotte Hornets vs Brooklyn Nets Oct 21, 2026 Box Scores",
+      "traffic": "100000",
+      "trafficLabel": "100K+",
+      "image": "/covers/pacers-vs-pelicans.svg",
+      "imageSource": "",
+      "publishedAt": "2026-10-21T23:00:00.000Z",
+      "publishedLabel": "",
+      "rank": 19,
+      "blocks": [
+        {
+          "type": "p",
+          "text": "Pacers vs Pelicans is one of the 25 biggest searches in the United States today. Charlotte Hornets vs Brooklyn Nets Oct 21, 2026 Box Scores."
+        },
+        {
+          "type": "h2",
+          "text": "The result people are checking"
+        },
+        {
+          "type": "p",
+          "text": "Indiana Pacers vs New Orleans Pelicans Oct 21, 2026 Box Scores. Sacramento Kings vs LA Clippers Oct 21, 2026 Box Scores."
+        },
+        {
+          "type": "p",
+          "text": "People are searching “pacers vs pelicans.” This page stays with those accounts and does not add a score, a name, or an outcome that was not in them."
+        }
+      ],
+      "sources": []
+    },
+    {
+      "slug": "new-york-giants-running-back-trade",
+      "query": "new york giants running back trade",
+      "title": "New York Giants Running Back Trade",
+      "headline": "Fantasy Football Trade Tips: Why the timing is right to deal Jonathan Taylor and 3 other veteran RBs",
+      "dek": "Fantasy Football Trade Tips: Why the timing is right to deal Jonathan Taylor and 3 other veteran RBs.",
+      "angle": "Fantasy Football Trade Tips: Why the timing is right to deal Jonathan Taylor and 3 other veteran RBs",
+      "traffic": "50000",
+      "trafficLabel": "50K+",
+      "image": "/covers/new-york-giants-running-back-trade.svg",
+      "imageSource": "",
+      "publishedAt": "2026-10-21T18:10:00.000Z",
+      "publishedLabel": "",
+      "rank": 20,
+      "blocks": [
+        {
+          "type": "p",
+          "text": "New York Giants Running Back Trade is one of the 25 biggest searches in the United States today. Fantasy Football Trade Tips: Why the timing is right to deal Jonathan Taylor and 3 other veteran RBs."
+        },
+        {
+          "type": "h2",
+          "text": "What is already on the record"
+        },
+        {
+          "type": "p",
+          "text": "Jonathan Taylor mock trades: How Giants, Bengals could target Colts star RB after Chris Ballard's firing. Should the Giants Trade for Colts RB Jonathan Taylor to Fix Their Backfield?"
+        },
+        {
+          "type": "p",
+          "text": "People are searching “new york giants running back trade.” This page stays with those accounts and does not add a score, a name, or an outcome that was not in them."
+        }
+      ],
+      "sources": []
+    },
+    {
+      "slug": "nz-vs-ind",
+      "query": "nz vs ind",
+      "title": "Nz vs Ind",
+      "headline": "NZ vs IND 1st T20I LIVE REPORT - Samson, Iyer and Dhir star in tense India win",
+      "dek": "NZ vs IND 1st T20I LIVE REPORT - Samson, Iyer and Dhir star in tense India win.",
+      "angle": "NZ vs IND 1st T20I LIVE REPORT - Samson, Iyer and Dhir star in tense India win",
+      "traffic": "50000",
+      "trafficLabel": "50K+",
+      "image": "/covers/nz-vs-ind.svg",
+      "imageSource": "",
+      "publishedAt": "2026-10-22T06:10:00.000Z",
+      "publishedLabel": "",
+      "rank": 21,
+      "blocks": [
+        {
+          "type": "p",
+          "text": "Nz vs Ind is one of the 25 biggest searches in the United States today. NZ vs IND 1st T20I LIVE REPORT - Samson, Iyer and Dhir star in tense India win."
+        },
+        {
+          "type": "h2",
+          "text": "The result people are checking"
+        },
+        {
+          "type": "p",
+          "text": "Samson too powerful as India beats New Zealand by 4 wickets in record T20 run chase. India wins the toss and bowls in the 1st T20 cricket international against New Zealand."
+        },
+        {
+          "type": "p",
+          "text": "People are searching “nz vs ind.” This page stays with those accounts and does not add a score, a name, or an outcome that was not in them."
+        }
+      ],
+      "sources": []
+    },
+    {
+      "slug": "walker-kessler",
+      "query": "walker kessler",
+      "title": "Walker Kessler",
+      "headline": "Lakers 127-105 Warriors (Oct 21, 2026) Game Recap",
+      "dek": "Lakers 127-105 Warriors (Oct 21, 2026) Game Recap.",
+      "angle": "Lakers 127-105 Warriors (Oct 21, 2026) Game Recap",
+      "traffic": "50000",
+      "trafficLabel": "50K+",
+      "image": "/covers/walker-kessler.svg",
+      "imageSource": "",
+      "publishedAt": "2026-10-22T02:10:00.000Z",
+      "publishedLabel": "",
+      "rank": 22,
+      "blocks": [
+        {
+          "type": "p",
+          "text": "Walker Kessler is one of the 25 biggest searches in the United States today. Lakers 127-105 Warriors (Oct 21, 2026) Game Recap."
+        },
+        {
+          "type": "h2",
+          "text": "What is already on the record"
+        },
+        {
+          "type": "p",
+          "text": "Lakers center Walker Kessler believes his competitive side will overcome pressure. Mean, it's not what I saw. It's what Luka and AR and …."
+        },
+        {
+          "type": "p",
+          "text": "People are searching “walker kessler.” This page stays with those accounts and does not add a score, a name, or an outcome that was not in them."
+        }
+      ],
+      "sources": []
+    },
+    {
+      "slug": "darik-pearson-cover-band-frontman",
+      "query": "darik pearson cover band frontman",
+      "title": "Darik Pearson Cover Band Frontman",
+      "headline": "Rock singer’s heartbreaking final post before death: ‘Grateful for the life I built’",
+      "dek": "Rock singer’s heartbreaking final post before death: ‘Grateful for the life I built’.",
+      "angle": "Rock singer’s heartbreaking final post before death: ‘Grateful for the life I built’",
+      "traffic": "50000",
+      "trafficLabel": "50K+",
+      "image": "/covers/darik-pearson-cover-band-frontman.svg",
+      "imageSource": "",
+      "publishedAt": "2026-10-21T15:00:00.000Z",
+      "publishedLabel": "",
+      "rank": 23,
+      "blocks": [
+        {
+          "type": "p",
+          "text": "Darik Pearson Cover Band Frontman is one of the 25 biggest searches in the United States today. Rock singer’s heartbreaking final post before death: ‘Grateful for the life I built’."
+        },
+        {
+          "type": "h2",
+          "text": "What is already on the record"
+        },
+        {
+          "type": "p",
+          "text": "Shelton Frontman Of Popular Cover Band Dies, Remembered For His 'Talent, Passion And Love For Music'. From Southern to the Stage: Remembering Darik Pearson, ’94."
+        },
+        {
+          "type": "p",
+          "text": "People are searching “darik pearson cover band frontman.” This page stays with those accounts and does not add a score, a name, or an outcome that was not in them."
+        }
+      ],
+      "sources": []
+    },
+    {
+      "slug": "pachuca-cruz-azul",
+      "query": "pachuca - cruz azul",
+      "title": "Pachuca - Cruz Azul",
+      "headline": "Cruz Azul se acerca a la Liguilla y agudiza la crisis del Pachuca",
+      "dek": "Cruz Azul se acerca a la Liguilla y agudiza la crisis del Pachuca.",
+      "angle": "Cruz Azul se acerca a la Liguilla y agudiza la crisis del Pachuca",
+      "traffic": "50000",
+      "trafficLabel": "50K+",
+      "image": "/covers/pachuca-cruz-azul.svg",
+      "imageSource": "",
+      "publishedAt": "2026-10-22T02:20:00.000Z",
+      "publishedLabel": "",
+      "rank": 24,
+      "blocks": [
+        {
+          "type": "p",
+          "text": "Pachuca - Cruz Azul is one of the 25 biggest searches in the United States today. Cruz Azul se acerca a la Liguilla y agudiza la crisis del Pachuca."
+        },
+        {
+          "type": "h2",
+          "text": "What is already on the record"
+        },
+        {
+          "type": "p",
+          "text": "El calendario de los próximos partidos de Cruz Azul tras vencer 2-1 al Pachuca. ¡Arranca el Pachuca vs. Cruz Azul! EN VIVO desde el estadio Hidalgo."
+        },
+        {
+          "type": "p",
+          "text": "People are searching “pachuca - cruz azul.” This page stays with those accounts and does not add a score, a name, or an outcome that was not in them."
+        }
+      ],
+      "sources": []
+    },
+    {
+      "slug": "kings-vs-clippers",
+      "query": "kings vs clippers",
+      "title": "Kings vs Clippers",
+      "headline": "Game Recap: Clippers 121, Kings 96",
+      "dek": "Game Recap: Clippers 121, Kings 96.",
+      "angle": "Game Recap: Clippers 121, Kings 96",
+      "traffic": "50000",
+      "trafficLabel": "50K+",
+      "image": "/covers/kings-vs-clippers.svg",
+      "imageSource": "",
+      "publishedAt": "2026-10-22T01:30:00.000Z",
+      "publishedLabel": "",
+      "rank": 25,
+      "blocks": [
+        {
+          "type": "p",
+          "text": "Kings vs Clippers is one of the 25 biggest searches in the United States today. Game Recap: Clippers 121, Kings 96."
+        },
+        {
+          "type": "h2",
+          "text": "The result people are checking"
+        },
+        {
+          "type": "p",
+          "text": "Clippers get unexpected opening-night statement from Darius Garland after chaotic offseason."
+        },
+        {
+          "type": "p",
+          "text": "People are searching “kings vs clippers.” This page stays with those accounts and does not add a score, a name, or an outcome that was not in them."
+        }
+      ],
+      "sources": []
+    }
+  ]
+}
