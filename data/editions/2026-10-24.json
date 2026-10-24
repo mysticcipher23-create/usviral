@@ -1,0 +1,861 @@
+{
+  "date": "2026-10-24",
+  "fetchedAt": "2026-10-24T12:26:26.648Z",
+  "geo": "US",
+  "window": "24h",
+  "sort": "volume",
+  "limit": 25,
+  "sourceUrl": "https://trends.google.com/trending?geo=US&hours=24&sort=search-volume",
+  "posts": [
+    {
+      "slug": "world-series",
+      "query": "world series",
+      "title": "World Series",
+      "headline": "Rays won't ease up on basepaths despite miscues in Game 1 of World Series",
+      "dek": "Rays won't ease up on basepaths despite miscues in Game 1 of World Series.",
+      "angle": "Rays won't ease up on basepaths despite miscues in Game 1 of World Series",
+      "traffic": "1000000",
+      "trafficLabel": "1M+",
+      "image": "/covers/world-series.svg",
+      "imageSource": "",
+      "publishedAt": "2026-10-23T21:40:00.000Z",
+      "publishedLabel": "",
+      "rank": 1,
+      "blocks": [
+        {
+          "type": "p",
+          "text": "World Series is one of the 25 biggest searches in the United States today. Rays won't ease up on basepaths despite miscues in Game 1 of World Series."
+        },
+        {
+          "type": "h2",
+          "text": "What is already on the record"
+        },
+        {
+          "type": "p",
+          "text": "Playoff Roundup: Misiorowski, Yelich strike early in Brewers’ Game 1 win. Milwaukee Brewers ride key hits and excellent defense to win Game 1 of the World Series."
+        },
+        {
+          "type": "p",
+          "text": "People are searching “world series.” This page stays with those accounts and does not add a score, a name, or an outcome that was not in them."
+        }
+      ],
+      "sources": []
+    },
+    {
+      "slug": "knicks-vs-celtics",
+      "query": "knicks vs celtics",
+      "title": "Knicks vs Celtics",
+      "headline": "LA Clippers vs Los Angeles Lakers Oct 23, 2026 Box Scores",
+      "dek": "LA Clippers vs Los Angeles Lakers Oct 23, 2026 Box Scores.",
+      "angle": "LA Clippers vs Los Angeles Lakers Oct 23, 2026 Box Scores",
+      "traffic": "200000",
+      "trafficLabel": "200K+",
+      "image": "/covers/knicks-vs-celtics.svg",
+      "imageSource": "",
+      "publishedAt": "2026-10-23T20:50:00.000Z",
+      "publishedLabel": "",
+      "rank": 2,
+      "blocks": [
+        {
+          "type": "p",
+          "text": "Knicks vs Celtics is one of the 25 biggest searches in the United States today. LA Clippers vs Los Angeles Lakers Oct 23, 2026 Box Scores."
+        },
+        {
+          "type": "h2",
+          "text": "The result people are checking"
+        },
+        {
+          "type": "p",
+          "text": "Chicago Bulls vs Milwaukee Bucks Oct 23, 2026 Box Scores. New York Knicks vs Boston Celtics Oct 23, 2026 Box Scores."
+        },
+        {
+          "type": "p",
+          "text": "People are searching “knicks vs celtics.” This page stays with those accounts and does not add a score, a name, or an outcome that was not in them."
+        }
+      ],
+      "sources": []
+    },
+    {
+      "slug": "rockets-vs-spurs",
+      "query": "rockets vs spurs",
+      "title": "Rockets vs Spurs",
+      "headline": "Amen Thompson stuffs Wemby's last-second shot as Rockets hold off Spurs",
+      "dek": "Amen Thompson stuffs Wemby's last-second shot as Rockets hold off Spurs.",
+      "angle": "Amen Thompson stuffs Wemby's last-second shot as Rockets hold off Spurs",
+      "traffic": "200000",
+      "trafficLabel": "200K+",
+      "image": "/covers/rockets-vs-spurs.svg",
+      "imageSource": "",
+      "publishedAt": "2026-10-23T23:20:00.000Z",
+      "publishedLabel": "",
+      "rank": 3,
+      "blocks": [
+        {
+          "type": "p",
+          "text": "Rockets vs Spurs is one of the 25 biggest searches in the United States today. Amen Thompson stuffs Wemby's last-second shot as Rockets hold off Spurs."
+        },
+        {
+          "type": "h2",
+          "text": "The result people are checking"
+        },
+        {
+          "type": "p",
+          "text": "Alperen Sengun pours in 29 as Rockets narrowly escape Spurs. \"I said, 'What the f--- is wrong with him, thinking he …."
+        },
+        {
+          "type": "p",
+          "text": "People are searching “rockets vs spurs.” This page stays with those accounts and does not add a score, a name, or an outcome that was not in them."
+        }
+      ],
+      "sources": []
+    },
+    {
+      "slug": "grizzlies-vs-warriors",
+      "query": "grizzlies vs warriors",
+      "title": "Grizzlies vs Warriors",
+      "headline": "Warriors implode late as Grizzlies' 17-0 run caps stunning comeback",
+      "dek": "Warriors implode late as Grizzlies' 17-0 run caps stunning comeback.",
+      "angle": "Warriors implode late as Grizzlies' 17-0 run caps stunning comeback",
+      "traffic": "200000",
+      "trafficLabel": "200K+",
+      "image": "/covers/grizzlies-vs-warriors.svg",
+      "imageSource": "",
+      "publishedAt": "2026-10-24T01:00:00.000Z",
+      "publishedLabel": "",
+      "rank": 4,
+      "blocks": [
+        {
+          "type": "p",
+          "text": "Grizzlies vs Warriors is one of the 25 biggest searches in the United States today. Warriors implode late as Grizzlies' 17-0 run caps stunning comeback."
+        },
+        {
+          "type": "h2",
+          "text": "The result people are checking"
+        },
+        {
+          "type": "p",
+          "text": "How first-half ‘mental toughness' kept Warriors in the game vs. Grizzlies. Game Recap: Grizzlies 111, Warriors 108."
+        },
+        {
+          "type": "p",
+          "text": "People are searching “grizzlies vs warriors.” This page stays with those accounts and does not add a score, a name, or an outcome that was not in them."
+        }
+      ],
+      "sources": []
+    },
+    {
+      "slug": "bulls-vs-bucks",
+      "query": "bulls vs bucks",
+      "title": "Bulls vs Bucks",
+      "headline": "Bulls 132-125 Bucks (Oct 23, 2026) Game Recap",
+      "dek": "Bulls 132-125 Bucks (Oct 23, 2026) Game Recap.",
+      "angle": "Bulls 132-125 Bucks (Oct 23, 2026) Game Recap",
+      "traffic": "200000",
+      "trafficLabel": "200K+",
+      "image": "/covers/bulls-vs-bucks.svg",
+      "imageSource": "",
+      "publishedAt": "2026-10-23T19:00:00.000Z",
+      "publishedLabel": "",
+      "rank": 5,
+      "blocks": [
+        {
+          "type": "p",
+          "text": "Bulls vs Bucks is one of the 25 biggest searches in the United States today. Bulls 132-125 Bucks (Oct 23, 2026) Game Recap."
+        },
+        {
+          "type": "h2",
+          "text": "The result people are checking"
+        },
+        {
+          "type": "p",
+          "text": "Takeaways from the Chicago Bulls’ 1st win, including a bounce-back game from rookie Caleb Wilson. Game Recap: Bulls 132, Bucks 125."
+        },
+        {
+          "type": "p",
+          "text": "People are searching “bulls vs bucks.” This page stays with those accounts and does not add a score, a name, or an outcome that was not in them."
+        }
+      ],
+      "sources": []
+    },
+    {
+      "slug": "clippers-vs-lakers",
+      "query": "clippers vs lakers",
+      "title": "Clippers vs Lakers",
+      "headline": "R Huelva vs. Rayo (Oct 27, 2026) Live Score",
+      "dek": "R Huelva vs. Rayo (Oct 27, 2026) Live Score.",
+      "angle": "R Huelva vs. Rayo (Oct 27, 2026) Live Score",
+      "traffic": "100000",
+      "trafficLabel": "100K+",
+      "image": "/covers/clippers-vs-lakers.svg",
+      "imageSource": "",
+      "publishedAt": "2026-10-24T01:00:00.000Z",
+      "publishedLabel": "",
+      "rank": 6,
+      "blocks": [
+        {
+          "type": "p",
+          "text": "Clippers vs Lakers is one of the 25 biggest searches in the United States today. R Huelva vs. Rayo (Oct 27, 2026) Live Score."
+        },
+        {
+          "type": "h2",
+          "text": "The result people are checking"
+        },
+        {
+          "type": "p",
+          "text": "Pistons’ Ausar Thompson dazzles with behind-the-back slam dunk. Ausar Thompson with the massive swat at the rim."
+        },
+        {
+          "type": "p",
+          "text": "People are searching “clippers vs lakers.” This page stays with those accounts and does not add a score, a name, or an outcome that was not in them."
+        }
+      ],
+      "sources": []
+    },
+    {
+      "slug": "ric-flair",
+      "query": "ric flair",
+      "title": "Ric Flair",
+      "headline": "Ric Flair Rushed to Hospital After Falling Outside Restaurant in Florida",
+      "dek": "Ric Flair Rushed to Hospital After Falling Outside Restaurant in Florida.",
+      "angle": "Ric Flair Rushed to Hospital After Falling Outside Restaurant in Florida",
+      "traffic": "100000",
+      "trafficLabel": "100K+",
+      "image": "/covers/ric-flair.svg",
+      "imageSource": "",
+      "publishedAt": "2026-10-23T19:20:00.000Z",
+      "publishedLabel": "",
+      "rank": 7,
+      "blocks": [
+        {
+          "type": "p",
+          "text": "Ric Flair is one of the 25 biggest searches in the United States today. Ric Flair Rushed to Hospital After Falling Outside Restaurant in Florida."
+        },
+        {
+          "type": "h2",
+          "text": "What is already on the record"
+        },
+        {
+          "type": "p",
+          "text": "Ric Flair to undergo procedure for ‘extremely serious’ blood clot. Wrestling legend Ric Flair, 77, rushed to Tampa hospital after fall outside bar, head injuries: report."
+        },
+        {
+          "type": "p",
+          "text": "People are searching “ric flair.” This page stays with those accounts and does not add a score, a name, or an outcome that was not in them."
+        }
+      ],
+      "sources": []
+    },
+    {
+      "slug": "pistons-vs-heat",
+      "query": "pistons vs heat",
+      "title": "Pistons vs Heat",
+      "headline": "Pistons 128-111 Heat (Oct 23, 2026) Game Recap",
+      "dek": "Pistons 128-111 Heat (Oct 23, 2026) Game Recap.",
+      "angle": "Pistons 128-111 Heat (Oct 23, 2026) Game Recap",
+      "traffic": "100000",
+      "trafficLabel": "100K+",
+      "image": "/covers/pistons-vs-heat.svg",
+      "imageSource": "",
+      "publishedAt": "2026-10-23T23:00:00.000Z",
+      "publishedLabel": "",
+      "rank": 8,
+      "blocks": [
+        {
+          "type": "p",
+          "text": "Pistons vs Heat is one of the 25 biggest searches in the United States today. Pistons 128-111 Heat (Oct 23, 2026) Game Recap."
+        },
+        {
+          "type": "h2",
+          "text": "The result people are checking"
+        },
+        {
+          "type": "p",
+          "text": "Giannis Antetokounmpo thinks he knows what's actually the problem at Miami Heat right now. Detroit Pistons invested in 3-point shooting, and it's working."
+        },
+        {
+          "type": "p",
+          "text": "People are searching “pistons vs heat.” This page stays with those accounts and does not add a score, a name, or an outcome that was not in them."
+        }
+      ],
+      "sources": []
+    },
+    {
+      "slug": "timberwolves-vs-magic",
+      "query": "timberwolves vs magic",
+      "title": "Timberwolves vs Magic",
+      "headline": "Timberwolves 115-93 Magic (Oct 23, 2026) Game Recap",
+      "dek": "Timberwolves 115-93 Magic (Oct 23, 2026) Game Recap.",
+      "angle": "Timberwolves 115-93 Magic (Oct 23, 2026) Game Recap",
+      "traffic": "100000",
+      "trafficLabel": "100K+",
+      "image": "/covers/timberwolves-vs-magic.svg",
+      "imageSource": "",
+      "publishedAt": "2026-10-23T22:00:00.000Z",
+      "publishedLabel": "",
+      "rank": 9,
+      "blocks": [
+        {
+          "type": "p",
+          "text": "Timberwolves vs Magic is one of the 25 biggest searches in the United States today. Timberwolves 115-93 Magic (Oct 23, 2026) Game Recap."
+        },
+        {
+          "type": "h2",
+          "text": "The result people are checking"
+        },
+        {
+          "type": "p",
+          "text": "Game Recap: Timberwolves 115, Magic 93."
+        },
+        {
+          "type": "p",
+          "text": "People are searching “timberwolves vs magic.” This page stays with those accounts and does not add a score, a name, or an outcome that was not in them."
+        }
+      ],
+      "sources": []
+    },
+    {
+      "slug": "mavericks-vs-pacers",
+      "query": "mavericks vs pacers",
+      "title": "Mavericks vs Pacers",
+      "headline": "Mavericks' Cooper Flagg lands on shoulder after hard foul, exits win vs. Pacers",
+      "dek": "Mavericks' Cooper Flagg lands on shoulder after hard foul, exits win vs. Pacers.",
+      "angle": "Mavericks' Cooper Flagg lands on shoulder after hard foul, exits win vs. Pacers",
+      "traffic": "100000",
+      "trafficLabel": "100K+",
+      "image": "/covers/mavericks-vs-pacers.svg",
+      "imageSource": "",
+      "publishedAt": "2026-10-23T22:00:00.000Z",
+      "publishedLabel": "",
+      "rank": 10,
+      "blocks": [
+        {
+          "type": "p",
+          "text": "Mavericks vs Pacers is one of the 25 biggest searches in the United States today. Mavericks' Cooper Flagg lands on shoulder after hard foul, exits win vs. Pacers."
+        },
+        {
+          "type": "h2",
+          "text": "The result people are checking"
+        },
+        {
+          "type": "p",
+          "text": "Watch: Mavericks insider breaks down Dallas' first win of the season vs. Pacers. Mavericks star Cooper Flagg exits game after hard foul sparks shoving match vs Pacers."
+        },
+        {
+          "type": "p",
+          "text": "People are searching “mavericks vs pacers.” This page stays with those accounts and does not add a score, a name, or an outcome that was not in them."
+        }
+      ],
+      "sources": []
+    },
+    {
+      "slug": "celtics",
+      "query": "celtics",
+      "title": "Celtics",
+      "headline": "Celtics 107-103 Knicks (Oct 23, 2026) Game Recap",
+      "dek": "Celtics 107-103 Knicks (Oct 23, 2026) Game Recap.",
+      "angle": "Celtics 107-103 Knicks (Oct 23, 2026) Game Recap",
+      "traffic": "100000",
+      "trafficLabel": "100K+",
+      "image": "/covers/celtics.svg",
+      "imageSource": "",
+      "publishedAt": "2026-10-23T23:30:00.000Z",
+      "publishedLabel": "",
+      "rank": 11,
+      "blocks": [
+        {
+          "type": "p",
+          "text": "Celtics is one of the 25 biggest searches in the United States today. Celtics 107-103 Knicks (Oct 23, 2026) Game Recap."
+        },
+        {
+          "type": "h2",
+          "text": "What is already on the record"
+        },
+        {
+          "type": "p",
+          "text": "Celtics-Knicks recap: Jayson Tatum comes through in clutch for C's first victory. Game Recap: Celtics 107, Knicks 103."
+        },
+        {
+          "type": "p",
+          "text": "People are searching “celtics.” This page stays with those accounts and does not add a score, a name, or an outcome that was not in them."
+        }
+      ],
+      "sources": []
+    },
+    {
+      "slug": "aston-villa-vs-man-city",
+      "query": "aston villa vs man city",
+      "title": "Aston Villa vs Man City",
+      "headline": "Aston Villa vs Man City LIVE! Premier League score updates, news, prediction and line-ups",
+      "dek": "Aston Villa vs Man City LIVE! Premier League score updates, news, prediction and line-ups.",
+      "angle": "Aston Villa vs Man City LIVE! Premier League score updates, news, prediction and line-ups",
+      "traffic": "50000",
+      "trafficLabel": "50K+",
+      "image": "/covers/aston-villa-vs-man-city.svg",
+      "imageSource": "",
+      "publishedAt": "2026-10-24T09:40:00.000Z",
+      "publishedLabel": "",
+      "rank": 12,
+      "blocks": [
+        {
+          "type": "p",
+          "text": "Aston Villa vs Man City is one of the 25 biggest searches in the United States today. Aston Villa vs Man City LIVE! Premier League score updates, news, prediction and line-ups."
+        },
+        {
+          "type": "h2",
+          "text": "The result people are checking"
+        },
+        {
+          "type": "p",
+          "text": "Premier League live updates: Aston Villa host league leaders Man City."
+        },
+        {
+          "type": "p",
+          "text": "People are searching “aston villa vs man city.” This page stays with those accounts and does not add a score, a name, or an outcome that was not in them."
+        }
+      ],
+      "sources": []
+    },
+    {
+      "slug": "nc-state-vs-stanford",
+      "query": "nc state vs stanford",
+      "title": "Nc State vs Stanford",
+      "headline": "Davis Warren’s 4 TD passes lead Stanford to a 31-28 win over NC State",
+      "dek": "Davis Warren’s 4 TD passes lead Stanford to a 31-28 win over NC State.",
+      "angle": "Davis Warren’s 4 TD passes lead Stanford to a 31-28 win over NC State",
+      "traffic": "50000",
+      "trafficLabel": "50K+",
+      "image": "/covers/nc-state-vs-stanford.svg",
+      "imageSource": "",
+      "publishedAt": "2026-10-24T01:40:00.000Z",
+      "publishedLabel": "",
+      "rank": 13,
+      "blocks": [
+        {
+          "type": "p",
+          "text": "Nc State vs Stanford is one of the 25 biggest searches in the United States today. Davis Warren’s 4 TD passes lead Stanford to a 31-28 win over NC State."
+        },
+        {
+          "type": "h2",
+          "text": "The result people are checking"
+        },
+        {
+          "type": "p",
+          "text": "NC State vs. Stanford Takeaways 2026: Wolfpack falls flat in inexcusable loss to Cardinal. Game thread: NC State vs. Stanford."
+        },
+        {
+          "type": "p",
+          "text": "People are searching “nc state vs stanford.” This page stays with those accounts and does not add a score, a name, or an outcome that was not in them."
+        }
+      ],
+      "sources": []
+    },
+    {
+      "slug": "duke-vs-virginia",
+      "query": "duke vs virginia",
+      "title": "Duke vs Virginia",
+      "headline": "Duke rallies past Virginia in ACC thriller with late trick-play touchdown",
+      "dek": "Duke rallies past Virginia in ACC thriller with late trick-play touchdown.",
+      "angle": "Duke rallies past Virginia in ACC thriller with late trick-play touchdown",
+      "traffic": "50000",
+      "trafficLabel": "50K+",
+      "image": "/covers/duke-vs-virginia.svg",
+      "imageSource": "",
+      "publishedAt": "2026-10-23T21:50:00.000Z",
+      "publishedLabel": "",
+      "rank": 14,
+      "blocks": [
+        {
+          "type": "p",
+          "text": "Duke vs Virginia is one of the 25 biggest searches in the United States today. Duke rallies past Virginia in ACC thriller with late trick-play touchdown."
+        },
+        {
+          "type": "h2",
+          "text": "The result people are checking"
+        },
+        {
+          "type": "p",
+          "text": "Duke 19, Virginia 16: Five Key Plays. Virginia Hosts Duke in Friday Night ACC Championship Rematch."
+        },
+        {
+          "type": "p",
+          "text": "People are searching “duke vs virginia.” This page stays with those accounts and does not add a score, a name, or an outcome that was not in them."
+        }
+      ],
+      "sources": []
+    },
+    {
+      "slug": "trail-blazers-vs-kings",
+      "query": "trail blazers vs kings",
+      "title": "Trail Blazers vs Kings",
+      "headline": "Trail Blazers 128-120 Kings (Oct 23, 2026) Game Recap",
+      "dek": "Trail Blazers 128-120 Kings (Oct 23, 2026) Game Recap.",
+      "angle": "Trail Blazers 128-120 Kings (Oct 23, 2026) Game Recap",
+      "traffic": "50000",
+      "trafficLabel": "50K+",
+      "image": "/covers/trail-blazers-vs-kings.svg",
+      "imageSource": "",
+      "publishedAt": "2026-10-24T01:00:00.000Z",
+      "publishedLabel": "",
+      "rank": 15,
+      "blocks": [
+        {
+          "type": "p",
+          "text": "Trail Blazers vs Kings is one of the 25 biggest searches in the United States today. Trail Blazers 128-120 Kings (Oct 23, 2026) Game Recap."
+        },
+        {
+          "type": "h2",
+          "text": "The result people are checking"
+        },
+        {
+          "type": "p",
+          "text": "Game Recap: Trail Blazers 128, Kings 120. Doug Christie ‘drastically needs' Kings' consistency on defense to improve."
+        },
+        {
+          "type": "p",
+          "text": "People are searching “trail blazers vs kings.” This page stays with those accounts and does not add a score, a name, or an outcome that was not in them."
+        }
+      ],
+      "sources": []
+    },
+    {
+      "slug": "pelicans-vs-jazz",
+      "query": "pelicans vs jazz",
+      "title": "Pelicans vs Jazz",
+      "headline": "Game Recap: Jazz 120, Pelicans 119",
+      "dek": "Game Recap: Jazz 120, Pelicans 119.",
+      "angle": "Game Recap: Jazz 120, Pelicans 119",
+      "traffic": "50000",
+      "trafficLabel": "50K+",
+      "image": "/covers/pelicans-vs-jazz.svg",
+      "imageSource": "",
+      "publishedAt": "2026-10-24T00:40:00.000Z",
+      "publishedLabel": "",
+      "rank": 16,
+      "blocks": [
+        {
+          "type": "p",
+          "text": "Pelicans vs Jazz is one of the 25 biggest searches in the United States today. Game Recap: Jazz 120, Pelicans 119."
+        },
+        {
+          "type": "h2",
+          "text": "The result people are checking"
+        },
+        {
+          "type": "p",
+          "text": "Utah Jazz Win Nailbiter Against the New Orleans Pelicans. Jazz 120-119 Pelicans (Oct 23, 2026) Game Recap."
+        },
+        {
+          "type": "p",
+          "text": "People are searching “pelicans vs jazz.” This page stays with those accounts and does not add a score, a name, or an outcome that was not in them."
+        }
+      ],
+      "sources": []
+    },
+    {
+      "slug": "jacob-misiorowski",
+      "query": "jacob misiorowski",
+      "title": "Jacob Misiorowski",
+      "headline": "World Series: Milwaukee Brewers beat Tampa Bay Rays 3-2 in opening game",
+      "dek": "World Series: Milwaukee Brewers beat Tampa Bay Rays 3-2 in opening game.",
+      "angle": "World Series: Milwaukee Brewers beat Tampa Bay Rays 3-2 in opening game",
+      "traffic": "50000",
+      "trafficLabel": "50K+",
+      "image": "/covers/jacob-misiorowski.svg",
+      "imageSource": "",
+      "publishedAt": "2026-10-24T00:00:00.000Z",
+      "publishedLabel": "",
+      "rank": 17,
+      "blocks": [
+        {
+          "type": "p",
+          "text": "Jacob Misiorowski is one of the 25 biggest searches in the United States today. World Series: Milwaukee Brewers beat Tampa Bay Rays 3-2 in opening game."
+        },
+        {
+          "type": "h2",
+          "text": "What is already on the record"
+        },
+        {
+          "type": "p",
+          "text": "Miz sets World Series velo record -- on first pitch! Brewers' Jacob Misiorowski sets WS velocity record on first pitch."
+        },
+        {
+          "type": "p",
+          "text": "People are searching “jacob misiorowski.” This page stays with those accounts and does not add a score, a name, or an outcome that was not in them."
+        }
+      ],
+      "sources": []
+    },
+    {
+      "slug": "connor-hellebuyck",
+      "query": "connor hellebuyck",
+      "title": "Connor Hellebuyck",
+      "headline": "NHL trade grades: Connor Hellebuyck to New Jersey Devils",
+      "dek": "NHL trade grades: Connor Hellebuyck to New Jersey Devils.",
+      "angle": "NHL trade grades: Connor Hellebuyck to New Jersey Devils",
+      "traffic": "50000",
+      "trafficLabel": "50K+",
+      "image": "/covers/connor-hellebuyck.svg",
+      "imageSource": "",
+      "publishedAt": "2026-10-23T14:40:00.000Z",
+      "publishedLabel": "",
+      "rank": 18,
+      "blocks": [
+        {
+          "type": "p",
+          "text": "Connor Hellebuyck is one of the 25 biggest searches in the United States today. NHL trade grades: Connor Hellebuyck to New Jersey Devils."
+        },
+        {
+          "type": "h2",
+          "text": "What is already on the record"
+        },
+        {
+          "type": "p",
+          "text": "Jets acquire Mercer, Command and more from Devils. Connor Hellebuyck Traded to Devils as Jets Suspension Ends, Full Details Revealed."
+        },
+        {
+          "type": "p",
+          "text": "People are searching “connor hellebuyck.” This page stays with those accounts and does not add a score, a name, or an outcome that was not in them."
+        }
+      ],
+      "sources": []
+    },
+    {
+      "slug": "lakers-vs-clippers",
+      "query": "lakers vs clippers",
+      "title": "Lakers vs Clippers",
+      "headline": "Lakers 125-117 Clippers (Oct 23, 2026) Game Recap",
+      "dek": "Lakers 125-117 Clippers (Oct 23, 2026) Game Recap.",
+      "angle": "Lakers 125-117 Clippers (Oct 23, 2026) Game Recap",
+      "traffic": "50000",
+      "trafficLabel": "50K+",
+      "image": "/covers/lakers-vs-clippers.svg",
+      "imageSource": "",
+      "publishedAt": "2026-10-24T01:10:00.000Z",
+      "publishedLabel": "",
+      "rank": 19,
+      "blocks": [
+        {
+          "type": "p",
+          "text": "Lakers vs Clippers is one of the 25 biggest searches in the United States today. Lakers 125-117 Clippers (Oct 23, 2026) Game Recap."
+        },
+        {
+          "type": "h2",
+          "text": "The result people are checking"
+        },
+        {
+          "type": "p",
+          "text": "Game Recap: Lakers 125, Clippers 117. Austin Reaves, Walker Kessler lead Lakers past the Clippers."
+        },
+        {
+          "type": "p",
+          "text": "People are searching “lakers vs clippers.” This page stays with those accounts and does not add a score, a name, or an outcome that was not in them."
+        }
+      ],
+      "sources": []
+    },
+    {
+      "slug": "avengers-doomsday",
+      "query": "avengers doomsday",
+      "title": "Avengers Doomsday",
+      "headline": "Miz, Caminero and other players in 'Avengers: Doomsday'? Take a sneak peek at it",
+      "dek": "Miz, Caminero and other players in 'Avengers: Doomsday'? Take a sneak peek at it.",
+      "angle": "Miz, Caminero and other players in 'Avengers: Doomsday'? Take a sneak peek at it",
+      "traffic": "50000",
+      "trafficLabel": "50K+",
+      "image": "/covers/avengers-doomsday.svg",
+      "imageSource": "",
+      "publishedAt": "2026-10-23T13:00:00.000Z",
+      "publishedLabel": "",
+      "rank": 20,
+      "blocks": [
+        {
+          "type": "p",
+          "text": "Avengers Doomsday is one of the 25 biggest searches in the United States today. Miz, Caminero and other players in 'Avengers: Doomsday'? Take a sneak peek at it."
+        },
+        {
+          "type": "h2",
+          "text": "What is already on the record"
+        },
+        {
+          "type": "p",
+          "text": "‘Avengers: Doomsday’ Teaser Falls Flat After Promise of a New Look: ‘That’s It??’."
+        },
+        {
+          "type": "p",
+          "text": "People are searching “avengers doomsday.” This page stays with those accounts and does not add a score, a name, or an outcome that was not in them."
+        }
+      ],
+      "sources": []
+    },
+    {
+      "slug": "ainsley-earhardt",
+      "query": "ainsley earhardt",
+      "title": "Ainsley Earhardt",
+      "headline": "Fox News’ Sean Hannity and Ainsley Earhardt celebrate with Trump at Mar-a-Lago ahead of wedding",
+      "dek": "Fox News’ Sean Hannity and Ainsley Earhardt celebrate with Trump at Mar-a-Lago ahead of wedding.",
+      "angle": "Fox News’ Sean Hannity and Ainsley Earhardt celebrate with Trump at Mar-a-Lago ahead of wedding",
+      "traffic": "20000",
+      "trafficLabel": "20K+",
+      "image": "/covers/ainsley-earhardt.svg",
+      "imageSource": "",
+      "publishedAt": "2026-10-24T01:50:00.000Z",
+      "publishedLabel": "",
+      "rank": 21,
+      "blocks": [
+        {
+          "type": "p",
+          "text": "Ainsley Earhardt is one of the 25 biggest searches in the United States today. Fox News’ Sean Hannity and Ainsley Earhardt celebrate with Trump at Mar-a-Lago ahead of wedding."
+        },
+        {
+          "type": "h2",
+          "text": "What is already on the record"
+        },
+        {
+          "type": "p",
+          "text": "Ainsley Earhardt and Sean Hannity celebrate upcoming wedding surrounded by family and friends at Mar-a-Lago. Ainsley Earhardt and Sean Hannity Get Brutally Roasted by the Internet: ‘He Looks Like Her Grandpa’."
+        },
+        {
+          "type": "p",
+          "text": "People are searching “ainsley earhardt.” This page stays with those accounts and does not add a score, a name, or an outcome that was not in them."
+        }
+      ],
+      "sources": []
+    },
+    {
+      "slug": "army-vs-tulsa",
+      "query": "army vs tulsa",
+      "title": "Army vs Tulsa",
+      "headline": "Army 38-35 Tulsa (Oct 23, 2026) Game Recap",
+      "dek": "Army 38-35 Tulsa (Oct 23, 2026) Game Recap.",
+      "angle": "Army 38-35 Tulsa (Oct 23, 2026) Game Recap",
+      "traffic": "20000",
+      "trafficLabel": "20K+",
+      "image": "/covers/army-vs-tulsa.svg",
+      "imageSource": "",
+      "publishedAt": "2026-10-23T23:30:00.000Z",
+      "publishedLabel": "",
+      "rank": 22,
+      "blocks": [
+        {
+          "type": "p",
+          "text": "Army vs Tulsa is one of the 25 biggest searches in the United States today. Army 38-35 Tulsa (Oct 23, 2026) Game Recap."
+        },
+        {
+          "type": "h2",
+          "text": "The result people are checking"
+        },
+        {
+          "type": "p",
+          "text": "Honored Division Week #7: Black Knights head to Tulsa, honor 1st Infantry Division with gameday patch."
+        },
+        {
+          "type": "p",
+          "text": "People are searching “army vs tulsa.” This page stays with those accounts and does not add a score, a name, or an outcome that was not in them."
+        }
+      ],
+      "sources": []
+    },
+    {
+      "slug": "lightning-vs-avalanche",
+      "query": "lightning vs avalanche",
+      "title": "Lightning vs Avalanche",
+      "headline": "MacKinnon has four points, Avalanche defeat Lightning to get back on track",
+      "dek": "MacKinnon has four points, Avalanche defeat Lightning to get back on track.",
+      "angle": "MacKinnon has four points, Avalanche defeat Lightning to get back on track",
+      "traffic": "20000",
+      "trafficLabel": "20K+",
+      "image": "/covers/lightning-vs-avalanche.svg",
+      "imageSource": "",
+      "publishedAt": "2026-10-24T00:00:00.000Z",
+      "publishedLabel": "",
+      "rank": 23,
+      "blocks": [
+        {
+          "type": "p",
+          "text": "Lightning vs Avalanche is one of the 25 biggest searches in the United States today. MacKinnon has four points, Avalanche defeat Lightning to get back on track."
+        },
+        {
+          "type": "h2",
+          "text": "The result people are checking"
+        },
+        {
+          "type": "p",
+          "text": "Recap: Avalanche bring the thunder in 6-3 defeat of Lightning. Nathan MacKinnon lights the lamp for Avalanche."
+        },
+        {
+          "type": "p",
+          "text": "People are searching “lightning vs avalanche.” This page stays with those accounts and does not add a score, a name, or an outcome that was not in them."
+        }
+      ],
+      "sources": []
+    },
+    {
+      "slug": "new-zealand-vs-india",
+      "query": "new zealand vs india",
+      "title": "New Zealand vs India",
+      "headline": "Tilak Varma: I have done what everyone believed",
+      "dek": "Tilak Varma: I have done what everyone believed.",
+      "angle": "Tilak Varma: I have done what everyone believed",
+      "traffic": "20000",
+      "trafficLabel": "20K+",
+      "image": "/covers/new-zealand-vs-india.svg",
+      "imageSource": "",
+      "publishedAt": "2026-10-24T06:40:00.000Z",
+      "publishedLabel": "",
+      "rank": 24,
+      "blocks": [
+        {
+          "type": "p",
+          "text": "New Zealand vs India is one of the 25 biggest searches in the United States today. Tilak Varma: I have done what everyone believed."
+        },
+        {
+          "type": "h2",
+          "text": "The result people are checking"
+        },
+        {
+          "type": "p",
+          "text": "2nd T20I: Tilak Varma, Nitish Kumar Reddy rescue India from 112/6 to seal a thrilling 4-wicket win agains. 'Josh Hazlewood-like accuracy': Ian Smith impressed by Prince Yadav's zinger to clean up NZ's Finn Allen."
+        },
+        {
+          "type": "p",
+          "text": "People are searching “new zealand vs india.” This page stays with those accounts and does not add a score, a name, or an outcome that was not in them."
+        }
+      ],
+      "sources": []
+    },
+    {
+      "slug": "raptors-vs-wizards",
+      "query": "raptors vs wizards",
+      "title": "Raptors vs Wizards",
+      "headline": "Game Recap: Raptors 112, Wizards 102",
+      "dek": "Game Recap: Raptors 112, Wizards 102.",
+      "angle": "Game Recap: Raptors 112, Wizards 102",
+      "traffic": "20000",
+      "trafficLabel": "20K+",
+      "image": "/covers/raptors-vs-wizards.svg",
+      "imageSource": "",
+      "publishedAt": "2026-10-23T22:00:00.000Z",
+      "publishedLabel": "",
+      "rank": 25,
+      "blocks": [
+        {
+          "type": "p",
+          "text": "Raptors vs Wizards is one of the 25 biggest searches in the United States today. Game Recap: Raptors 112, Wizards 102."
+        },
+        {
+          "type": "h2",
+          "text": "The result people are checking"
+        },
+        {
+          "type": "p",
+          "text": "Wizards’ late rally finishes short in 112-102 loss to Raptors."
+        },
+        {
+          "type": "p",
+          "text": "People are searching “raptors vs wizards.” This page stays with those accounts and does not add a score, a name, or an outcome that was not in them."
+        }
+      ],
+      "sources": []
+    }
+  ]
+}
