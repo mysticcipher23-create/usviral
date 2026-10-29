@@ -1,0 +1,861 @@
+{
+  "date": "2026-10-29",
+  "fetchedAt": "2026-10-29T12:42:38.828Z",
+  "geo": "US",
+  "window": "24h",
+  "sort": "volume",
+  "limit": 25,
+  "sourceUrl": "https://trends.google.com/trending?geo=US&hours=24&sort=search-volume",
+  "posts": [
+    {
+      "slug": "brewers-parade",
+      "query": "brewers parade",
+      "title": "Brewers Parade",
+      "headline": "World Series 2026: Milwaukee Brewers beat Tampa Bay Rays to become MLB champions",
+      "dek": "World Series 2026: Milwaukee Brewers beat Tampa Bay Rays to become MLB champions.",
+      "angle": "World Series 2026: Milwaukee Brewers beat Tampa Bay Rays to become MLB champions",
+      "traffic": "500000",
+      "trafficLabel": "500K+",
+      "image": "/covers/brewers-parade.svg",
+      "imageSource": "",
+      "publishedAt": "2026-10-29T03:10:00.000Z",
+      "publishedLabel": "",
+      "rank": 1,
+      "blocks": [
+        {
+          "type": "p",
+          "text": "Brewers Parade is one of the 25 biggest searches in the United States today. World Series 2026: Milwaukee Brewers beat Tampa Bay Rays to become MLB champions."
+        },
+        {
+          "type": "h2",
+          "text": "What is already on the record"
+        },
+        {
+          "type": "p",
+          "text": "Playoff Roundup: Brewers win their first World Series. Brewers win World Series for first time in franchise history with Game 5 victory over Rays."
+        },
+        {
+          "type": "p",
+          "text": "People are searching “brewers parade.” This page stays with those accounts and does not add a score, a name, or an outcome that was not in them."
+        }
+      ],
+      "sources": []
+    },
+    {
+      "slug": "lakers-vs-clippers",
+      "query": "lakers vs clippers",
+      "title": "Lakers vs Clippers",
+      "headline": "Los Angeles Lakers vs LA Clippers Oct 28, 2026 Box Scores",
+      "dek": "Los Angeles Lakers vs LA Clippers Oct 28, 2026 Box Scores.",
+      "angle": "Los Angeles Lakers vs LA Clippers Oct 28, 2026 Box Scores",
+      "traffic": "200000",
+      "trafficLabel": "200K+",
+      "image": "/covers/lakers-vs-clippers.svg",
+      "imageSource": "",
+      "publishedAt": "2026-10-29T01:40:00.000Z",
+      "publishedLabel": "",
+      "rank": 2,
+      "blocks": [
+        {
+          "type": "p",
+          "text": "Lakers vs Clippers is one of the 25 biggest searches in the United States today. Los Angeles Lakers vs LA Clippers Oct 28, 2026 Box Scores."
+        },
+        {
+          "type": "h2",
+          "text": "The result people are checking"
+        },
+        {
+          "type": "p",
+          "text": "New York Knicks vs Chicago Bulls Oct 28, 2026 Box Scores. Miami Heat vs Atlanta Hawks Oct 28, 2026 Box Scores."
+        },
+        {
+          "type": "p",
+          "text": "People are searching “lakers vs clippers.” This page stays with those accounts and does not add a score, a name, or an outcome that was not in them."
+        }
+      ],
+      "sources": []
+    },
+    {
+      "slug": "warriors-vs-timberwolves",
+      "query": "warriors vs timberwolves",
+      "title": "Warriors vs Timberwolves",
+      "headline": "Warriors 119-114 Timberwolves (Oct 28, 2026) Game Recap",
+      "dek": "Warriors 119-114 Timberwolves (Oct 28, 2026) Game Recap.",
+      "angle": "Warriors 119-114 Timberwolves (Oct 28, 2026) Game Recap",
+      "traffic": "200000",
+      "trafficLabel": "200K+",
+      "image": "/covers/warriors-vs-timberwolves.svg",
+      "imageSource": "",
+      "publishedAt": "2026-10-28T23:00:00.000Z",
+      "publishedLabel": "",
+      "rank": 3,
+      "blocks": [
+        {
+          "type": "p",
+          "text": "Warriors vs Timberwolves is one of the 25 biggest searches in the United States today. Warriors 119-114 Timberwolves (Oct 28, 2026) Game Recap."
+        },
+        {
+          "type": "h2",
+          "text": "The result people are checking"
+        },
+        {
+          "type": "p",
+          "text": "Curry tied James at 15 games for 40-point game …. NBA Final Score."
+        },
+        {
+          "type": "p",
+          "text": "People are searching “warriors vs timberwolves.” This page stays with those accounts and does not add a score, a name, or an outcome that was not in them."
+        }
+      ],
+      "sources": []
+    },
+    {
+      "slug": "william-contreras",
+      "query": "william contreras",
+      "title": "William Contreras",
+      "headline": "Contreras honored with World Series MVP for prowess behind the plate",
+      "dek": "Contreras honored with World Series MVP for prowess behind the plate.",
+      "angle": "Contreras honored with World Series MVP for prowess behind the plate",
+      "traffic": "200000",
+      "trafficLabel": "200K+",
+      "image": "/covers/william-contreras.svg",
+      "imageSource": "",
+      "publishedAt": "2026-10-29T01:40:00.000Z",
+      "publishedLabel": "",
+      "rank": 4,
+      "blocks": [
+        {
+          "type": "p",
+          "text": "William Contreras is one of the 25 biggest searches in the United States today. Contreras honored with World Series MVP for prowess behind the plate."
+        },
+        {
+          "type": "h2",
+          "text": "What is already on the record"
+        },
+        {
+          "type": "p",
+          "text": "Willson Contreras celebrates his brother’s star turn at the World Series, and says he’s all good with Red Sox. William Contreras named World Series MVP: Brewers catcher impacted 2026 title in multiple ways."
+        },
+        {
+          "type": "p",
+          "text": "People are searching “william contreras.” This page stays with those accounts and does not add a score, a name, or an outcome that was not in them."
+        }
+      ],
+      "sources": []
+    },
+    {
+      "slug": "google-stock",
+      "query": "google stock",
+      "title": "Google Stock",
+      "headline": "Alphabet drags on Nasdaq futures as the stock faces a record post-earnings loss",
+      "dek": "Alphabet drags on Nasdaq futures as the stock faces a record post-earnings loss.",
+      "angle": "Alphabet drags on Nasdaq futures as the stock faces a record post-earnings loss",
+      "traffic": "200000",
+      "trafficLabel": "200K+",
+      "image": "/covers/google-stock.svg",
+      "imageSource": "",
+      "publishedAt": "2026-10-28T19:00:00.000Z",
+      "publishedLabel": "",
+      "rank": 5,
+      "blocks": [
+        {
+          "type": "p",
+          "text": "Google Stock is one of the 25 biggest searches in the United States today. Alphabet drags on Nasdaq futures as the stock faces a record post-earnings loss."
+        },
+        {
+          "type": "h2",
+          "text": "What is already on the record"
+        },
+        {
+          "type": "p",
+          "text": "US Stock Futures Fall as Alphabet Sales Miss Revives AI Fears. Google stock gets shredded after earnings—here's 2 reasons why investors hated the quarter."
+        },
+        {
+          "type": "p",
+          "text": "People are searching “google stock.” This page stays with those accounts and does not add a score, a name, or an outcome that was not in them."
+        }
+      ],
+      "sources": []
+    },
+    {
+      "slug": "minnesota-tornado-warnings",
+      "query": "minnesota tornado warnings",
+      "title": "Minnesota Tornado Warnings",
+      "headline": "Minnesota hail slams homes during tornado warning near Hampton",
+      "dek": "Minnesota hail slams homes during tornado warning near Hampton.",
+      "angle": "Minnesota hail slams homes during tornado warning near Hampton",
+      "traffic": "200000",
+      "trafficLabel": "200K+",
+      "image": "/covers/minnesota-tornado-warnings.svg",
+      "imageSource": "",
+      "publishedAt": "2026-10-29T04:50:00.000Z",
+      "publishedLabel": "",
+      "rank": 6,
+      "blocks": [
+        {
+          "type": "p",
+          "text": "Minnesota Tornado Warnings is one of the 25 biggest searches in the United States today. Minnesota hail slams homes during tornado warning near Hampton."
+        },
+        {
+          "type": "h2",
+          "text": "What is already on the record"
+        },
+        {
+          "type": "p",
+          "text": "Minnesota weather: Storms move out of the state. Minnesota’s Weather Authority Alert: Tornado Watch in effect as potentially severe storms gain strength."
+        },
+        {
+          "type": "p",
+          "text": "People are searching “minnesota tornado warnings.” This page stays with those accounts and does not add a score, a name, or an outcome that was not in them."
+        }
+      ],
+      "sources": []
+    },
+    {
+      "slug": "knicks-vs-bulls",
+      "query": "knicks vs bulls",
+      "title": "Knicks vs Bulls",
+      "headline": "Knicks 133-127 Bulls (Oct 28, 2026) Game Recap",
+      "dek": "Knicks 133-127 Bulls (Oct 28, 2026) Game Recap.",
+      "angle": "Knicks 133-127 Bulls (Oct 28, 2026) Game Recap",
+      "traffic": "100000",
+      "trafficLabel": "100K+",
+      "image": "/covers/knicks-vs-bulls.svg",
+      "imageSource": "",
+      "publishedAt": "2026-10-28T23:00:00.000Z",
+      "publishedLabel": "",
+      "rank": 7,
+      "blocks": [
+        {
+          "type": "p",
+          "text": "Knicks vs Bulls is one of the 25 biggest searches in the United States today. Knicks 133-127 Bulls (Oct 28, 2026) Game Recap."
+        },
+        {
+          "type": "h2",
+          "text": "The result people are checking"
+        },
+        {
+          "type": "p",
+          "text": "Ben Stiller knew Knicks returned to form ‘in real time’ during 19-point comeback vs. Bulls. Knicks Notes: Jalen Brunson and the offense beginning to emerge; Tyler Kolek impressing."
+        },
+        {
+          "type": "p",
+          "text": "People are searching “knicks vs bulls.” This page stays with those accounts and does not add a score, a name, or an outcome that was not in them."
+        }
+      ],
+      "sources": []
+    },
+    {
+      "slug": "spurs-vs-jazz",
+      "query": "spurs vs jazz",
+      "title": "Spurs vs Jazz",
+      "headline": "Spurs 117-111 Jazz (Oct 28, 2026) Final Score",
+      "dek": "Spurs 117-111 Jazz (Oct 28, 2026) Final Score.",
+      "angle": "Spurs 117-111 Jazz (Oct 28, 2026) Final Score",
+      "traffic": "100000",
+      "trafficLabel": "100K+",
+      "image": "/covers/spurs-vs-jazz.svg",
+      "imageSource": "",
+      "publishedAt": "2026-10-29T00:00:00.000Z",
+      "publishedLabel": "",
+      "rank": 8,
+      "blocks": [
+        {
+          "type": "p",
+          "text": "Spurs vs Jazz is one of the 25 biggest searches in the United States today. Spurs 117-111 Jazz (Oct 28, 2026) Final Score."
+        },
+        {
+          "type": "h2",
+          "text": "The result people are checking"
+        },
+        {
+          "type": "p",
+          "text": "Canadiens 2-1 Jets (Oct 25, 2026) Game Recap. Jacksonville State 24-0 New Mexico State (Oct 28, 2026) Game Recap."
+        },
+        {
+          "type": "p",
+          "text": "People are searching “spurs vs jazz.” This page stays with those accounts and does not add a score, a name, or an outcome that was not in them."
+        }
+      ],
+      "sources": []
+    },
+    {
+      "slug": "76ers-vs-pacers",
+      "query": "76ers vs pacers",
+      "title": "76ers vs Pacers",
+      "headline": "76ers 114-109 Pacers (Oct 28, 2026) Game Recap",
+      "dek": "76ers 114-109 Pacers (Oct 28, 2026) Game Recap.",
+      "angle": "76ers 114-109 Pacers (Oct 28, 2026) Game Recap",
+      "traffic": "100000",
+      "trafficLabel": "100K+",
+      "image": "/covers/76ers-vs-pacers.svg",
+      "imageSource": "",
+      "publishedAt": "2026-10-28T22:00:00.000Z",
+      "publishedLabel": "",
+      "rank": 9,
+      "blocks": [
+        {
+          "type": "p",
+          "text": "76ers vs Pacers is one of the 25 biggest searches in the United States today. 76ers 114-109 Pacers (Oct 28, 2026) Game Recap."
+        },
+        {
+          "type": "h2",
+          "text": "The result people are checking"
+        },
+        {
+          "type": "p",
+          "text": "Sixers blow an early lead, then storm back with big fourth quarter in 114-109 win at the Pacers. LeBron James orchestrates, Joel Embiid dominates as Sixers stage another dramatic comeback."
+        },
+        {
+          "type": "p",
+          "text": "People are searching “76ers vs pacers.” This page stays with those accounts and does not add a score, a name, or an outcome that was not in them."
+        }
+      ],
+      "sources": []
+    },
+    {
+      "slug": "dolores-huerta",
+      "query": "dolores huerta",
+      "title": "Dolores Huerta",
+      "headline": "In Her Final Months, Dolores Huerta Was Lauded for Revealing a Deep Secret",
+      "dek": "In Her Final Months, Dolores Huerta Was Lauded for Revealing a Deep Secret.",
+      "angle": "In Her Final Months, Dolores Huerta Was Lauded for Revealing a Deep Secret",
+      "traffic": "100000",
+      "trafficLabel": "100K+",
+      "image": "/covers/dolores-huerta.svg",
+      "imageSource": "",
+      "publishedAt": "2026-10-28T15:30:00.000Z",
+      "publishedLabel": "",
+      "rank": 10,
+      "blocks": [
+        {
+          "type": "p",
+          "text": "Dolores Huerta is one of the 25 biggest searches in the United States today. In Her Final Months, Dolores Huerta Was Lauded for Revealing a Deep Secret."
+        },
+        {
+          "type": "h2",
+          "text": "What is already on the record"
+        },
+        {
+          "type": "p",
+          "text": "Tributes pour in for labor leader Dolores Huerta: ‘Fought for farm workers to the very end’. US civil rights leader Dolores Huerta dies aged 96."
+        },
+        {
+          "type": "p",
+          "text": "People are searching “dolores huerta.” This page stays with those accounts and does not add a score, a name, or an outcome that was not in them."
+        }
+      ],
+      "sources": []
+    },
+    {
+      "slug": "thunder-vs-mavericks",
+      "query": "thunder vs mavericks",
+      "title": "Thunder vs Mavericks",
+      "headline": "Mavericks 120-96 Thunder (Oct 28, 2026) Game Recap",
+      "dek": "Mavericks 120-96 Thunder (Oct 28, 2026) Game Recap.",
+      "angle": "Mavericks 120-96 Thunder (Oct 28, 2026) Game Recap",
+      "traffic": "100000",
+      "trafficLabel": "100K+",
+      "image": "/covers/thunder-vs-mavericks.svg",
+      "imageSource": "",
+      "publishedAt": "2026-10-29T00:30:00.000Z",
+      "publishedLabel": "",
+      "rank": 11,
+      "blocks": [
+        {
+          "type": "p",
+          "text": "Thunder vs Mavericks is one of the 25 biggest searches in the United States today. Mavericks 120-96 Thunder (Oct 28, 2026) Game Recap."
+        },
+        {
+          "type": "h2",
+          "text": "The result people are checking"
+        },
+        {
+          "type": "p",
+          "text": "Game Recap: Mavericks 120, Thunder 96. Player Grades: Recapping the Mavericks’ 120-96 win over the Oklahoma City Thunder."
+        },
+        {
+          "type": "p",
+          "text": "People are searching “thunder vs mavericks.” This page stays with those accounts and does not add a score, a name, or an outcome that was not in them."
+        }
+      ],
+      "sources": []
+    },
+    {
+      "slug": "america-tijuana",
+      "query": "américa - tijuana",
+      "title": "América - Tijuana",
+      "headline": "América iguala ante Xolos y extiende racha sin ganar en el Banorte",
+      "dek": "América iguala ante Xolos y extiende racha sin ganar en el Banorte.",
+      "angle": "América iguala ante Xolos y extiende racha sin ganar en el Banorte",
+      "traffic": "100000",
+      "trafficLabel": "100K+",
+      "image": "/covers/america-tijuana.svg",
+      "imageSource": "",
+      "publishedAt": "2026-10-29T02:10:00.000Z",
+      "publishedLabel": "",
+      "rank": 12,
+      "blocks": [
+        {
+          "type": "p",
+          "text": "América - Tijuana is one of the 25 biggest searches in the United States today. América iguala ante Xolos y extiende racha sin ganar en el Banorte."
+        },
+        {
+          "type": "h2",
+          "text": "What is already on the record"
+        },
+        {
+          "type": "p",
+          "text": "Las rotaciones de América ante Xolos. El calendario de los siguientes partidos del América tras empatar 1-1 contra Tijuana."
+        },
+        {
+          "type": "p",
+          "text": "People are searching “américa - tijuana.” This page stays with those accounts and does not add a score, a name, or an outcome that was not in them."
+        }
+      ],
+      "sources": []
+    },
+    {
+      "slug": "liverpool-vs-chelsea",
+      "query": "liverpool vs chelsea",
+      "title": "Liverpool vs Chelsea",
+      "headline": "Carabao Cup draw: Fleetwood Town to face Everton or Newcastle in quarter-final",
+      "dek": "Carabao Cup draw: Fleetwood Town to face Everton or Newcastle in quarter-final.",
+      "angle": "Carabao Cup draw: Fleetwood Town to face Everton or Newcastle in quarter-final",
+      "traffic": "100000",
+      "trafficLabel": "100K+",
+      "image": "/covers/liverpool-vs-chelsea.svg",
+      "imageSource": "",
+      "publishedAt": "2026-10-28T18:10:00.000Z",
+      "publishedLabel": "",
+      "rank": 13,
+      "blocks": [
+        {
+          "type": "p",
+          "text": "Liverpool vs Chelsea is one of the 25 biggest searches in the United States today. Carabao Cup draw: Fleetwood Town to face Everton or Newcastle in quarter-final."
+        },
+        {
+          "type": "h2",
+          "text": "The result people are checking"
+        },
+        {
+          "type": "p",
+          "text": "Carabao Cup quarter-final draw: Liverpool host Bournemouth as Bradford and Fleetwood learn Premier League opposition. Liverpool beat Chelsea 6-5 on penalties: Carabao Cup plus quarter-final draw – as it happened."
+        },
+        {
+          "type": "p",
+          "text": "People are searching “liverpool vs chelsea.” This page stays with those accounts and does not add a score, a name, or an outcome that was not in them."
+        }
+      ],
+      "sources": []
+    },
+    {
+      "slug": "wizards-vs-cavaliers",
+      "query": "wizards vs cavaliers",
+      "title": "Wizards vs Cavaliers",
+      "headline": "Wizards upgrade No. 1 pick AJ Dybantsa to available vs. Cavaliers",
+      "dek": "Wizards upgrade No. 1 pick AJ Dybantsa to available vs. Cavaliers.",
+      "angle": "Wizards upgrade No. 1 pick AJ Dybantsa to available vs. Cavaliers",
+      "traffic": "100000",
+      "trafficLabel": "100K+",
+      "image": "/covers/wizards-vs-cavaliers.svg",
+      "imageSource": "",
+      "publishedAt": "2026-10-28T22:10:00.000Z",
+      "publishedLabel": "",
+      "rank": 14,
+      "blocks": [
+        {
+          "type": "p",
+          "text": "Wizards vs Cavaliers is one of the 25 biggest searches in the United States today. Wizards upgrade No. 1 pick AJ Dybantsa to available vs. Cavaliers."
+        },
+        {
+          "type": "h2",
+          "text": "The result people are checking"
+        },
+        {
+          "type": "p",
+          "text": "AJ Dybantsa scores 19 points in NBA debut. AJ Dybantsa starts pro career with alley-oop dunk in aggressive, impressive NBA debut."
+        },
+        {
+          "type": "p",
+          "text": "People are searching “wizards vs cavaliers.” This page stays with those accounts and does not add a score, a name, or an outcome that was not in them."
+        }
+      ],
+      "sources": []
+    },
+    {
+      "slug": "bob-uecker",
+      "query": "bob uecker",
+      "title": "Bob Uecker",
+      "headline": "How the Brewers honored Bob Uecker during Game 4 of the World Series",
+      "dek": "How the Brewers honored Bob Uecker during Game 4 of the World Series.",
+      "angle": "How the Brewers honored Bob Uecker during Game 4 of the World Series",
+      "traffic": "100000",
+      "trafficLabel": "100K+",
+      "image": "/covers/bob-uecker.svg",
+      "imageSource": "",
+      "publishedAt": "2026-10-29T02:20:00.000Z",
+      "publishedLabel": "",
+      "rank": 15,
+      "blocks": [
+        {
+          "type": "p",
+          "text": "Bob Uecker is one of the 25 biggest searches in the United States today. How the Brewers honored Bob Uecker during Game 4 of the World Series."
+        },
+        {
+          "type": "h2",
+          "text": "What is already on the record"
+        },
+        {
+          "type": "p",
+          "text": "Bob Uecker's former wife finds comfort in radio booth during Brewers' World Series run. Bob Uecker’s spirit hangs over a bittersweet Brewers World Series."
+        },
+        {
+          "type": "p",
+          "text": "People are searching “bob uecker.” This page stays with those accounts and does not add a score, a name, or an outcome that was not in them."
+        }
+      ],
+      "sources": []
+    },
+    {
+      "slug": "cincinnati-vs-inter-miami",
+      "query": "cincinnati vs inter miami",
+      "title": "Cincinnati vs Inter Miami",
+      "headline": "Miami 2-2 Cincinnati (Oct 28, 2026) Game Analysis",
+      "dek": "Miami 2-2 Cincinnati (Oct 28, 2026) Game Analysis.",
+      "angle": "Miami 2-2 Cincinnati (Oct 28, 2026) Game Analysis",
+      "traffic": "100000",
+      "trafficLabel": "100K+",
+      "image": "/covers/cincinnati-vs-inter-miami.svg",
+      "imageSource": "",
+      "publishedAt": "2026-10-28T22:40:00.000Z",
+      "publishedLabel": "",
+      "rank": 16,
+      "blocks": [
+        {
+          "type": "p",
+          "text": "Cincinnati vs Inter Miami is one of the 25 biggest searches in the United States today. Miami 2-2 Cincinnati (Oct 28, 2026) Game Analysis."
+        },
+        {
+          "type": "h2",
+          "text": "The result people are checking"
+        },
+        {
+          "type": "p",
+          "text": "Messi vs. Evander: Inter Miami host FC Cincinnati in high-stakes clash."
+        },
+        {
+          "type": "p",
+          "text": "People are searching “cincinnati vs inter miami.” This page stays with those accounts and does not add a score, a name, or an outcome that was not in them."
+        }
+      ],
+      "sources": []
+    },
+    {
+      "slug": "man-city-vs-brighton",
+      "query": "man city vs brighton",
+      "title": "Man City vs Brighton",
+      "headline": "Manchester City vs Brighton & Hove Albion: League Cup stats & head-to-head",
+      "dek": "Manchester City vs Brighton & Hove Albion: League Cup stats & head-to-head.",
+      "angle": "Manchester City vs Brighton & Hove Albion: League Cup stats & head-to-head",
+      "traffic": "100000",
+      "trafficLabel": "100K+",
+      "image": "/covers/man-city-vs-brighton.svg",
+      "imageSource": "",
+      "publishedAt": "2026-10-28T18:40:00.000Z",
+      "publishedLabel": "",
+      "rank": 17,
+      "blocks": [
+        {
+          "type": "p",
+          "text": "Man City vs Brighton is one of the 25 biggest searches in the United States today. Manchester City vs Brighton & Hove Albion: League Cup stats & head-to-head."
+        },
+        {
+          "type": "h2",
+          "text": "The result people are checking"
+        },
+        {
+          "type": "p",
+          "text": "Enzo Maresca: Man City 'never practiced penalties' before shootout win. Man City, Liverpool win shootouts in English League Cup as Fleetwood discovers next opponent."
+        },
+        {
+          "type": "p",
+          "text": "People are searching “man city vs brighton.” This page stays with those accounts and does not add a score, a name, or an outcome that was not in them."
+        }
+      ],
+      "sources": []
+    },
+    {
+      "slug": "jacob-misiorowski",
+      "query": "jacob misiorowski",
+      "title": "Jacob Misiorowski",
+      "headline": "'Long time coming': Miz's scoreless start sets up historic clinch",
+      "dek": "'Long time coming': Miz's scoreless start sets up historic clinch.",
+      "angle": "'Long time coming': Miz's scoreless start sets up historic clinch",
+      "traffic": "100000",
+      "trafficLabel": "100K+",
+      "image": "/covers/jacob-misiorowski.svg",
+      "imageSource": "",
+      "publishedAt": "2026-10-29T00:10:00.000Z",
+      "publishedLabel": "",
+      "rank": 18,
+      "blocks": [
+        {
+          "type": "p",
+          "text": "Jacob Misiorowski is one of the 25 biggest searches in the United States today. 'Long time coming': Miz's scoreless start sets up historic clinch."
+        },
+        {
+          "type": "h2",
+          "text": "What is already on the record"
+        },
+        {
+          "type": "p",
+          "text": "World Series: Milwaukee Brewers beat Tampa Bay Rays 3-2 in opening game. World Series 2026: Brewers ace Jacob Misiorowski leaves Game 5 start early due to calf cramp, still earns win in title-clinching game."
+        },
+        {
+          "type": "p",
+          "text": "People are searching “jacob misiorowski.” This page stays with those accounts and does not add a score, a name, or an outcome that was not in them."
+        }
+      ],
+      "sources": []
+    },
+    {
+      "slug": "barbara-barrie",
+      "query": "barbara barrie",
+      "title": "Barbara Barrie",
+      "headline": "Barbara Barrie, Oscar Nominee Known for Mom Roles and More, Has Died",
+      "dek": "Barbara Barrie, Oscar Nominee Known for Mom Roles and More, Has Died.",
+      "angle": "Barbara Barrie, Oscar Nominee Known for Mom Roles and More, Has Died",
+      "traffic": "50000",
+      "trafficLabel": "50K+",
+      "image": "/covers/barbara-barrie.svg",
+      "imageSource": "",
+      "publishedAt": "2026-10-28T20:40:00.000Z",
+      "publishedLabel": "",
+      "rank": 19,
+      "blocks": [
+        {
+          "type": "p",
+          "text": "Barbara Barrie is one of the 25 biggest searches in the United States today. Barbara Barrie, Oscar Nominee Known for Mom Roles and More, Has Died."
+        },
+        {
+          "type": "h2",
+          "text": "What is already on the record"
+        },
+        {
+          "type": "p",
+          "text": "'Barney Miller,' 'Breaking Away' star Barbara Barrie dies at 95. Barbara Barrie, Oscar-nominated 'Barney Miller' and 'Suddenly Susan' actress, dead at 95."
+        },
+        {
+          "type": "p",
+          "text": "People are searching “barbara barrie.” This page stays with those accounts and does not add a score, a name, or an outcome that was not in them."
+        }
+      ],
+      "sources": []
+    },
+    {
+      "slug": "ernie-johnson",
+      "query": "ernie johnson",
+      "title": "Ernie Johnson",
+      "headline": "Ernie Johnson says this is his final season as 'Inside the NBA' host",
+      "dek": "Ernie Johnson says this is his final season as 'Inside the NBA' host.",
+      "angle": "Ernie Johnson says this is his final season as 'Inside the NBA' host",
+      "traffic": "50000",
+      "trafficLabel": "50K+",
+      "image": "/covers/ernie-johnson.svg",
+      "imageSource": "",
+      "publishedAt": "2026-10-28T18:00:00.000Z",
+      "publishedLabel": "",
+      "rank": 20,
+      "blocks": [
+        {
+          "type": "p",
+          "text": "Ernie Johnson is one of the 25 biggest searches in the United States today. Ernie Johnson says this is his final season as 'Inside the NBA' host."
+        },
+        {
+          "type": "h2",
+          "text": "What is already on the record"
+        },
+        {
+          "type": "p",
+          "text": "Ernie Johnson’s Decision to Retire Sparks Emotional Tributes From ‘Inside the NBA’ Costars. Ernie Johnson, the best to sit in a sports studio, made ‘Inside the NBA’ must-see TV."
+        },
+        {
+          "type": "p",
+          "text": "People are searching “ernie johnson.” This page stays with those accounts and does not add a score, a name, or an outcome that was not in them."
+        }
+      ],
+      "sources": []
+    },
+    {
+      "slug": "hornets-vs-pistons",
+      "query": "hornets vs pistons",
+      "title": "Hornets vs Pistons",
+      "headline": "Hornets bench Reid at half for not meeting 'our standards'",
+      "dek": "Hornets bench Reid at half for not meeting 'our standards'.",
+      "angle": "Hornets bench Reid at half for not meeting 'our standards'",
+      "traffic": "50000",
+      "trafficLabel": "50K+",
+      "image": "/covers/hornets-vs-pistons.svg",
+      "imageSource": "",
+      "publishedAt": "2026-10-28T22:00:00.000Z",
+      "publishedLabel": "",
+      "rank": 21,
+      "blocks": [
+        {
+          "type": "p",
+          "text": "Hornets vs Pistons is one of the 25 biggest searches in the United States today. Hornets bench Reid at half for not meeting 'our standards'."
+        },
+        {
+          "type": "h2",
+          "text": "The result people are checking"
+        },
+        {
+          "type": "p",
+          "text": "Naz Reid Benched in 2nd Half of Hornets' Loss to Pistons, HC Explains in Video. Hornets coach Charles Lee benches Naz Reid at halftime for failing to meet team standards."
+        },
+        {
+          "type": "p",
+          "text": "People are searching “hornets vs pistons.” This page stays with those accounts and does not add a score, a name, or an outcome that was not in them."
+        }
+      ],
+      "sources": []
+    },
+    {
+      "slug": "wedding",
+      "query": "wedding",
+      "title": "Wedding",
+      "headline": "“Leaked” Photos From Taylor Swift Wedding Don’t Reveal Much",
+      "dek": "“Leaked” Photos From Taylor Swift Wedding Don’t Reveal Much.",
+      "angle": "“Leaked” Photos From Taylor Swift Wedding Don’t Reveal Much",
+      "traffic": "50000",
+      "trafficLabel": "50K+",
+      "image": "/covers/wedding.svg",
+      "imageSource": "",
+      "publishedAt": "2026-10-28T17:40:00.000Z",
+      "publishedLabel": "",
+      "rank": 22,
+      "blocks": [
+        {
+          "type": "p",
+          "text": "Wedding is one of the 25 biggest searches in the United States today. “Leaked” Photos From Taylor Swift Wedding Don’t Reveal Much."
+        },
+        {
+          "type": "h2",
+          "text": "What is already on the record"
+        },
+        {
+          "type": "p",
+          "text": "Taylor Swift Had Strong Reaction to Travis Kelce Wedding Photo Leaks. Taylor Swift and Travis Kelce’s extravagant wedding décor was burned immediately after ceremony: report."
+        },
+        {
+          "type": "p",
+          "text": "People are searching “wedding.” This page stays with those accounts and does not add a score, a name, or an outcome that was not in them."
+        }
+      ],
+      "sources": []
+    },
+    {
+      "slug": "kyle-larson",
+      "query": "kyle larson",
+      "title": "Kyle Larson",
+      "headline": "Luck-changer: Improbable Talladega rally, dazzling finish lift Kyle Larson to the brink of a Chase clincher",
+      "dek": "Luck-changer: Improbable Talladega rally, dazzling finish lift Kyle Larson to the brink of a Chase clincher.",
+      "angle": "Luck-changer: Improbable Talladega rally, dazzling finish lift Kyle Larson to the brink of a Chase clincher",
+      "traffic": "50000",
+      "trafficLabel": "50K+",
+      "image": "/covers/kyle-larson.svg",
+      "imageSource": "",
+      "publishedAt": "2026-10-28T19:30:00.000Z",
+      "publishedLabel": "",
+      "rank": 23,
+      "blocks": [
+        {
+          "type": "p",
+          "text": "Kyle Larson is one of the 25 biggest searches in the United States today. Luck-changer: Improbable Talladega rally, dazzling finish lift Kyle Larson to the brink of a Chase clincher."
+        },
+        {
+          "type": "h2",
+          "text": "What is already on the record"
+        },
+        {
+          "type": "p",
+          "text": "Inside NASCAR Talladega fall race best photos from YellaWood 500. NASCAR Post-Race Inspection Raises New Questions After Talladega Crash."
+        },
+        {
+          "type": "p",
+          "text": "People are searching “kyle larson.” This page stays with those accounts and does not add a score, a name, or an outcome that was not in them."
+        }
+      ],
+      "sources": []
+    },
+    {
+      "slug": "derailment",
+      "query": "derailment",
+      "title": "Derailment",
+      "headline": "EPA response to East Palestine train derailment to be investigated by agency watchdog",
+      "dek": "EPA response to East Palestine train derailment to be investigated by agency watchdog.",
+      "angle": "EPA response to East Palestine train derailment to be investigated by agency watchdog",
+      "traffic": "50000",
+      "trafficLabel": "50K+",
+      "image": "/covers/derailment.svg",
+      "imageSource": "",
+      "publishedAt": "2026-10-28T15:50:00.000Z",
+      "publishedLabel": "",
+      "rank": 24,
+      "blocks": [
+        {
+          "type": "p",
+          "text": "Derailment is one of the 25 biggest searches in the United States today. EPA response to East Palestine train derailment to be investigated by agency watchdog."
+        },
+        {
+          "type": "h2",
+          "text": "What is already on the record"
+        },
+        {
+          "type": "p",
+          "text": "U.S. EPA Inspector General reviewing East Palestine train derailment response. East Palestine Train Probe Moves Forward With EPA Investigation."
+        },
+        {
+          "type": "p",
+          "text": "People are searching “derailment.” This page stays with those accounts and does not add a score, a name, or an outcome that was not in them."
+        }
+      ],
+      "sources": []
+    },
+    {
+      "slug": "liverpool-chelsea",
+      "query": "liverpool - chelsea",
+      "title": "Liverpool - Chelsea",
+      "headline": "Liverpool beat Chelsea on penalties yet again to secure Carabao Cup progress",
+      "dek": "Liverpool beat Chelsea on penalties yet again to secure Carabao Cup progress.",
+      "angle": "Liverpool beat Chelsea on penalties yet again to secure Carabao Cup progress",
+      "traffic": "50000",
+      "trafficLabel": "50K+",
+      "image": "/covers/liverpool-chelsea.svg",
+      "imageSource": "",
+      "publishedAt": "2026-10-28T19:10:00.000Z",
+      "publishedLabel": "",
+      "rank": 25,
+      "blocks": [
+        {
+          "type": "p",
+          "text": "Liverpool - Chelsea is one of the 25 biggest searches in the United States today. Liverpool beat Chelsea on penalties yet again to secure Carabao Cup progress."
+        },
+        {
+          "type": "h2",
+          "text": "What is already on the record"
+        },
+        {
+          "type": "p",
+          "text": "Liverpool penalty notes were WRONG! Giorgi Mamardashvili reveals he IGNORED tactical research to to sink Chelsea in Carabao Cup shootout. Xabi Alonso’s Anfield return ends in heartache on dire night for Wesley Fofana."
+        },
+        {
+          "type": "p",
+          "text": "People are searching “liverpool - chelsea.” This page stays with those accounts and does not add a score, a name, or an outcome that was not in them."
+        }
+      ],
+      "sources": []
+    }
+  ]
+}
