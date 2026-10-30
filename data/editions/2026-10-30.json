@@ -1,0 +1,861 @@
+{
+  "date": "2026-10-30",
+  "fetchedAt": "2026-10-30T12:42:30.555Z",
+  "geo": "US",
+  "window": "24h",
+  "sort": "volume",
+  "limit": 25,
+  "sourceUrl": "https://trends.google.com/trending?geo=US&hours=24&sort=search-volume",
+  "posts": [
+    {
+      "slug": "patrick-stewart",
+      "query": "patrick stewart",
+      "title": "Patrick Stewart",
+      "headline": "'Respected and beloved': Tributes pour in for Sir Patrick Stewart",
+      "dek": "'Respected and beloved': Tributes pour in for Sir Patrick Stewart.",
+      "angle": "'Respected and beloved': Tributes pour in for Sir Patrick Stewart",
+      "traffic": "5000000",
+      "trafficLabel": "5M+",
+      "image": "/covers/patrick-stewart.svg",
+      "imageSource": "",
+      "publishedAt": "2026-10-29T19:30:00.000Z",
+      "publishedLabel": "",
+      "rank": 1,
+      "blocks": [
+        {
+          "type": "p",
+          "text": "Patrick Stewart is one of the 25 biggest searches in the United States today. 'Respected and beloved': Tributes pour in for Sir Patrick Stewart."
+        },
+        {
+          "type": "h2",
+          "text": "What is already on the record"
+        },
+        {
+          "type": "p",
+          "text": "Sir Patrick Stewart obituary. Patrick Stewart, ‘Star Trek’ Captain and ‘X-Men’ Superhero, Dies at 86."
+        },
+        {
+          "type": "p",
+          "text": "People are searching “patrick stewart.” This page stays with those accounts and does not add a score, a name, or an outcome that was not in them."
+        }
+      ],
+      "sources": []
+    },
+    {
+      "slug": "packers-vs-panthers",
+      "query": "packers vs panthers",
+      "title": "Packers vs Panthers",
+      "headline": "Panthers-Packers on 'Thursday Night Football': What We Learned from Green Bay's 27-19 win",
+      "dek": "Panthers-Packers on 'Thursday Night Football': What We Learned from Green Bay's 27-19 win.",
+      "angle": "Panthers-Packers on 'Thursday Night Football': What We Learned from Green Bay's 27-19 win",
+      "traffic": "500000",
+      "trafficLabel": "500K+",
+      "image": "/covers/packers-vs-panthers.svg",
+      "imageSource": "",
+      "publishedAt": "2026-10-29T18:50:00.000Z",
+      "publishedLabel": "",
+      "rank": 2,
+      "blocks": [
+        {
+          "type": "p",
+          "text": "Packers vs Panthers is one of the 25 biggest searches in the United States today. Panthers-Packers on 'Thursday Night Football': What We Learned from Green Bay's 27-19 win."
+        },
+        {
+          "type": "h2",
+          "text": "The result people are checking"
+        },
+        {
+          "type": "p",
+          "text": "The Optimist: That could have been worse. Game recap: 5 takeaways from Packers’ victory over Panthers."
+        },
+        {
+          "type": "p",
+          "text": "People are searching “packers vs panthers.” This page stays with those accounts and does not add a score, a name, or an outcome that was not in them."
+        }
+      ],
+      "sources": []
+    },
+    {
+      "slug": "jeffery-simmons",
+      "query": "jeffery simmons",
+      "title": "Jeffery Simmons",
+      "headline": "Bears acquire All-Pro DT Jeffery Simmons in trade with Titans",
+      "dek": "Bears acquire All-Pro DT Jeffery Simmons in trade with Titans.",
+      "angle": "Bears acquire All-Pro DT Jeffery Simmons in trade with Titans",
+      "traffic": "200000",
+      "trafficLabel": "200K+",
+      "image": "/covers/jeffery-simmons.svg",
+      "imageSource": "",
+      "publishedAt": "2026-10-29T14:20:00.000Z",
+      "publishedLabel": "",
+      "rank": 3,
+      "blocks": [
+        {
+          "type": "p",
+          "text": "Jeffery Simmons is one of the 25 biggest searches in the United States today. Bears acquire All-Pro DT Jeffery Simmons in trade with Titans."
+        },
+        {
+          "type": "h2",
+          "text": "What is already on the record"
+        },
+        {
+          "type": "p",
+          "text": "Jeffery Simmons, Quenton Nelson will renew their rivalry at Bears-Seahawks Monday night. Bears acquire DT Jeffery Simmons from Titans in blockbuster trade."
+        },
+        {
+          "type": "p",
+          "text": "People are searching “jeffery simmons.” This page stays with those accounts and does not add a score, a name, or an outcome that was not in them."
+        }
+      ],
+      "sources": []
+    },
+    {
+      "slug": "christian-watson",
+      "query": "christian watson",
+      "title": "Christian Watson",
+      "headline": "Packers WR Christian Watson gets checked at hospital after scary injury, somehow returns to Lambeau Field",
+      "dek": "Packers WR Christian Watson gets checked at hospital after scary injury, somehow returns to Lambeau Field.",
+      "angle": "Packers WR Christian Watson gets checked at hospital after scary injury, somehow returns to Lambeau Field",
+      "traffic": "200000",
+      "trafficLabel": "200K+",
+      "image": "/covers/christian-watson.svg",
+      "imageSource": "",
+      "publishedAt": "2026-10-30T01:00:00.000Z",
+      "publishedLabel": "",
+      "rank": 4,
+      "blocks": [
+        {
+          "type": "p",
+          "text": "Christian Watson is one of the 25 biggest searches in the United States today. Packers WR Christian Watson gets checked at hospital after scary injury, somehow returns to Lambeau Field."
+        },
+        {
+          "type": "h2",
+          "text": "What is already on the record"
+        },
+        {
+          "type": "p",
+          "text": "Christian Watson's return in Packers game lights up social media. Panthers' ailing secondary loses rookie CB Will Lee to injury in first half."
+        },
+        {
+          "type": "p",
+          "text": "People are searching “christian watson.” This page stays with those accounts and does not add a score, a name, or an outcome that was not in them."
+        }
+      ],
+      "sources": []
+    },
+    {
+      "slug": "wnba-game-7",
+      "query": "wnba game 7",
+      "title": "Wnba Game 7",
+      "headline": "Allisha Gray, Dream beat Valkyries, force Game 7 of WNBA Finals",
+      "dek": "Allisha Gray, Dream beat Valkyries, force Game 7 of WNBA Finals.",
+      "angle": "Allisha Gray, Dream beat Valkyries, force Game 7 of WNBA Finals",
+      "traffic": "200000",
+      "trafficLabel": "200K+",
+      "image": "/covers/wnba-game-7.svg",
+      "imageSource": "",
+      "publishedAt": "2026-10-29T17:30:00.000Z",
+      "publishedLabel": "",
+      "rank": 5,
+      "blocks": [
+        {
+          "type": "p",
+          "text": "Wnba Game 7 is one of the 25 biggest searches in the United States today. Allisha Gray, Dream beat Valkyries, force Game 7 of WNBA Finals."
+        },
+        {
+          "type": "h2",
+          "text": "What is already on the record"
+        },
+        {
+          "type": "p",
+          "text": "Dream didn't get fan playoff shirts to the arena on time for Game 6. The 17,099 fans at early WNBA Finals game are proof why the league can’t afford more errors."
+        },
+        {
+          "type": "p",
+          "text": "People are searching “wnba game 7.” This page stays with those accounts and does not add a score, a name, or an outcome that was not in them."
+        }
+      ],
+      "sources": []
+    },
+    {
+      "slug": "binance",
+      "query": "binance",
+      "title": "Binance",
+      "headline": "Thieves make off with $6.3B from Binance: 'Biggest hack in history'",
+      "dek": "Thieves make off with $6.3B from Binance: 'Biggest hack in history'.",
+      "angle": "Thieves make off with $6.3B from Binance: 'Biggest hack in history'",
+      "traffic": "100000",
+      "trafficLabel": "100K+",
+      "image": "/covers/binance.svg",
+      "imageSource": "",
+      "publishedAt": "2026-10-29T20:50:00.000Z",
+      "publishedLabel": "",
+      "rank": 6,
+      "blocks": [
+        {
+          "type": "p",
+          "text": "Binance is one of the 25 biggest searches in the United States today. Thieves make off with $6.3B from Binance: 'Biggest hack in history'."
+        },
+        {
+          "type": "h2",
+          "text": "What is already on the record"
+        },
+        {
+          "type": "p",
+          "text": "Clues Point to Familiar Culprit in Massive Binance Crypto Heist: North Korea. Binance Suspends Withdrawals After Crypto Hackers Steal $6.3 Billion."
+        },
+        {
+          "type": "p",
+          "text": "People are searching “binance.” This page stays with those accounts and does not add a score, a name, or an outcome that was not in them."
+        }
+      ],
+      "sources": []
+    },
+    {
+      "slug": "grizzlies-vs-trail-blazers",
+      "query": "grizzlies vs trail blazers",
+      "title": "Grizzlies vs Trail Blazers",
+      "headline": "Discuss Portland Trail Blazers vs. Memphis Grizzlies Action Here!",
+      "dek": "Discuss Portland Trail Blazers vs. Memphis Grizzlies Action Here!",
+      "angle": "Discuss Portland Trail Blazers vs. Memphis Grizzlies Action Here!",
+      "traffic": "100000",
+      "trafficLabel": "100K+",
+      "image": "/covers/grizzlies-vs-trail-blazers.svg",
+      "imageSource": "",
+      "publishedAt": "2026-10-30T01:10:00.000Z",
+      "publishedLabel": "",
+      "rank": 7,
+      "blocks": [
+        {
+          "type": "p",
+          "text": "Grizzlies vs Trail Blazers is one of the 25 biggest searches in the United States today. Discuss Portland Trail Blazers vs. Memphis Grizzlies Action Here!"
+        },
+        {
+          "type": "h2",
+          "text": "The result people are checking"
+        },
+        {
+          "type": "p",
+          "text": "Morant brings fresh start, no grudges to Memphis reunion. Ja Morant downplays first game against Grizzlies: ‘Not a big grudge guy’."
+        },
+        {
+          "type": "p",
+          "text": "People are searching “grizzlies vs trail blazers.” This page stays with those accounts and does not add a score, a name, or an outcome that was not in them."
+        }
+      ],
+      "sources": []
+    },
+    {
+      "slug": "cavaliers-vs-hawks",
+      "query": "cavaliers vs hawks",
+      "title": "Cavaliers vs Hawks",
+      "headline": "Everything to Know About the Cavaliers Trip to Atlanta Tonight",
+      "dek": "Everything to Know About the Cavaliers Trip to Atlanta Tonight.",
+      "angle": "Everything to Know About the Cavaliers Trip to Atlanta Tonight",
+      "traffic": "100000",
+      "trafficLabel": "100K+",
+      "image": "/covers/cavaliers-vs-hawks.svg",
+      "imageSource": "",
+      "publishedAt": "2026-10-29T23:10:00.000Z",
+      "publishedLabel": "",
+      "rank": 8,
+      "blocks": [
+        {
+          "type": "p",
+          "text": "Cavaliers vs Hawks is one of the 25 biggest searches in the United States today. Everything to Know About the Cavaliers Trip to Atlanta Tonight."
+        },
+        {
+          "type": "h2",
+          "text": "The result people are checking"
+        },
+        {
+          "type": "p",
+          "text": "That is the account available when the edition was filed. It is the event people are opening."
+        },
+        {
+          "type": "p",
+          "text": "People are searching “cavaliers vs hawks.” This page stays with those accounts and does not add a score, a name, or an outcome that was not in them."
+        }
+      ],
+      "sources": []
+    },
+    {
+      "slug": "dylan-larkin",
+      "query": "dylan larkin",
+      "title": "Dylan Larkin",
+      "headline": "Sources - Red Wings won't play Dylan Larkin for 'trade-related' reasons",
+      "dek": "Sources - Red Wings won't play Dylan Larkin for 'trade-related' reasons.",
+      "angle": "Sources - Red Wings won't play Dylan Larkin for 'trade-related' reasons",
+      "traffic": "50000",
+      "trafficLabel": "50K+",
+      "image": "/covers/dylan-larkin.jpg",
+      "imageSource": "",
+      "publishedAt": "2026-10-29T15:20:00.000Z",
+      "publishedLabel": "",
+      "rank": 9,
+      "blocks": [
+        {
+          "type": "p",
+          "text": "Dylan Larkin is one of the 25 biggest searches in the United States today. Sources - Red Wings won't play Dylan Larkin for 'trade-related' reasons."
+        },
+        {
+          "type": "h2",
+          "text": "What is already on the record"
+        },
+        {
+          "type": "p",
+          "text": "Todd McLellan Sends Blunt Message Following Dylan Larkin Drama. Niyo: Larkin leaves his legacy no way out in Detroit."
+        },
+        {
+          "type": "p",
+          "text": "People are searching “dylan larkin.” This page stays with those accounts and does not add a score, a name, or an outcome that was not in them."
+        }
+      ],
+      "sources": []
+    },
+    {
+      "slug": "kings-vs-pelicans",
+      "query": "kings vs pelicans",
+      "title": "Kings vs Pelicans",
+      "headline": "Game Recap: Pelicans 132, Kings 120",
+      "dek": "Game Recap: Pelicans 132, Kings 120.",
+      "angle": "Game Recap: Pelicans 132, Kings 120",
+      "traffic": "50000",
+      "trafficLabel": "50K+",
+      "image": "/covers/kings-vs-pelicans.svg",
+      "imageSource": "",
+      "publishedAt": "2026-10-29T23:00:00.000Z",
+      "publishedLabel": "",
+      "rank": 10,
+      "blocks": [
+        {
+          "type": "p",
+          "text": "Kings vs Pelicans is one of the 25 biggest searches in the United States today. Game Recap: Pelicans 132, Kings 120."
+        },
+        {
+          "type": "h2",
+          "text": "The result people are checking"
+        },
+        {
+          "type": "p",
+          "text": "Kings vs. Pelicans highlights: Watch top plays in Sacramento's 132-120 loss. Winless Pelicans host winless Kings in what feels like a must-win game."
+        },
+        {
+          "type": "p",
+          "text": "People are searching “kings vs pelicans.” This page stays with those accounts and does not add a score, a name, or an outcome that was not in them."
+        }
+      ],
+      "sources": []
+    },
+    {
+      "slug": "corey-heim",
+      "query": "corey heim",
+      "title": "Corey Heim",
+      "headline": "Corey Heim",
+      "dek": "“Rest in Peace Big Buddy”- NASCAR Garage in Mourning Following Tragic Passing of Corey Heim’s Spotter & Close Confidant.",
+      "angle": "“Rest in Peace Big Buddy”- NASCAR Garage in Mourning Following Tragic Passing of Corey Heim’s Spotter & Close Confidant",
+      "traffic": "50000",
+      "trafficLabel": "50K+",
+      "image": "/covers/corey-heim.svg",
+      "imageSource": "",
+      "publishedAt": "2026-10-29T14:10:00.000Z",
+      "publishedLabel": "",
+      "rank": 11,
+      "blocks": [
+        {
+          "type": "p",
+          "text": "Corey Heim is one of the 25 biggest searches in the United States today. “Rest in Peace Big Buddy”- NASCAR Garage in Mourning Following Tragic Passing of Corey Heim’s Spotter & Close Confidant."
+        },
+        {
+          "type": "h2",
+          "text": "What is already on the record"
+        },
+        {
+          "type": "p",
+          "text": "Lloyd Garner's Cause of Death: What to Know About How Corey Heim’s Longtime NASCAR Spotter Died. Tributes pour in for beloved Nascar icon after his tragic cancer death at just 54 - 'rest in peace big buddy'."
+        },
+        {
+          "type": "p",
+          "text": "People are searching “corey heim.” This page stays with those accounts and does not add a score, a name, or an outcome that was not in them."
+        }
+      ],
+      "sources": []
+    },
+    {
+      "slug": "al-nassr-vs-al-kholood",
+      "query": "al-nassr vs al kholood",
+      "title": "Al-nassr vs Al Kholood",
+      "headline": "Full-length Replay: Al-Nassr vs Al-Kholood",
+      "dek": "Full-length Replay: Al-Nassr vs Al-Kholood.",
+      "angle": "Full-length Replay: Al-Nassr vs Al-Kholood",
+      "traffic": "50000",
+      "trafficLabel": "50K+",
+      "image": "/covers/al-nassr-vs-al-kholood.svg",
+      "imageSource": "",
+      "publishedAt": "2026-10-29T17:10:00.000Z",
+      "publishedLabel": "",
+      "rank": 12,
+      "blocks": [
+        {
+          "type": "p",
+          "text": "Al-nassr vs Al Kholood is one of the 25 biggest searches in the United States today. Full-length Replay: Al-Nassr vs Al-Kholood."
+        },
+        {
+          "type": "h2",
+          "text": "The result people are checking"
+        },
+        {
+          "type": "p",
+          "text": "Ronaldo and Mane lead Al-Nassr against Al-Khaleej: changes to Postecoglou's line-up! Is Cristiano Ronaldo Playing Today?"
+        },
+        {
+          "type": "p",
+          "text": "People are searching “al-nassr vs al kholood.” This page stays with those accounts and does not add a score, a name, or an outcome that was not in them."
+        }
+      ],
+      "sources": []
+    },
+    {
+      "slug": "snow",
+      "query": "snow",
+      "title": "Snow",
+      "headline": "Forecasters are predicting a warmer and wetter winter. Here's how El Niño will affect your region",
+      "dek": "Forecasters are predicting a warmer and wetter winter. Here's how El Niño will affect your region.",
+      "angle": "Forecasters are predicting a warmer and wetter winter. Here's how El Niño will affect your region",
+      "traffic": "50000",
+      "trafficLabel": "50K+",
+      "image": "/covers/snow.svg",
+      "imageSource": "",
+      "publishedAt": "2026-10-29T16:50:00.000Z",
+      "publishedLabel": "",
+      "rank": 13,
+      "blocks": [
+        {
+          "type": "p",
+          "text": "Snow is one of the 25 biggest searches in the United States today. Forecasters are predicting a warmer and wetter winter. Here's how El Niño will affect your region."
+        },
+        {
+          "type": "h2",
+          "text": "What is already on the record"
+        },
+        {
+          "type": "p",
+          "text": "Everything You Could Possibly Want to Know About El Niño. Storm Alert Weather: Forecasting the winter of 2026-27."
+        },
+        {
+          "type": "p",
+          "text": "People are searching “snow.” This page stays with those accounts and does not add a score, a name, or an outcome that was not in them."
+        }
+      ],
+      "sources": []
+    },
+    {
+      "slug": "intel-stock",
+      "query": "intel stock",
+      "title": "Intel Stock",
+      "headline": "Intel Plunges After PC Slump and Supply Snags Hurt Outlook",
+      "dek": "Intel Plunges After PC Slump and Supply Snags Hurt Outlook.",
+      "angle": "Intel Plunges After PC Slump and Supply Snags Hurt Outlook",
+      "traffic": "50000",
+      "trafficLabel": "50K+",
+      "image": "/covers/intel-stock.svg",
+      "imageSource": "",
+      "publishedAt": "2026-10-29T20:00:00.000Z",
+      "publishedLabel": "",
+      "rank": 14,
+      "blocks": [
+        {
+          "type": "p",
+          "text": "Intel Stock is one of the 25 biggest searches in the United States today. Intel Plunges After PC Slump and Supply Snags Hurt Outlook."
+        },
+        {
+          "type": "h2",
+          "text": "What is already on the record"
+        },
+        {
+          "type": "p",
+          "text": "Intel warning sparks chip rout as PC weakness clouds turnaround. Intel’s Shares Plunge 20% as A.I. Hinders Some Parts of Its Business."
+        },
+        {
+          "type": "p",
+          "text": "People are searching “intel stock.” This page stays with those accounts and does not add a score, a name, or an outcome that was not in them."
+        }
+      ],
+      "sources": []
+    },
+    {
+      "slug": "amzn",
+      "query": "amzn",
+      "title": "Amzn",
+      "headline": "Amazon posts negative free cash flow of $42.4 billion, holds 2026 capex unchanged",
+      "dek": "Amazon posts negative free cash flow of $42.4 billion, holds 2026 capex unchanged.",
+      "angle": "Amazon posts negative free cash flow of $42.4 billion, holds 2026 capex unchanged",
+      "traffic": "50000",
+      "trafficLabel": "50K+",
+      "image": "/covers/amzn.svg",
+      "imageSource": "",
+      "publishedAt": "2026-10-29T14:10:00.000Z",
+      "publishedLabel": "",
+      "rank": 15,
+      "blocks": [
+        {
+          "type": "p",
+          "text": "Amzn is one of the 25 biggest searches in the United States today. Amazon posts negative free cash flow of $42.4 billion, holds 2026 capex unchanged."
+        },
+        {
+          "type": "h2",
+          "text": "What is already on the record"
+        },
+        {
+          "type": "p",
+          "text": "Amazon’s eye-watering spending is overshadowing growth. Amazon's AI build-out just pushed its cash burn to a record: Chart of the Day."
+        },
+        {
+          "type": "p",
+          "text": "People are searching “amzn.” This page stays with those accounts and does not add a score, a name, or an outcome that was not in them."
+        }
+      ],
+      "sources": []
+    },
+    {
+      "slug": "sophie-cunningham",
+      "query": "sophie cunningham",
+      "title": "Sophie Cunningham",
+      "headline": "Sophie Cunningham says she has about 20 stalkers the FBI is keeping tabs on",
+      "dek": "Sophie Cunningham says she has about 20 stalkers the FBI is keeping tabs on.",
+      "angle": "Sophie Cunningham says she has about 20 stalkers the FBI is keeping tabs on",
+      "traffic": "50000",
+      "trafficLabel": "50K+",
+      "image": "/covers/sophie-cunningham.svg",
+      "imageSource": "",
+      "publishedAt": "2026-10-29T14:20:00.000Z",
+      "publishedLabel": "",
+      "rank": 16,
+      "blocks": [
+        {
+          "type": "p",
+          "text": "Sophie Cunningham is one of the 25 biggest searches in the United States today. Sophie Cunningham says she has about 20 stalkers the FBI is keeping tabs on."
+        },
+        {
+          "type": "h2",
+          "text": "What is already on the record"
+        },
+        {
+          "type": "p",
+          "text": "JACKSON THOMPSON: Sophie Cunningham claims FBI is watching 20 people for her, on WNBA anthem controversy."
+        },
+        {
+          "type": "p",
+          "text": "People are searching “sophie cunningham.” This page stays with those accounts and does not add a score, a name, or an outcome that was not in them."
+        }
+      ],
+      "sources": []
+    },
+    {
+      "slug": "richard-norton",
+      "query": "richard norton",
+      "title": "Richard Norton",
+      "headline": "Actor's death may be first confirmed fatality linked to unapproved peptides",
+      "dek": "Actor's death may be first confirmed fatality linked to unapproved peptides.",
+      "angle": "Actor's death may be first confirmed fatality linked to unapproved peptides",
+      "traffic": "20000",
+      "trafficLabel": "20K+",
+      "image": "/covers/richard-norton.svg",
+      "imageSource": "",
+      "publishedAt": "2026-10-29T20:40:00.000Z",
+      "publishedLabel": "",
+      "rank": 17,
+      "blocks": [
+        {
+          "type": "p",
+          "text": "Richard Norton is one of the 25 biggest searches in the United States today. Actor's death may be first confirmed fatality linked to unapproved peptides."
+        },
+        {
+          "type": "h2",
+          "text": "What is already on the record"
+        },
+        {
+          "type": "p",
+          "text": "Aussie actor and stuntman’s death attributed to peptide usage. Coroner calls for TGA to review unapproved peptides after death of Australian actor."
+        },
+        {
+          "type": "p",
+          "text": "People are searching “richard norton.” This page stays with those accounts and does not add a score, a name, or an outcome that was not in them."
+        }
+      ],
+      "sources": []
+    },
+    {
+      "slug": "lynsi-snyder",
+      "query": "lynsi snyder",
+      "title": "Lynsi Snyder",
+      "headline": "In-N-Out CEO names 3 possible states for expansion",
+      "dek": "In-N-Out CEO names 3 possible states for expansion.",
+      "angle": "In-N-Out CEO names 3 possible states for expansion",
+      "traffic": "20000",
+      "trafficLabel": "20K+",
+      "image": "/covers/lynsi-snyder.svg",
+      "imageSource": "",
+      "publishedAt": "2026-10-29T22:40:00.000Z",
+      "publishedLabel": "",
+      "rank": 18,
+      "blocks": [
+        {
+          "type": "p",
+          "text": "Lynsi Snyder is one of the 25 biggest searches in the United States today. In-N-Out CEO names 3 possible states for expansion."
+        },
+        {
+          "type": "h2",
+          "text": "What is already on the record"
+        },
+        {
+          "type": "p",
+          "text": "In-N-Out Burger CEO floats 3 additional states for possible expansion. In-N-Out CEO says Oklahoma is among states eyed for expansion."
+        },
+        {
+          "type": "p",
+          "text": "People are searching “lynsi snyder.” This page stays with those accounts and does not add a score, a name, or an outcome that was not in them."
+        }
+      ],
+      "sources": []
+    },
+    {
+      "slug": "blackhawks-vs-red-wings",
+      "query": "blackhawks vs red wings",
+      "title": "Blackhawks vs Red Wings",
+      "headline": "Best Kalshi promo code CBSSPORTS55: Pocket $55 bonus for Panthers vs. Packers on Thursday Night Football",
+      "dek": "Best Kalshi promo code CBSSPORTS55: Pocket $55 bonus for Panthers vs. Packers on Thursday Night Football.",
+      "angle": "Best Kalshi promo code CBSSPORTS55: Pocket $55 bonus for Panthers vs. Packers on Thursday Night Football",
+      "traffic": "20000",
+      "trafficLabel": "20K+",
+      "image": "/covers/blackhawks-vs-red-wings.svg",
+      "imageSource": "",
+      "publishedAt": "2026-10-29T22:40:00.000Z",
+      "publishedLabel": "",
+      "rank": 19,
+      "blocks": [
+        {
+          "type": "p",
+          "text": "Blackhawks vs Red Wings is one of the 25 biggest searches in the United States today. Best Kalshi promo code CBSSPORTS55: Pocket $55 bonus for Panthers vs. Packers on Thursday Night Football."
+        },
+        {
+          "type": "h2",
+          "text": "The result people are checking"
+        },
+        {
+          "type": "p",
+          "text": "NFL Prediction Markets Promos: Best Offers for NFL Week 8."
+        },
+        {
+          "type": "p",
+          "text": "People are searching “blackhawks vs red wings.” This page stays with those accounts and does not add a score, a name, or an outcome that was not in them."
+        }
+      ],
+      "sources": []
+    },
+    {
+      "slug": "bruins-vs-blues",
+      "query": "bruins vs blues",
+      "title": "Bruins vs Blues",
+      "headline": "Blues 4-1 Bruins (Oct 29, 2026) Game Recap",
+      "dek": "Blues 4-1 Bruins (Oct 29, 2026) Game Recap.",
+      "angle": "Blues 4-1 Bruins (Oct 29, 2026) Game Recap",
+      "traffic": "20000",
+      "trafficLabel": "20K+",
+      "image": "/covers/bruins-vs-blues.svg",
+      "imageSource": "",
+      "publishedAt": "2026-10-29T23:10:00.000Z",
+      "publishedLabel": "",
+      "rank": 20,
+      "blocks": [
+        {
+          "type": "p",
+          "text": "Bruins vs Blues is one of the 25 biggest searches in the United States today. Blues 4-1 Bruins (Oct 29, 2026) Game Recap."
+        },
+        {
+          "type": "h2",
+          "text": "The result people are checking"
+        },
+        {
+          "type": "p",
+          "text": "Thomas, Broberg get 3 points each in Blues victory against Bruins. Bruins' Disappointing Loss To Blues: Aberration Or Cause For Concern?"
+        },
+        {
+          "type": "p",
+          "text": "People are searching “bruins vs blues.” This page stays with those accounts and does not add a score, a name, or an outcome that was not in them."
+        }
+      ],
+      "sources": []
+    },
+    {
+      "slug": "nz-vs-ind",
+      "query": "nz vs ind",
+      "title": "Nz vs Ind",
+      "headline": "Ball by Ball Commentary & Live Score",
+      "dek": "Ball by Ball Commentary & Live Score.",
+      "angle": "Ball by Ball Commentary & Live Score",
+      "traffic": "20000",
+      "trafficLabel": "20K+",
+      "image": "/covers/nz-vs-ind.svg",
+      "imageSource": "",
+      "publishedAt": "2026-10-30T06:50:00.000Z",
+      "publishedLabel": "",
+      "rank": 21,
+      "blocks": [
+        {
+          "type": "p",
+          "text": "Nz vs Ind is one of the 25 biggest searches in the United States today. Ball by Ball Commentary & Live Score."
+        },
+        {
+          "type": "h2",
+          "text": "The result people are checking"
+        },
+        {
+          "type": "p",
+          "text": "Phillips century sees Black Caps hit record T20 score, thrash India. New Zealand India Cricket."
+        },
+        {
+          "type": "p",
+          "text": "People are searching “nz vs ind.” This page stays with those accounts and does not add a score, a name, or an outcome that was not in them."
+        }
+      ],
+      "sources": []
+    },
+    {
+      "slug": "cameron-boozer",
+      "query": "cameron boozer",
+      "title": "Cameron Boozer",
+      "headline": "Grizzlies 124-103 Trail Blazers (Oct 29, 2026) Game Recap",
+      "dek": "Grizzlies 124-103 Trail Blazers (Oct 29, 2026) Game Recap.",
+      "angle": "Grizzlies 124-103 Trail Blazers (Oct 29, 2026) Game Recap",
+      "traffic": "20000",
+      "trafficLabel": "20K+",
+      "image": "/covers/cameron-boozer.svg",
+      "imageSource": "",
+      "publishedAt": "2026-10-30T03:20:00.000Z",
+      "publishedLabel": "",
+      "rank": 22,
+      "blocks": [
+        {
+          "type": "p",
+          "text": "Cameron Boozer is one of the 25 biggest searches in the United States today. Grizzlies 124-103 Trail Blazers (Oct 29, 2026) Game Recap."
+        },
+        {
+          "type": "h2",
+          "text": "What is already on the record"
+        },
+        {
+          "type": "p",
+          "text": "How are the Memphis Grizzlies 5-0? Hustle, muscle … and Cameron Boozer. Grizzlies’ Cameron Boozer becomes second-youngest NBA player with triple-double."
+        },
+        {
+          "type": "p",
+          "text": "People are searching “cameron boozer.” This page stays with those accounts and does not add a score, a name, or an outcome that was not in them."
+        }
+      ],
+      "sources": []
+    },
+    {
+      "slug": "everton-vs-newcastle",
+      "query": "everton vs newcastle",
+      "title": "Everton vs Newcastle",
+      "headline": "Jack Grealish misses Everton-Newcastle due to 'breach of club discipline'",
+      "dek": "Jack Grealish misses Everton-Newcastle due to 'breach of club discipline'.",
+      "angle": "Jack Grealish misses Everton-Newcastle due to 'breach of club discipline'",
+      "traffic": "20000",
+      "trafficLabel": "20K+",
+      "image": "/covers/everton-vs-newcastle.svg",
+      "imageSource": "",
+      "publishedAt": "2026-10-29T18:50:00.000Z",
+      "publishedLabel": "",
+      "rank": 23,
+      "blocks": [
+        {
+          "type": "p",
+          "text": "Everton vs Newcastle is one of the 25 biggest searches in the United States today. Jack Grealish misses Everton-Newcastle due to 'breach of club discipline'."
+        },
+        {
+          "type": "h2",
+          "text": "The result people are checking"
+        },
+        {
+          "type": "p",
+          "text": "Everton news: What next for Jack Grealish after cup tie omission? David Moyes backed Jack Grealish — he will feel seriously let down."
+        },
+        {
+          "type": "p",
+          "text": "People are searching “everton vs newcastle.” This page stays with those accounts and does not add a score, a name, or an outcome that was not in them."
+        }
+      ],
+      "sources": []
+    },
+    {
+      "slug": "hb-k-ge-barcelona",
+      "query": "hb køge - barcelona",
+      "title": "Hb Køge - Barcelona",
+      "headline": "HB Køge vs Barcelona: UEFA Women's Champions League stats & head-to-head",
+      "dek": "HB Køge vs Barcelona: UEFA Women's Champions League stats & head-to-head.",
+      "angle": "HB Køge vs Barcelona: UEFA Women's Champions League stats & head-to-head",
+      "traffic": "20000",
+      "trafficLabel": "20K+",
+      "image": "/covers/hb-k-ge-barcelona.svg",
+      "imageSource": "",
+      "publishedAt": "2026-10-29T19:40:00.000Z",
+      "publishedLabel": "",
+      "rank": 24,
+      "blocks": [
+        {
+          "type": "p",
+          "text": "Hb Køge - Barcelona is one of the 25 biggest searches in the United States today. HB Køge vs Barcelona: UEFA Women's Champions League stats & head-to-head."
+        },
+        {
+          "type": "h2",
+          "text": "What is already on the record"
+        },
+        {
+          "type": "p",
+          "text": "FC Barcelona News: 30 October 2026."
+        },
+        {
+          "type": "p",
+          "text": "People are searching “hb køge - barcelona.” This page stays with those accounts and does not add a score, a name, or an outcome that was not in them."
+        }
+      ],
+      "sources": []
+    },
+    {
+      "slug": "jalen-coker",
+      "query": "jalen coker",
+      "title": "Jalen Coker",
+      "headline": "Can't-Miss Play: 26-yard TD on fourth-and-3! Young and Coker cook up magic in Green Bay",
+      "dek": "Can't-Miss Play: 26-yard TD on fourth-and-3! Young and Coker cook up magic in Green Bay.",
+      "angle": "Can't-Miss Play: 26-yard TD on fourth-and-3! Young and Coker cook up magic in Green Bay",
+      "traffic": "20000",
+      "trafficLabel": "20K+",
+      "image": "/covers/jalen-coker.svg",
+      "imageSource": "",
+      "publishedAt": "2026-10-29T22:30:00.000Z",
+      "publishedLabel": "",
+      "rank": 25,
+      "blocks": [
+        {
+          "type": "p",
+          "text": "Jalen Coker is one of the 25 biggest searches in the United States today. Can't-Miss Play: 26-yard TD on fourth-and-3! Young and Coker cook up magic in Green Bay."
+        },
+        {
+          "type": "h2",
+          "text": "What is already on the record"
+        },
+        {
+          "type": "p",
+          "text": "Is Jalen Coker Playing Tonight? Why Panthers’ WR Isn’t Catching Passes. Jalen Coker Salvages night with TD in loss."
+        },
+        {
+          "type": "p",
+          "text": "People are searching “jalen coker.” This page stays with those accounts and does not add a score, a name, or an outcome that was not in them."
+        }
+      ],
+      "sources": []
+    }
+  ]
+}
