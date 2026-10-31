@@ -1,0 +1,861 @@
+{
+  "date": "2026-10-31",
+  "fetchedAt": "2026-10-31T12:38:36.970Z",
+  "geo": "US",
+  "window": "24h",
+  "sort": "volume",
+  "limit": 25,
+  "sourceUrl": "https://trends.google.com/trending?geo=US&hours=24&sort=search-volume",
+  "posts": [
+    {
+      "slug": "lakers-vs-warriors",
+      "query": "lakers vs warriors",
+      "title": "Lakers vs Warriors",
+      "headline": "Los Angeles Lakers vs. Golden State Warriors Live NBA Updates, Scores and Highlights",
+      "dek": "Los Angeles Lakers vs. Golden State Warriors Live NBA Updates, Scores and Highlights.",
+      "angle": "Los Angeles Lakers vs. Golden State Warriors Live NBA Updates, Scores and Highlights",
+      "traffic": "200000",
+      "trafficLabel": "200K+",
+      "image": "/covers/lakers-vs-warriors.svg",
+      "imageSource": "",
+      "publishedAt": "2026-10-31T01:10:00.000Z",
+      "publishedLabel": "",
+      "rank": 1,
+      "blocks": [
+        {
+          "type": "p",
+          "text": "Lakers vs Warriors is one of the 25 biggest searches in the United States today. Los Angeles Lakers vs. Golden State Warriors Live NBA Updates, Scores and Highlights."
+        },
+        {
+          "type": "h2",
+          "text": "The result people are checking"
+        },
+        {
+          "type": "p",
+          "text": "Luka Doncic brings extra motivation to Lakers vs Warriors NBA Cup clash on ESPN tonight."
+        },
+        {
+          "type": "p",
+          "text": "People are searching “lakers vs warriors.” This page stays with those accounts and does not add a score, a name, or an outcome that was not in them."
+        }
+      ],
+      "sources": []
+    },
+    {
+      "slug": "nuggets-vs-suns",
+      "query": "nuggets vs suns",
+      "title": "Nuggets vs Suns",
+      "headline": "Chicago Bulls vs Boston Celtics Oct 30, 2026 Box Scores",
+      "dek": "Chicago Bulls vs Boston Celtics Oct 30, 2026 Box Scores.",
+      "angle": "Chicago Bulls vs Boston Celtics Oct 30, 2026 Box Scores",
+      "traffic": "200000",
+      "trafficLabel": "200K+",
+      "image": "/covers/nuggets-vs-suns.svg",
+      "imageSource": "",
+      "publishedAt": "2026-10-31T01:00:00.000Z",
+      "publishedLabel": "",
+      "rank": 2,
+      "blocks": [
+        {
+          "type": "p",
+          "text": "Nuggets vs Suns is one of the 25 biggest searches in the United States today. Chicago Bulls vs Boston Celtics Oct 30, 2026 Box Scores."
+        },
+        {
+          "type": "h2",
+          "text": "The result people are checking"
+        },
+        {
+          "type": "p",
+          "text": "Los Angeles Lakers vs Golden State Warriors Oct 30, 2026 Box Scores. Orlando Magic vs Toronto Raptors Oct 30, 2026 Box Scores."
+        },
+        {
+          "type": "p",
+          "text": "People are searching “nuggets vs suns.” This page stays with those accounts and does not add a score, a name, or an outcome that was not in them."
+        }
+      ],
+      "sources": []
+    },
+    {
+      "slug": "knicks-vs-76ers",
+      "query": "knicks vs 76ers",
+      "title": "Knicks vs 76ers",
+      "headline": "LeBron James shines vs. Knicks in 'his best game' with 76ers",
+      "dek": "LeBron James shines vs. Knicks in 'his best game' with 76ers.",
+      "angle": "LeBron James shines vs. Knicks in 'his best game' with 76ers",
+      "traffic": "200000",
+      "trafficLabel": "200K+",
+      "image": "/covers/knicks-vs-76ers.svg",
+      "imageSource": "",
+      "publishedAt": "2026-10-30T22:40:00.000Z",
+      "publishedLabel": "",
+      "rank": 3,
+      "blocks": [
+        {
+          "type": "p",
+          "text": "Knicks vs 76ers is one of the 25 biggest searches in the United States today. LeBron James shines vs. Knicks in 'his best game' with 76ers."
+        },
+        {
+          "type": "h2",
+          "text": "The result people are checking"
+        },
+        {
+          "type": "p",
+          "text": "LeBron James plays with force and defense locks down as Sixers make another statement vs. Knicks. NBA Cup 2026: Defending champ Knicks fall to Sixers, again, in first night of play."
+        },
+        {
+          "type": "p",
+          "text": "People are searching “knicks vs 76ers.” This page stays with those accounts and does not add a score, a name, or an outcome that was not in them."
+        }
+      ],
+      "sources": []
+    },
+    {
+      "slug": "weather-tomorrow",
+      "query": "weather tomorrow",
+      "title": "Weather Tomorrow",
+      "headline": "Round one of rain, storms arrives in Phoenix area; wet weekend ahead",
+      "dek": "Round one of rain, storms arrives in Phoenix area; wet weekend ahead.",
+      "angle": "Round one of rain, storms arrives in Phoenix area; wet weekend ahead",
+      "traffic": "200000",
+      "trafficLabel": "200K+",
+      "image": "/covers/weather-tomorrow.svg",
+      "imageSource": "",
+      "publishedAt": "2026-10-31T03:40:00.000Z",
+      "publishedLabel": "",
+      "rank": 4,
+      "blocks": [
+        {
+          "type": "p",
+          "text": "Weather Tomorrow is one of the 25 biggest searches in the United States today. Round one of rain, storms arrives in Phoenix area; wet weekend ahead."
+        },
+        {
+          "type": "h2",
+          "text": "What is already on the record"
+        },
+        {
+          "type": "p",
+          "text": "Arizona weather forecast: Phoenix braces for severe storms and flash flood threat. POWER OUTAGES: Thousands of customers without power across the Valley."
+        },
+        {
+          "type": "p",
+          "text": "People are searching “weather tomorrow.” This page stays with those accounts and does not add a score, a name, or an outcome that was not in them."
+        }
+      ],
+      "sources": []
+    },
+    {
+      "slug": "poland",
+      "query": "poland",
+      "title": "Poland",
+      "headline": "Police deployed during stand-off over control of top Poland court",
+      "dek": "Police deployed during stand-off over control of top Poland court.",
+      "angle": "Police deployed during stand-off over control of top Poland court",
+      "traffic": "100000",
+      "trafficLabel": "100K+",
+      "image": "/covers/poland.svg",
+      "imageSource": "",
+      "publishedAt": "2026-10-30T18:30:00.000Z",
+      "publishedLabel": "",
+      "rank": 5,
+      "blocks": [
+        {
+          "type": "p",
+          "text": "Poland is one of the 25 biggest searches in the United States today. Police deployed during stand-off over control of top Poland court."
+        },
+        {
+          "type": "h2",
+          "text": "What is already on the record"
+        },
+        {
+          "type": "p",
+          "text": "Poland crisis explained: a dispute over legitimacy and the courts. Polish president turns plane around to return home as court chief’s suspension sparks protest."
+        },
+        {
+          "type": "p",
+          "text": "People are searching “poland.” This page stays with those accounts and does not add a score, a name, or an outcome that was not in them."
+        }
+      ],
+      "sources": []
+    },
+    {
+      "slug": "baylor-vs-ucf",
+      "query": "baylor vs ucf",
+      "title": "Baylor vs Ucf",
+      "headline": "Baylor bounces back, wins Joe Klanderman's first game as interim coach",
+      "dek": "Baylor bounces back, wins Joe Klanderman's first game as interim coach.",
+      "angle": "Baylor bounces back, wins Joe Klanderman's first game as interim coach",
+      "traffic": "100000",
+      "trafficLabel": "100K+",
+      "image": "/covers/baylor-vs-ucf.svg",
+      "imageSource": "",
+      "publishedAt": "2026-10-30T21:50:00.000Z",
+      "publishedLabel": "",
+      "rank": 6,
+      "blocks": [
+        {
+          "type": "p",
+          "text": "Baylor vs Ucf is one of the 25 biggest searches in the United States today. Baylor bounces back, wins Joe Klanderman's first game as interim coach."
+        },
+        {
+          "type": "h2",
+          "text": "The result people are checking"
+        },
+        {
+          "type": "p",
+          "text": "10 Things: Lagway Leads the Bears to Victory with Dominant Performance Over UCF. Game time: UCF Knights vs. Baylor."
+        },
+        {
+          "type": "p",
+          "text": "People are searching “baylor vs ucf.” This page stays with those accounts and does not add a score, a name, or an outcome that was not in them."
+        }
+      ],
+      "sources": []
+    },
+    {
+      "slug": "rockets-vs-mavericks",
+      "query": "rockets vs mavericks",
+      "title": "Rockets vs Mavericks",
+      "headline": "Mavericks 116-111 Rockets (Oct 30, 2026) Game Recap",
+      "dek": "Mavericks 116-111 Rockets (Oct 30, 2026) Game Recap.",
+      "angle": "Mavericks 116-111 Rockets (Oct 30, 2026) Game Recap",
+      "traffic": "100000",
+      "trafficLabel": "100K+",
+      "image": "/covers/rockets-vs-mavericks.svg",
+      "imageSource": "",
+      "publishedAt": "2026-10-30T23:00:00.000Z",
+      "publishedLabel": "",
+      "rank": 7,
+      "blocks": [
+        {
+          "type": "p",
+          "text": "Rockets vs Mavericks is one of the 25 biggest searches in the United States today. Mavericks 116-111 Rockets (Oct 30, 2026) Game Recap."
+        },
+        {
+          "type": "h2",
+          "text": "The result people are checking"
+        },
+        {
+          "type": "p",
+          "text": "Game Recap: Mavericks 116, Rockets 111. Mavs' long-awaited duo of Kyrie Irving, Cooper Flagg finally able to showcase budding chemistry."
+        },
+        {
+          "type": "p",
+          "text": "People are searching “rockets vs mavericks.” This page stays with those accounts and does not add a score, a name, or an outcome that was not in them."
+        }
+      ],
+      "sources": []
+    },
+    {
+      "slug": "fairfield-shooting",
+      "query": "fairfield shooting",
+      "title": "Fairfield Shooting",
+      "headline": "1 dead, 6 others hurt in shooting at Spirit Halloween in Fairfield, police say",
+      "dek": "1 dead, 6 others hurt in shooting at Spirit Halloween in Fairfield, police say.",
+      "angle": "1 dead, 6 others hurt in shooting at Spirit Halloween in Fairfield, police say",
+      "traffic": "100000",
+      "trafficLabel": "100K+",
+      "image": "/covers/fairfield-shooting.svg",
+      "imageSource": "",
+      "publishedAt": "2026-10-31T04:40:00.000Z",
+      "publishedLabel": "",
+      "rank": 8,
+      "blocks": [
+        {
+          "type": "p",
+          "text": "Fairfield Shooting is one of the 25 biggest searches in the United States today. 1 dead, 6 others hurt in shooting at Spirit Halloween in Fairfield, police say."
+        },
+        {
+          "type": "h2",
+          "text": "What is already on the record"
+        },
+        {
+          "type": "p",
+          "text": "1 dead, 6 wounded in shooting at California Spirit Halloween store. Fairfield shooting: 1 dead, 6 injured after shots fired near Spirit Halloween store at Solano Town Center."
+        },
+        {
+          "type": "p",
+          "text": "People are searching “fairfield shooting.” This page stays with those accounts and does not add a score, a name, or an outcome that was not in them."
+        }
+      ],
+      "sources": []
+    },
+    {
+      "slug": "lakers-warriors",
+      "query": "lakers - warriors",
+      "title": "Lakers - Warriors",
+      "headline": "Curry's ankle-breaker on Luka highlights Warriors' stunning 25-point comeback",
+      "dek": "Curry's ankle-breaker on Luka highlights Warriors' stunning 25-point comeback.",
+      "angle": "Curry's ankle-breaker on Luka highlights Warriors' stunning 25-point comeback",
+      "traffic": "100000",
+      "trafficLabel": "100K+",
+      "image": "/covers/lakers-warriors.svg",
+      "imageSource": "",
+      "publishedAt": "2026-10-31T01:10:00.000Z",
+      "publishedLabel": "",
+      "rank": 9,
+      "blocks": [
+        {
+          "type": "p",
+          "text": "Lakers - Warriors is one of the 25 biggest searches in the United States today. Curry's ankle-breaker on Luka highlights Warriors' stunning 25-point comeback."
+        },
+        {
+          "type": "h2",
+          "text": "What is already on the record"
+        },
+        {
+          "type": "p",
+          "text": "Steph Curry highlights: Watch Warriors star score 31 points in win vs. Lakers. Emirates NBA Cup: live updates, top moments from first night."
+        },
+        {
+          "type": "p",
+          "text": "People are searching “lakers - warriors.” This page stays with those accounts and does not add a score, a name, or an outcome that was not in them."
+        }
+      ],
+      "sources": []
+    },
+    {
+      "slug": "richard-norton-peptides",
+      "query": "richard norton peptides",
+      "title": "Richard Norton Peptides",
+      "headline": "Richard Norton, actor and martial artist, died after peptides triggered heart attack, coroner says",
+      "dek": "Richard Norton, actor and martial artist, died after peptides triggered heart attack, coroner says.",
+      "angle": "Richard Norton, actor and martial artist, died after peptides triggered heart attack, coroner says",
+      "traffic": "50000",
+      "trafficLabel": "50K+",
+      "image": "/covers/richard-norton-peptides.svg",
+      "imageSource": "",
+      "publishedAt": "2026-10-31T02:10:00.000Z",
+      "publishedLabel": "",
+      "rank": 10,
+      "blocks": [
+        {
+          "type": "p",
+          "text": "Richard Norton Peptides is one of the 25 biggest searches in the United States today. Richard Norton, actor and martial artist, died after peptides triggered heart attack, coroner says."
+        },
+        {
+          "type": "h2",
+          "text": "What is already on the record"
+        },
+        {
+          "type": "p",
+          "text": "‘Mad Max’ Actor Richard Norton Cause of Death Revealed to Be Linked to Peptide Usage. 'Mad Max' actor Richard Norton died after peptide injection, coroner finds."
+        },
+        {
+          "type": "p",
+          "text": "People are searching “richard norton peptides.” This page stays with those accounts and does not add a score, a name, or an outcome that was not in them."
+        }
+      ],
+      "sources": []
+    },
+    {
+      "slug": "samsung-news-app-discontinued-2026",
+      "query": "samsung news app discontinued 2026",
+      "title": "Samsung News App Discontinued 2026",
+      "headline": "Samsung News app on Galaxy devices is being shut down",
+      "dek": "Samsung News app on Galaxy devices is being shut down.",
+      "angle": "Samsung News app on Galaxy devices is being shut down",
+      "traffic": "50000",
+      "trafficLabel": "50K+",
+      "image": "/covers/samsung-news-app-discontinued-2026.svg",
+      "imageSource": "",
+      "publishedAt": "2026-10-30T22:50:00.000Z",
+      "publishedLabel": "",
+      "rank": 11,
+      "blocks": [
+        {
+          "type": "p",
+          "text": "Samsung News App Discontinued 2026 is one of the 25 biggest searches in the United States today. Samsung News app on Galaxy devices is being shut down."
+        },
+        {
+          "type": "h2",
+          "text": "What is already on the record"
+        },
+        {
+          "type": "p",
+          "text": "Check your Galaxy phone: Samsung is shutting down a built-in feature. Samsung is killing another key Galaxy service."
+        },
+        {
+          "type": "p",
+          "text": "People are searching “samsung news app discontinued 2026.” This page stays with those accounts and does not add a score, a name, or an outcome that was not in them."
+        }
+      ],
+      "sources": []
+    },
+    {
+      "slug": "bryce-hall",
+      "query": "bryce hall",
+      "title": "Bryce Hall",
+      "headline": "Influencer Bryce Hall dragged into Halloween street brawl in prison jumpsuit after arrest",
+      "dek": "Influencer Bryce Hall dragged into Halloween street brawl in prison jumpsuit after arrest.",
+      "angle": "Influencer Bryce Hall dragged into Halloween street brawl in prison jumpsuit after arrest",
+      "traffic": "50000",
+      "trafficLabel": "50K+",
+      "image": "/covers/bryce-hall.svg",
+      "imageSource": "",
+      "publishedAt": "2026-10-30T15:00:00.000Z",
+      "publishedLabel": "",
+      "rank": 12,
+      "blocks": [
+        {
+          "type": "p",
+          "text": "Bryce Hall is one of the 25 biggest searches in the United States today. Influencer Bryce Hall dragged into Halloween street brawl in prison jumpsuit after arrest."
+        },
+        {
+          "type": "h2",
+          "text": "What is already on the record"
+        },
+        {
+          "type": "p",
+          "text": "Bryce Hall beaten outside a Halloween party, weeks after his domestic violence charge. Bryce Hall Shows Bloody Aftermath After Being Beaten: 'Happy Halloween'."
+        },
+        {
+          "type": "p",
+          "text": "People are searching “bryce hall.” This page stays with those accounts and does not add a score, a name, or an outcome that was not in them."
+        }
+      ],
+      "sources": []
+    },
+    {
+      "slug": "pacers-vs-heat",
+      "query": "pacers vs heat",
+      "title": "Pacers vs Heat",
+      "headline": "Heat 145-125 Pacers (Oct 30, 2026) Game Recap",
+      "dek": "Heat 145-125 Pacers (Oct 30, 2026) Game Recap.",
+      "angle": "Heat 145-125 Pacers (Oct 30, 2026) Game Recap",
+      "traffic": "50000",
+      "trafficLabel": "50K+",
+      "image": "/covers/pacers-vs-heat.svg",
+      "imageSource": "",
+      "publishedAt": "2026-10-30T23:10:00.000Z",
+      "publishedLabel": "",
+      "rank": 13,
+      "blocks": [
+        {
+          "type": "p",
+          "text": "Pacers vs Heat is one of the 25 biggest searches in the United States today. Heat 145-125 Pacers (Oct 30, 2026) Game Recap."
+        },
+        {
+          "type": "h2",
+          "text": "The result people are checking"
+        },
+        {
+          "type": "p",
+          "text": "Game Recap: Heat 145, Pacers 125. Giannis Antetokounmpo's triple-double blows out shorthanded Pacers, 145-125, in NBA Cup game."
+        },
+        {
+          "type": "p",
+          "text": "People are searching “pacers vs heat.” This page stays with those accounts and does not add a score, a name, or an outcome that was not in them."
+        }
+      ],
+      "sources": []
+    },
+    {
+      "slug": "clippers-vs-timberwolves",
+      "query": "clippers vs timberwolves",
+      "title": "Clippers vs Timberwolves",
+      "headline": "Game Recap: Timberwolves 127, Clippers 101",
+      "dek": "Game Recap: Timberwolves 127, Clippers 101.",
+      "angle": "Game Recap: Timberwolves 127, Clippers 101",
+      "traffic": "50000",
+      "trafficLabel": "50K+",
+      "image": "/covers/clippers-vs-timberwolves.svg",
+      "imageSource": "",
+      "publishedAt": "2026-10-30T23:00:00.000Z",
+      "publishedLabel": "",
+      "rank": 14,
+      "blocks": [
+        {
+          "type": "p",
+          "text": "Clippers vs Timberwolves is one of the 25 biggest searches in the United States today. Game Recap: Timberwolves 127, Clippers 101."
+        },
+        {
+          "type": "h2",
+          "text": "The result people are checking"
+        },
+        {
+          "type": "p",
+          "text": "After message from Anthony Edwards, Timberwolves respond with rout of Clippers."
+        },
+        {
+          "type": "p",
+          "text": "People are searching “clippers vs timberwolves.” This page stays with those accounts and does not add a score, a name, or an outcome that was not in them."
+        }
+      ],
+      "sources": []
+    },
+    {
+      "slug": "pistons-vs-nets",
+      "query": "pistons vs nets",
+      "title": "Pistons vs Nets",
+      "headline": "Pistons 110-94 Nets (Oct 30, 2026) Game Recap",
+      "dek": "Pistons 110-94 Nets (Oct 30, 2026) Game Recap.",
+      "angle": "Pistons 110-94 Nets (Oct 30, 2026) Game Recap",
+      "traffic": "50000",
+      "trafficLabel": "50K+",
+      "image": "/covers/pistons-vs-nets.svg",
+      "imageSource": "",
+      "publishedAt": "2026-10-30T22:30:00.000Z",
+      "publishedLabel": "",
+      "rank": 15,
+      "blocks": [
+        {
+          "type": "p",
+          "text": "Pistons vs Nets is one of the 25 biggest searches in the United States today. Pistons 110-94 Nets (Oct 30, 2026) Game Recap."
+        },
+        {
+          "type": "h2",
+          "text": "The result people are checking"
+        },
+        {
+          "type": "p",
+          "text": "Ron Holland shines as Pistons cut down winless Nets in NBA Cup opener. Ron Holland shaking off slow start, but Pistons aren't worried."
+        },
+        {
+          "type": "p",
+          "text": "People are searching “pistons vs nets.” This page stays with those accounts and does not add a score, a name, or an outcome that was not in them."
+        }
+      ],
+      "sources": []
+    },
+    {
+      "slug": "verdict",
+      "query": "verdict",
+      "title": "Verdict",
+      "headline": "New appeals court ruling could end Sunday Ticket",
+      "dek": "New appeals court ruling could end Sunday Ticket.",
+      "angle": "New appeals court ruling could end Sunday Ticket",
+      "traffic": "50000",
+      "trafficLabel": "50K+",
+      "image": "/covers/verdict.svg",
+      "imageSource": "",
+      "publishedAt": "2026-10-30T15:00:00.000Z",
+      "publishedLabel": "",
+      "rank": 16,
+      "blocks": [
+        {
+          "type": "p",
+          "text": "Verdict is one of the 25 biggest searches in the United States today. New appeals court ruling could end Sunday Ticket."
+        },
+        {
+          "type": "h2",
+          "text": "What is already on the record"
+        },
+        {
+          "type": "p",
+          "text": "NFL faces new trial over ‘Sunday Ticket’ damages after court reinstates verdict against league. Appellate court revives ‘Sunday Ticket’ antitrust verdict against the NFL."
+        },
+        {
+          "type": "p",
+          "text": "People are searching “verdict.” This page stays with those accounts and does not add a score, a name, or an outcome that was not in them."
+        }
+      ],
+      "sources": []
+    },
+    {
+      "slug": "nikita-kucherov",
+      "query": "nikita kucherov",
+      "title": "Nikita Kucherov",
+      "headline": "Sources: Nikita Kucherov tells Lightning he won't re-sign, asks for trade",
+      "dek": "Sources: Nikita Kucherov tells Lightning he won't re-sign, asks for trade.",
+      "angle": "Sources: Nikita Kucherov tells Lightning he won't re-sign, asks for trade",
+      "traffic": "50000",
+      "trafficLabel": "50K+",
+      "image": "/covers/nikita-kucherov.svg",
+      "imageSource": "",
+      "publishedAt": "2026-10-30T22:50:00.000Z",
+      "publishedLabel": "",
+      "rank": 17,
+      "blocks": [
+        {
+          "type": "p",
+          "text": "Nikita Kucherov is one of the 25 biggest searches in the United States today. Sources: Nikita Kucherov tells Lightning he won't re-sign, asks for trade."
+        },
+        {
+          "type": "h2",
+          "text": "What is already on the record"
+        },
+        {
+          "type": "p",
+          "text": "What’s next for the Lightning and Nikita Kucherov after a shocking trade request? Nikita Kucherov trade request: Five potential landing spots for the reigning NHL MVP."
+        },
+        {
+          "type": "p",
+          "text": "People are searching “nikita kucherov.” This page stays with those accounts and does not add a score, a name, or an outcome that was not in them."
+        }
+      ],
+      "sources": []
+    },
+    {
+      "slug": "hornets-vs-wizards",
+      "query": "hornets vs wizards",
+      "title": "Hornets vs Wizards",
+      "headline": "Game Recap: Wizards 95, Hornets 79",
+      "dek": "Game Recap: Wizards 95, Hornets 79.",
+      "angle": "Game Recap: Wizards 95, Hornets 79",
+      "traffic": "50000",
+      "trafficLabel": "50K+",
+      "image": "/covers/hornets-vs-wizards.svg",
+      "imageSource": "",
+      "publishedAt": "2026-10-30T22:00:00.000Z",
+      "publishedLabel": "",
+      "rank": 18,
+      "blocks": [
+        {
+          "type": "p",
+          "text": "Hornets vs Wizards is one of the 25 biggest searches in the United States today. Game Recap: Wizards 95, Hornets 79."
+        },
+        {
+          "type": "h2",
+          "text": "The result people are checking"
+        },
+        {
+          "type": "p",
+          "text": "AJ Dybantsa answers dad’s challenge, shows he can be ‘a two-way impact player’. Why the Washington Wizards are the smart moneyline pick against Charlotte Hornets tonight."
+        },
+        {
+          "type": "p",
+          "text": "People are searching “hornets vs wizards.” This page stays with those accounts and does not add a score, a name, or an outcome that was not in them."
+        }
+      ],
+      "sources": []
+    },
+    {
+      "slug": "le-havre-vs-psg",
+      "query": "le havre vs psg",
+      "title": "Le Havre vs Psg",
+      "headline": "Warriors 112-95 Lakers (31 Oct, 2026) Final Score",
+      "dek": "Warriors 112-95 Lakers (31 Oct, 2026) Final Score.",
+      "angle": "Warriors 112-95 Lakers (31 Oct, 2026) Final Score",
+      "traffic": "50000",
+      "trafficLabel": "50K+",
+      "image": "/covers/le-havre-vs-psg.svg",
+      "imageSource": "",
+      "publishedAt": "2026-10-30T17:10:00.000Z",
+      "publishedLabel": "",
+      "rank": 19,
+      "blocks": [
+        {
+          "type": "p",
+          "text": "Le Havre vs Psg is one of the 25 biggest searches in the United States today. Warriors 112-95 Lakers (31 Oct, 2026) Final Score."
+        },
+        {
+          "type": "h2",
+          "text": "The result people are checking"
+        },
+        {
+          "type": "p",
+          "text": "Le Havre AC 1-5 PSG (Oct 30, 2026) Player Stats. 76ers 98-93 Knicks (30 Oct, 2026) Final Score."
+        },
+        {
+          "type": "p",
+          "text": "People are searching “le havre vs psg.” This page stays with those accounts and does not add a score, a name, or an outcome that was not in them."
+        }
+      ],
+      "sources": []
+    },
+    {
+      "slug": "le-havre-psg",
+      "query": "le havre - psg",
+      "title": "Le Havre - Psg",
+      "headline": "Le Havre 1-5 PSG, Ligue 1 : Le PSG éteint la lanterne rouge",
+      "dek": "Le Havre 1-5 PSG, Ligue 1 : Le PSG éteint la lanterne rouge.",
+      "angle": "Le Havre 1-5 PSG, Ligue 1 : Le PSG éteint la lanterne rouge",
+      "traffic": "50000",
+      "trafficLabel": "50K+",
+      "image": "/covers/le-havre-psg.svg",
+      "imageSource": "",
+      "publishedAt": "2026-10-30T17:20:00.000Z",
+      "publishedLabel": "",
+      "rank": 20,
+      "blocks": [
+        {
+          "type": "p",
+          "text": "Le Havre - Psg is one of the 25 biggest searches in the United States today. Le Havre 1-5 PSG, Ligue 1 : Le PSG éteint la lanterne rouge."
+        },
+        {
+          "type": "h2",
+          "text": "What is already on the record"
+        },
+        {
+          "type": "p",
+          "text": "Sports - Ligue 1 : le PSG enchaîne une sixième victoire consécutive, Achraf Hakimi signe un triplé. PSG : pourquoi Luis Enrique a conspué Achraf Hakimi après son but."
+        },
+        {
+          "type": "p",
+          "text": "People are searching “le havre - psg.” This page stays with those accounts and does not add a score, a name, or an outcome that was not in them."
+        }
+      ],
+      "sources": []
+    },
+    {
+      "slug": "jordon-hudson",
+      "query": "jordon hudson",
+      "title": "Jordon Hudson",
+      "headline": "Bill Belichick, Jordon Hudson Quietly Broke Up Almost a Year Ago",
+      "dek": "Bill Belichick, Jordon Hudson Quietly Broke Up Almost a Year Ago.",
+      "angle": "Bill Belichick, Jordon Hudson Quietly Broke Up Almost a Year Ago",
+      "traffic": "50000",
+      "trafficLabel": "50K+",
+      "image": "/covers/jordon-hudson.svg",
+      "imageSource": "",
+      "publishedAt": "2026-10-30T23:20:00.000Z",
+      "publishedLabel": "",
+      "rank": 21,
+      "blocks": [
+        {
+          "type": "p",
+          "text": "Jordon Hudson is one of the 25 biggest searches in the United States today. Bill Belichick, Jordon Hudson Quietly Broke Up Almost a Year Ago."
+        },
+        {
+          "type": "h2",
+          "text": "What is already on the record"
+        },
+        {
+          "type": "p",
+          "text": "Bill Belichick, Jordon Hudson breakup report catches UNC staffers off guard. NFL Coach Bill Belichick and Jordon Hudson Broke Up Last Year."
+        },
+        {
+          "type": "p",
+          "text": "People are searching “jordon hudson.” This page stays with those accounts and does not add a score, a name, or an outcome that was not in them."
+        }
+      ],
+      "sources": []
+    },
+    {
+      "slug": "when-does-the-time-change",
+      "query": "when does the time change",
+      "title": "When Does the Time Change",
+      "headline": "Daylight saving time 2026 ends tonight. Here's what time the clocks change and more key details",
+      "dek": "Daylight saving time 2026 ends tonight. Here's what time the clocks change and more key details.",
+      "angle": "Daylight saving time 2026 ends tonight. Here's what time the clocks change and more key details",
+      "traffic": "50000",
+      "trafficLabel": "50K+",
+      "image": "/covers/when-does-the-time-change.svg",
+      "imageSource": "",
+      "publishedAt": "2026-10-31T06:10:00.000Z",
+      "publishedLabel": "",
+      "rank": 22,
+      "blocks": [
+        {
+          "type": "p",
+          "text": "When Does the Time Change is one of the 25 biggest searches in the United States today. Daylight saving time 2026 ends tonight. Here's what time the clocks change and more key details."
+        },
+        {
+          "type": "h2",
+          "text": "What is already on the record"
+        },
+        {
+          "type": "p",
+          "text": "What a switch to year-round daylight saving time would change, in six graphics. How the time-change debate impacts sunrise and sunset across the country."
+        },
+        {
+          "type": "p",
+          "text": "People are searching “when does the time change.” This page stays with those accounts and does not add a score, a name, or an outcome that was not in them."
+        }
+      ],
+      "sources": []
+    },
+    {
+      "slug": "chelsea-vs-man-utd",
+      "query": "chelsea vs man utd",
+      "title": "Chelsea vs Man Utd",
+      "headline": "Chelsea vs Manchester United: Premier League preview, team news, stats & head-to-head",
+      "dek": "Chelsea vs Manchester United: Premier League preview, team news, stats & head-to-head.",
+      "angle": "Chelsea vs Manchester United: Premier League preview, team news, stats & head-to-head",
+      "traffic": "20000",
+      "trafficLabel": "20K+",
+      "image": "/covers/chelsea-vs-man-utd.svg",
+      "imageSource": "",
+      "publishedAt": "2026-10-31T11:30:00.000Z",
+      "publishedLabel": "",
+      "rank": 23,
+      "blocks": [
+        {
+          "type": "p",
+          "text": "Chelsea vs Man Utd is one of the 25 biggest searches in the United States today. Chelsea vs Manchester United: Premier League preview, team news, stats & head-to-head."
+        },
+        {
+          "type": "h2",
+          "text": "The result people are checking"
+        },
+        {
+          "type": "p",
+          "text": "Chelsea vs. Manchester United, Premier League: Confirmed lineups; how to watch. Chelsea vs. Man Utd: Preview, Predictions and Lineups."
+        },
+        {
+          "type": "p",
+          "text": "People are searching “chelsea vs man utd.” This page stays with those accounts and does not add a score, a name, or an outcome that was not in them."
+        }
+      ],
+      "sources": []
+    },
+    {
+      "slug": "bo-bice-short-hair-transformation",
+      "query": "bo bice short hair transformation",
+      "title": "Bo Bice Short Hair Transformation",
+      "headline": "American Idol Runner-Up Bo Bice Debuts Major Before-and-After Transformation",
+      "dek": "American Idol Runner-Up Bo Bice Debuts Major Before-and-After Transformation.",
+      "angle": "American Idol Runner-Up Bo Bice Debuts Major Before-and-After Transformation",
+      "traffic": "20000",
+      "trafficLabel": "20K+",
+      "image": "/covers/bo-bice-short-hair-transformation.svg",
+      "imageSource": "",
+      "publishedAt": "2026-10-30T22:50:00.000Z",
+      "publishedLabel": "",
+      "rank": 24,
+      "blocks": [
+        {
+          "type": "p",
+          "text": "Bo Bice Short Hair Transformation is one of the 25 biggest searches in the United States today. American Idol Runner-Up Bo Bice Debuts Major Before-and-After Transformation."
+        },
+        {
+          "type": "h2",
+          "text": "What is already on the record"
+        },
+        {
+          "type": "p",
+          "text": "After Carrie Underwood, American Idol Alum Bo Bice Debuts Transformation Post 89-Pound Weight Loss."
+        },
+        {
+          "type": "p",
+          "text": "People are searching “bo bice short hair transformation.” This page stays with those accounts and does not add a score, a name, or an outcome that was not in them."
+        }
+      ],
+      "sources": []
+    },
+    {
+      "slug": "sports",
+      "query": "sports",
+      "title": "Sports",
+      "headline": "Halloween 2026: Breaking down top athlete costumes from across the sports world",
+      "dek": "Halloween 2026: Breaking down top athlete costumes from across the sports world.",
+      "angle": "Halloween 2026: Breaking down top athlete costumes from across the sports world",
+      "traffic": "20000",
+      "trafficLabel": "20K+",
+      "image": "/covers/sports.svg",
+      "imageSource": "",
+      "publishedAt": "2026-10-31T05:00:00.000Z",
+      "publishedLabel": "",
+      "rank": 25,
+      "blocks": [
+        {
+          "type": "p",
+          "text": "Sports is one of the 25 biggest searches in the United States today. Halloween 2026: Breaking down top athlete costumes from across the sports world."
+        },
+        {
+          "type": "h2",
+          "text": "What is already on the record"
+        },
+        {
+          "type": "p",
+          "text": "Best sport-themed Halloween costume? NFL Halloween costumes 2026: Roundup of some of the best looks ahead of the holiday."
+        },
+        {
+          "type": "p",
+          "text": "People are searching “sports.” This page stays with those accounts and does not add a score, a name, or an outcome that was not in them."
+        }
+      ],
+      "sources": []
+    }
+  ]
+}
