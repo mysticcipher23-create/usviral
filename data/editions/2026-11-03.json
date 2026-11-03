@@ -1,0 +1,861 @@
+{
+  "date": "2026-11-03",
+  "fetchedAt": "2026-11-03T19:16:46.095Z",
+  "geo": "US",
+  "window": "24h",
+  "sort": "volume",
+  "limit": 25,
+  "sourceUrl": "https://trends.google.com/trending?geo=US&hours=24&sort=search-volume",
+  "posts": [
+    {
+      "slug": "bears",
+      "query": "bears",
+      "title": "Bears",
+      "headline": "Jeffery Simmons, Bears' defense handle Seahawks",
+      "dek": "Jeffery Simmons, Bears' defense handle Seahawks.",
+      "angle": "Jeffery Simmons, Bears' defense handle Seahawks",
+      "traffic": "1000000",
+      "trafficLabel": "1M+",
+      "image": "/covers/bears.svg",
+      "imageSource": "",
+      "publishedAt": "2026-11-03T01:30:00.000Z",
+      "publishedLabel": "",
+      "rank": 1,
+      "blocks": [
+        {
+          "type": "p",
+          "text": "Bears is one of the 25 biggest searches in the United States today. Jeffery Simmons, Bears' defense handle Seahawks."
+        },
+        {
+          "type": "h2",
+          "text": "What is already on the record"
+        },
+        {
+          "type": "p",
+          "text": "Bears report card: How we graded Chicago in Week 8 win vs. Seahawks. Game Recap: Bears make statement with impressive prime-time win in Seattle."
+        },
+        {
+          "type": "p",
+          "text": "People are searching “bears.” This page stays with those accounts and does not add a score, a name, or an outcome that was not in them."
+        }
+      ],
+      "sources": []
+    },
+    {
+      "slug": "midterm-elections-results",
+      "query": "midterm elections results",
+      "title": "Midterm Elections Results",
+      "headline": "2026 Midterm Elections Live Updates: Voters Head to the Polls to Decide Control of Congress",
+      "dek": "2026 Midterm Elections Live Updates: Voters Head to the Polls to Decide Control of Congress.",
+      "angle": "2026 Midterm Elections Live Updates: Voters Head to the Polls to Decide Control of Congress",
+      "traffic": "500000",
+      "trafficLabel": "500K+",
+      "image": "/covers/midterm-elections-results.svg",
+      "imageSource": "",
+      "publishedAt": "2026-11-03T02:20:00.000Z",
+      "publishedLabel": "",
+      "rank": 2,
+      "blocks": [
+        {
+          "type": "p",
+          "text": "Midterm Elections Results is one of the 25 biggest searches in the United States today. 2026 Midterm Elections Live Updates: Voters Head to the Polls to Decide Control of Congress."
+        },
+        {
+          "type": "h2",
+          "text": "What is already on the record"
+        },
+        {
+          "type": "p",
+          "text": "US midterm election: How it works, why it's important and races to watch. Midterm election live updates: Voters cast their ballots as Republicans hope to hold control of Congress."
+        },
+        {
+          "type": "p",
+          "text": "People are searching “midterm elections results.” This page stays with those accounts and does not add a score, a name, or an outcome that was not in them."
+        }
+      ],
+      "sources": []
+    },
+    {
+      "slug": "adam-robinson",
+      "query": "adam robinson",
+      "title": "Adam Robinson",
+      "headline": "The Final Seconds Before a Learjet Plunged Into a Florida Street",
+      "dek": "The Final Seconds Before a Learjet Plunged Into a Florida Street.",
+      "angle": "The Final Seconds Before a Learjet Plunged Into a Florida Street",
+      "traffic": "500000",
+      "trafficLabel": "500K+",
+      "image": "/covers/adam-robinson.svg",
+      "imageSource": "",
+      "publishedAt": "2026-11-02T19:40:00.000Z",
+      "publishedLabel": "",
+      "rank": 3,
+      "blocks": [
+        {
+          "type": "p",
+          "text": "Adam Robinson is one of the 25 biggest searches in the United States today. The Final Seconds Before a Learjet Plunged Into a Florida Street."
+        },
+        {
+          "type": "h2",
+          "text": "What is already on the record"
+        },
+        {
+          "type": "p",
+          "text": "Senior Pilot Identified in Private Jet Crash That Killed 9 After Emergency en Route to the Bahamas. ‘Mayday, mayday.’ A flight from Texas to the Bahamas ended in tragedy. What investigators are examining."
+        },
+        {
+          "type": "p",
+          "text": "People are searching “adam robinson.” This page stays with those accounts and does not add a score, a name, or an outcome that was not in them."
+        }
+      ],
+      "sources": []
+    },
+    {
+      "slug": "rhabdomyolysis",
+      "query": "rhabdomyolysis",
+      "title": "Rhabdomyolysis",
+      "headline": "Runner, 24, Dies During Her First Marathon",
+      "dek": "Runner, 24, Dies During Her First Marathon.",
+      "angle": "Runner, 24, Dies During Her First Marathon",
+      "traffic": "200000",
+      "trafficLabel": "200K+",
+      "image": "/covers/rhabdomyolysis.svg",
+      "imageSource": "",
+      "publishedAt": "2026-11-03T04:00:00.000Z",
+      "publishedLabel": "",
+      "rank": 4,
+      "blocks": [
+        {
+          "type": "p",
+          "text": "Rhabdomyolysis is one of the 25 biggest searches in the United States today. Runner, 24, Dies During Her First Marathon."
+        },
+        {
+          "type": "h2",
+          "text": "What is already on the record"
+        },
+        {
+          "type": "p",
+          "text": "N.Y.C. Marathon Runner, 24, Told Her Dad She ‘Never Felt This Good’ a Few Hours Before Sudden Collapse. 24-year-old woman dies after collapsing in final stages of New York City Marathon."
+        },
+        {
+          "type": "p",
+          "text": "People are searching “rhabdomyolysis.” This page stays with those accounts and does not add a score, a name, or an outcome that was not in them."
+        }
+      ],
+      "sources": []
+    },
+    {
+      "slug": "olmesartan",
+      "query": "olmesartan",
+      "title": "Olmesartan",
+      "headline": "Thousands of blood pressure medication bottles recalled nationwide after pills fail quality test",
+      "dek": "Thousands of blood pressure medication bottles recalled nationwide after pills fail quality test.",
+      "angle": "Thousands of blood pressure medication bottles recalled nationwide after pills fail quality test",
+      "traffic": "200000",
+      "trafficLabel": "200K+",
+      "image": "/covers/olmesartan.svg",
+      "imageSource": "",
+      "publishedAt": "2026-11-02T23:10:00.000Z",
+      "publishedLabel": "",
+      "rank": 5,
+      "blocks": [
+        {
+          "type": "p",
+          "text": "Olmesartan is one of the 25 biggest searches in the United States today. Thousands of blood pressure medication bottles recalled nationwide after pills fail quality test."
+        },
+        {
+          "type": "h2",
+          "text": "What is already on the record"
+        },
+        {
+          "type": "p",
+          "text": "Blood pressure medication recalled as it may be ineffective, FDA says. FDA recalls thousands of blood pressure bottles, says pills failed quality tests."
+        },
+        {
+          "type": "p",
+          "text": "People are searching “olmesartan.” This page stays with those accounts and does not add a score, a name, or an outcome that was not in them."
+        }
+      ],
+      "sources": []
+    },
+    {
+      "slug": "tornado-warning",
+      "query": "tornado warning",
+      "title": "Tornado Warning",
+      "headline": "Tornado watch issued for several Oklahoma counties Monday evening",
+      "dek": "Tornado watch issued for several Oklahoma counties Monday evening.",
+      "angle": "Tornado watch issued for several Oklahoma counties Monday evening",
+      "traffic": "200000",
+      "trafficLabel": "200K+",
+      "image": "/covers/tornado-warning.svg",
+      "imageSource": "",
+      "publishedAt": "2026-11-03T17:30:00.000Z",
+      "publishedLabel": "",
+      "rank": 6,
+      "blocks": [
+        {
+          "type": "p",
+          "text": "Tornado Warning is one of the 25 biggest searches in the United States today. Tornado watch issued for several Oklahoma counties Monday evening."
+        },
+        {
+          "type": "h2",
+          "text": "What is already on the record"
+        },
+        {
+          "type": "p",
+          "text": "Waves of Storms likely Monday. Severe Storms likely, some see heavy rainfall. Severe thunderstorms and tornado threat move to eastern Oklahoma."
+        },
+        {
+          "type": "p",
+          "text": "People are searching “tornado warning.” This page stays with those accounts and does not add a score, a name, or an outcome that was not in them."
+        }
+      ],
+      "sources": []
+    },
+    {
+      "slug": "dancing-with-the-stars",
+      "query": "dancing with the stars",
+      "title": "Dancing With the Stars",
+      "headline": "Dancing With the Stars",
+      "dek": "‘Dancing with the Stars’ Recap: 1 Star Goes Home on Disney Night After an Injury Left Them Crying on the Dance Floor.",
+      "angle": "‘Dancing with the Stars’ Recap: 1 Star Goes Home on Disney Night After an Injury Left Them Crying on the Dance Floor",
+      "traffic": "200000",
+      "trafficLabel": "200K+",
+      "image": "/covers/dancing-with-the-stars.svg",
+      "imageSource": "",
+      "publishedAt": "2026-11-02T23:00:00.000Z",
+      "publishedLabel": "",
+      "rank": 7,
+      "blocks": [
+        {
+          "type": "p",
+          "text": "Dancing With the Stars is one of the 25 biggest searches in the United States today. ‘Dancing with the Stars’ Recap: 1 Star Goes Home on Disney Night After an Injury Left Them Crying on the Dance Floor."
+        },
+        {
+          "type": "h2",
+          "text": "What is already on the record"
+        },
+        {
+          "type": "p",
+          "text": "‘DWTS’ Disney Night recap: An uneven first group dance-off and a tragic fan-favorite elimination. Watch Heather Headley, Sherri Shepherd, More Sing on 'Disney Night' on Dancing With the Stars."
+        },
+        {
+          "type": "p",
+          "text": "People are searching “dancing with the stars.” This page stays with those accounts and does not add a score, a name, or an outcome that was not in them."
+        }
+      ],
+      "sources": []
+    },
+    {
+      "slug": "weather",
+      "query": "weather",
+      "title": "Weather",
+      "headline": "Parts of Florida see half a year’s worth of rain in 36 hours",
+      "dek": "Parts of Florida see half a year’s worth of rain in 36 hours.",
+      "angle": "Parts of Florida see half a year’s worth of rain in 36 hours",
+      "traffic": "200000",
+      "trafficLabel": "200K+",
+      "image": "/covers/weather.svg",
+      "imageSource": "",
+      "publishedAt": "2026-11-03T12:30:00.000Z",
+      "publishedLabel": "",
+      "rank": 8,
+      "blocks": [
+        {
+          "type": "p",
+          "text": "Weather is one of the 25 biggest searches in the United States today. Parts of Florida see half a year’s worth of rain in 36 hours."
+        },
+        {
+          "type": "h2",
+          "text": "What is already on the record"
+        },
+        {
+          "type": "p",
+          "text": "2 dead after historic flooding in Palm Bay, officials say. Deadly flash floods hit Florida's Space Coast amid heavy rainfall."
+        },
+        {
+          "type": "p",
+          "text": "People are searching “weather.” This page stays with those accounts and does not add a score, a name, or an outcome that was not in them."
+        }
+      ],
+      "sources": []
+    },
+    {
+      "slug": "jesus-de-miguel",
+      "query": "jesus de miguel",
+      "title": "Jesus De Miguel",
+      "headline": "Spanish soccer player Jesús de Miguel dies after on-pitch collision",
+      "dek": "Spanish soccer player Jesús de Miguel dies after on-pitch collision.",
+      "angle": "Spanish soccer player Jesús de Miguel dies after on-pitch collision",
+      "traffic": "100000",
+      "trafficLabel": "100K+",
+      "image": "/covers/jesus-de-miguel.svg",
+      "imageSource": "",
+      "publishedAt": "2026-11-03T05:30:00.000Z",
+      "publishedLabel": "",
+      "rank": 9,
+      "blocks": [
+        {
+          "type": "p",
+          "text": "Jesus De Miguel is one of the 25 biggest searches in the United States today. Spanish soccer player Jesús de Miguel dies after on-pitch collision."
+        },
+        {
+          "type": "h2",
+          "text": "What is already on the record"
+        },
+        {
+          "type": "p",
+          "text": "Jesús de Miguel, a journeyman whose death after an in-game collision stunned Spanish soccer. Tenerife striker De Miguel dies after collision in match."
+        },
+        {
+          "type": "p",
+          "text": "People are searching “jesus de miguel.” This page stays with those accounts and does not add a score, a name, or an outcome that was not in them."
+        }
+      ],
+      "sources": []
+    },
+    {
+      "slug": "singer",
+      "query": "singer",
+      "title": "Singer",
+      "headline": "Country Singer Nicole Taylor Dies at 35 After Being Diagnosed with Terminal Cancer, Her Triplet Sisters Reveal",
+      "dek": "Country Singer Nicole Taylor Dies at 35 After Being Diagnosed with Terminal Cancer, Her Triplet Sisters Reveal.",
+      "angle": "Country Singer Nicole Taylor Dies at 35 After Being Diagnosed with Terminal Cancer, Her Triplet Sisters Reveal",
+      "traffic": "100000",
+      "trafficLabel": "100K+",
+      "image": "/covers/singer.svg",
+      "imageSource": "",
+      "publishedAt": "2026-11-03T13:30:00.000Z",
+      "publishedLabel": "",
+      "rank": 10,
+      "blocks": [
+        {
+          "type": "p",
+          "text": "Singer is one of the 25 biggest searches in the United States today. Country Singer Nicole Taylor Dies at 35 After Being Diagnosed with Terminal Cancer, Her Triplet Sisters Reveal."
+        },
+        {
+          "type": "h2",
+          "text": "What is already on the record"
+        },
+        {
+          "type": "p",
+          "text": "Nicole Taylor of country music trio Taylor Red dies at 35. Nicole Taylor of country trio Taylor Red dead at 35."
+        },
+        {
+          "type": "p",
+          "text": "People are searching “singer.” This page stays with those accounts and does not add a score, a name, or an outcome that was not in them."
+        }
+      ],
+      "sources": []
+    },
+    {
+      "slug": "heat-vs-lakers",
+      "query": "heat vs lakers",
+      "title": "Heat vs Lakers",
+      "headline": "Luka scores 42 points, earns high praise from Giannis as hot streak continues",
+      "dek": "Luka scores 42 points, earns high praise from Giannis as hot streak continues.",
+      "angle": "Luka scores 42 points, earns high praise from Giannis as hot streak continues",
+      "traffic": "100000",
+      "trafficLabel": "100K+",
+      "image": "/covers/heat-vs-lakers.svg",
+      "imageSource": "",
+      "publishedAt": "2026-11-03T02:00:00.000Z",
+      "publishedLabel": "",
+      "rank": 11,
+      "blocks": [
+        {
+          "type": "p",
+          "text": "Heat vs Lakers is one of the 25 biggest searches in the United States today. Luka scores 42 points, earns high praise from Giannis as hot streak continues."
+        },
+        {
+          "type": "h2",
+          "text": "The result people are checking"
+        },
+        {
+          "type": "p",
+          "text": "Luka Dončić is off to a spectacular offensive start for the Lakers. Giannis says Dončić could be best scorer of all time as Lakers star pours in 42 against Heat."
+        },
+        {
+          "type": "p",
+          "text": "People are searching “heat vs lakers.” This page stays with those accounts and does not add a score, a name, or an outcome that was not in them."
+        }
+      ],
+      "sources": []
+    },
+    {
+      "slug": "suns-vs-warriors",
+      "query": "suns vs warriors",
+      "title": "Suns vs Warriors",
+      "headline": "Draymond Green ejected after scuffle with Suns as Warriors rally for win",
+      "dek": "Draymond Green ejected after scuffle with Suns as Warriors rally for win.",
+      "angle": "Draymond Green ejected after scuffle with Suns as Warriors rally for win",
+      "traffic": "100000",
+      "trafficLabel": "100K+",
+      "image": "/covers/suns-vs-warriors.svg",
+      "imageSource": "",
+      "publishedAt": "2026-11-03T02:00:00.000Z",
+      "publishedLabel": "",
+      "rank": 12,
+      "blocks": [
+        {
+          "type": "p",
+          "text": "Suns vs Warriors is one of the 25 biggest searches in the United States today. Draymond Green ejected after scuffle with Suns as Warriors rally for win."
+        },
+        {
+          "type": "h2",
+          "text": "The result people are checking"
+        },
+        {
+          "type": "p",
+          "text": "Draymond Green ejected after committing 3 fine-worthy acts in 10-seconds. Draymond Green ejected after shoving Suns big man, tangling with Dillon Brooks."
+        },
+        {
+          "type": "p",
+          "text": "People are searching “suns vs warriors.” This page stays with those accounts and does not add a score, a name, or an outcome that was not in them."
+        }
+      ],
+      "sources": []
+    },
+    {
+      "slug": "thunder-vs-cavaliers",
+      "query": "thunder vs cavaliers",
+      "title": "Thunder vs Cavaliers",
+      "headline": "Short-handed Thunder bounce back, hand Cavaliers first loss at home",
+      "dek": "Short-handed Thunder bounce back, hand Cavaliers first loss at home.",
+      "angle": "Short-handed Thunder bounce back, hand Cavaliers first loss at home",
+      "traffic": "100000",
+      "trafficLabel": "100K+",
+      "image": "/covers/thunder-vs-cavaliers.svg",
+      "imageSource": "",
+      "publishedAt": "2026-11-02T23:00:00.000Z",
+      "publishedLabel": "",
+      "rank": 13,
+      "blocks": [
+        {
+          "type": "p",
+          "text": "Thunder vs Cavaliers is one of the 25 biggest searches in the United States today. Short-handed Thunder bounce back, hand Cavaliers first loss at home."
+        },
+        {
+          "type": "h2",
+          "text": "The result people are checking"
+        },
+        {
+          "type": "p",
+          "text": "The Bounce: Shai Gilgeous-Alexander isn’t letting the injured Thunder sink. Oklahoma City Thunder vs. Cleveland Cavaliers Live Score and Stats."
+        },
+        {
+          "type": "p",
+          "text": "People are searching “thunder vs cavaliers.” This page stays with those accounts and does not add a score, a name, or an outcome that was not in them."
+        }
+      ],
+      "sources": []
+    },
+    {
+      "slug": "nets-vs-knicks",
+      "query": "nets vs knicks",
+      "title": "Nets vs Knicks",
+      "headline": "Knicks 103-90 Nets (Nov 2, 2026) Game Recap",
+      "dek": "Knicks 103-90 Nets (Nov 2, 2026) Game Recap.",
+      "angle": "Knicks 103-90 Nets (Nov 2, 2026) Game Recap",
+      "traffic": "100000",
+      "trafficLabel": "100K+",
+      "image": "/covers/nets-vs-knicks.svg",
+      "imageSource": "",
+      "publishedAt": "2026-11-02T23:30:00.000Z",
+      "publishedLabel": "",
+      "rank": 14,
+      "blocks": [
+        {
+          "type": "p",
+          "text": "Nets vs Knicks is one of the 25 biggest searches in the United States today. Knicks 103-90 Nets (Nov 2, 2026) Game Recap."
+        },
+        {
+          "type": "h2",
+          "text": "The result people are checking"
+        },
+        {
+          "type": "p",
+          "text": "Knicks turn it up in fourth for convincing win to continue domination of Nets."
+        },
+        {
+          "type": "p",
+          "text": "People are searching “nets vs knicks.” This page stays with those accounts and does not add a score, a name, or an outcome that was not in them."
+        }
+      ],
+      "sources": []
+    },
+    {
+      "slug": "bulls-vs-76ers",
+      "query": "bulls vs 76ers",
+      "title": "Bulls vs 76ers",
+      "headline": "76ers 126-107 Bulls (Nov 2, 2026) Game Recap",
+      "dek": "76ers 126-107 Bulls (Nov 2, 2026) Game Recap.",
+      "angle": "76ers 126-107 Bulls (Nov 2, 2026) Game Recap",
+      "traffic": "100000",
+      "trafficLabel": "100K+",
+      "image": "/covers/bulls-vs-76ers.svg",
+      "imageSource": "",
+      "publishedAt": "2026-11-02T23:30:00.000Z",
+      "publishedLabel": "",
+      "rank": 15,
+      "blocks": [
+        {
+          "type": "p",
+          "text": "Bulls vs 76ers is one of the 25 biggest searches in the United States today. 76ers 126-107 Bulls (Nov 2, 2026) Game Recap."
+        },
+        {
+          "type": "h2",
+          "text": "The result people are checking"
+        },
+        {
+          "type": "p",
+          "text": "Sixers Roll On Monday Despite Embiid Status And Bulls Woes. Jaylen Brown and Tyrese Maxey lead the way as Sixers beat the Bulls and improve to 7-1."
+        },
+        {
+          "type": "p",
+          "text": "People are searching “bulls vs 76ers.” This page stays with those accounts and does not add a score, a name, or an outcome that was not in them."
+        }
+      ],
+      "sources": []
+    },
+    {
+      "slug": "jazz-vs-spurs",
+      "query": "jazz vs spurs",
+      "title": "Jazz vs Spurs",
+      "headline": "Game Recap: Spurs 119, Jazz 97",
+      "dek": "Game Recap: Spurs 119, Jazz 97.",
+      "angle": "Game Recap: Spurs 119, Jazz 97",
+      "traffic": "100000",
+      "trafficLabel": "100K+",
+      "image": "/covers/jazz-vs-spurs.svg",
+      "imageSource": "",
+      "publishedAt": "2026-11-03T00:30:00.000Z",
+      "publishedLabel": "",
+      "rank": 16,
+      "blocks": [
+        {
+          "type": "p",
+          "text": "Jazz vs Spurs is one of the 25 biggest searches in the United States today. Game Recap: Spurs 119, Jazz 97."
+        },
+        {
+          "type": "h2",
+          "text": "The result people are checking"
+        },
+        {
+          "type": "p",
+          "text": "Spurs must solve the mystery of non-Wemby minutes: ‘We’ve been figuring it out’."
+        },
+        {
+          "type": "p",
+          "text": "People are searching “jazz vs spurs.” This page stays with those accounts and does not add a score, a name, or an outcome that was not in them."
+        }
+      ],
+      "sources": []
+    },
+    {
+      "slug": "texas-senate-race",
+      "query": "texas senate race",
+      "title": "Texas Senate Race",
+      "headline": "Polls show tight Texas Senate race, but prediction markets tell a different story",
+      "dek": "Polls show tight Texas Senate race, but prediction markets tell a different story.",
+      "angle": "Polls show tight Texas Senate race, but prediction markets tell a different story",
+      "traffic": "100000",
+      "trafficLabel": "100K+",
+      "image": "/covers/texas-senate-race.svg",
+      "imageSource": "",
+      "publishedAt": "2026-11-02T23:10:00.000Z",
+      "publishedLabel": "",
+      "rank": 17,
+      "blocks": [
+        {
+          "type": "p",
+          "text": "Texas Senate Race is one of the 25 biggest searches in the United States today. Polls show tight Texas Senate race, but prediction markets tell a different story."
+        },
+        {
+          "type": "h2",
+          "text": "What is already on the record"
+        },
+        {
+          "type": "p",
+          "text": "Live Results: Texas Senate midterm election. Talarico casts himself as an underdog, attacks Elon Musk in final Houston rally."
+        },
+        {
+          "type": "p",
+          "text": "People are searching “texas senate race.” This page stays with those accounts and does not add a score, a name, or an outcome that was not in them."
+        }
+      ],
+      "sources": []
+    },
+    {
+      "slug": "cnn",
+      "query": "cnn",
+      "title": "Cnn",
+      "headline": "Midterm election live updates: Trump fumes over Election Day eve speech coverage",
+      "dek": "Midterm election live updates: Trump fumes over Election Day eve speech coverage.",
+      "angle": "Midterm election live updates: Trump fumes over Election Day eve speech coverage",
+      "traffic": "100000",
+      "trafficLabel": "100K+",
+      "image": "/covers/cnn.svg",
+      "imageSource": "",
+      "publishedAt": "2026-11-03T11:10:00.000Z",
+      "publishedLabel": "",
+      "rank": 18,
+      "blocks": [
+        {
+          "type": "p",
+          "text": "Cnn is one of the 25 biggest searches in the United States today. Midterm election live updates: Trump fumes over Election Day eve speech coverage."
+        },
+        {
+          "type": "h2",
+          "text": "What is already on the record"
+        },
+        {
+          "type": "p",
+          "text": "Election Day scanner problem affects Westchester polling sites. Paper ballots in NY county unable to be accepted by voting machines, will still be counted."
+        },
+        {
+          "type": "p",
+          "text": "People are searching “cnn.” This page stays with those accounts and does not add a score, a name, or an outcome that was not in them."
+        }
+      ],
+      "sources": []
+    },
+    {
+      "slug": "donde-votar",
+      "query": "dónde votar",
+      "title": "Dónde Votar",
+      "headline": "Voto anticipado supera cifras históricas en Carolina del Norte, prioridad demócrata",
+      "dek": "Voto anticipado supera cifras históricas en Carolina del Norte, prioridad demócrata.",
+      "angle": "Voto anticipado supera cifras históricas en Carolina del Norte, prioridad demócrata",
+      "traffic": "50000",
+      "trafficLabel": "50K+",
+      "image": "/covers/donde-votar.svg",
+      "imageSource": "",
+      "publishedAt": "2026-11-03T05:10:00.000Z",
+      "publishedLabel": "",
+      "rank": 19,
+      "blocks": [
+        {
+          "type": "p",
+          "text": "Dónde Votar is one of the 25 biggest searches in the United States today. Voto anticipado supera cifras históricas en Carolina del Norte, prioridad demócrata."
+        },
+        {
+          "type": "h2",
+          "text": "What is already on the record"
+        },
+        {
+          "type": "p",
+          "text": "Guía para votantes en Carolina del Norte: requisitos, fechas y recursos en español. El martes 3 de noviembre es el día de las elecciones generales de 2026."
+        },
+        {
+          "type": "p",
+          "text": "People are searching “dónde votar.” This page stays with those accounts and does not add a score, a name, or an outcome that was not in them."
+        }
+      ],
+      "sources": []
+    },
+    {
+      "slug": "nicolas-cage",
+      "query": "nicolas cage",
+      "title": "Nicolas Cage",
+      "headline": "Nicolas Cage says he’s ‘a little bit homeless’ as sinkhole swallows his Malibu home",
+      "dek": "Nicolas Cage says he’s ‘a little bit homeless’ as sinkhole swallows his Malibu home.",
+      "angle": "Nicolas Cage says he’s ‘a little bit homeless’ as sinkhole swallows his Malibu home",
+      "traffic": "50000",
+      "trafficLabel": "50K+",
+      "image": "/covers/nicolas-cage.svg",
+      "imageSource": "",
+      "publishedAt": "2026-11-03T00:40:00.000Z",
+      "publishedLabel": "",
+      "rank": 20,
+      "blocks": [
+        {
+          "type": "p",
+          "text": "Nicolas Cage is one of the 25 biggest searches in the United States today. Nicolas Cage says he’s ‘a little bit homeless’ as sinkhole swallows his Malibu home."
+        },
+        {
+          "type": "h2",
+          "text": "What is already on the record"
+        },
+        {
+          "type": "p",
+          "text": "Nicolas Cage Living in Hotels After Sinkhole Damages Malibu Home. Nicolas Cage Says He’s “Currently Homeless” After $10.5 Million Mansion Sustains Major Damage."
+        },
+        {
+          "type": "p",
+          "text": "People are searching “nicolas cage.” This page stays with those accounts and does not add a score, a name, or an outcome that was not in them."
+        }
+      ],
+      "sources": []
+    },
+    {
+      "slug": "msc-poesia-miami-coast-guard",
+      "query": "msc poesia miami coast guard",
+      "title": "Msc Poesia Miami Coast Guard",
+      "headline": "Cruise canceled after Coast Guard detains ship in Miami, officials say",
+      "dek": "Cruise canceled after Coast Guard detains ship in Miami, officials say.",
+      "angle": "Cruise canceled after Coast Guard detains ship in Miami, officials say",
+      "traffic": "50000",
+      "trafficLabel": "50K+",
+      "image": "/covers/msc-poesia-miami-coast-guard.svg",
+      "imageSource": "",
+      "publishedAt": "2026-11-03T03:40:00.000Z",
+      "publishedLabel": "",
+      "rank": 21,
+      "blocks": [
+        {
+          "type": "p",
+          "text": "Msc Poesia Miami Coast Guard is one of the 25 biggest searches in the United States today. Cruise canceled after Coast Guard detains ship in Miami, officials say."
+        },
+        {
+          "type": "h2",
+          "text": "What is already on the record"
+        },
+        {
+          "type": "p",
+          "text": "U.S. Coast Guard detains MSC Poesia at PortMiami; 11-night sailing canceled. Coast Guard detains MSC Poesia at PortMiami during expanded inspection, authorities say."
+        },
+        {
+          "type": "p",
+          "text": "People are searching “msc poesia miami coast guard.” This page stays with those accounts and does not add a score, a name, or an outcome that was not in them."
+        }
+      ],
+      "sources": []
+    },
+    {
+      "slug": "trail-blazers-vs-nuggets",
+      "query": "trail blazers vs nuggets",
+      "title": "Trail Blazers vs Nuggets",
+      "headline": "Phoenix Suns vs Golden State Warriors Nov 2, 2026 Box Scores",
+      "dek": "Phoenix Suns vs Golden State Warriors Nov 2, 2026 Box Scores.",
+      "angle": "Phoenix Suns vs Golden State Warriors Nov 2, 2026 Box Scores",
+      "traffic": "50000",
+      "trafficLabel": "50K+",
+      "image": "/covers/trail-blazers-vs-nuggets.svg",
+      "imageSource": "",
+      "publishedAt": "2026-11-03T01:10:00.000Z",
+      "publishedLabel": "",
+      "rank": 22,
+      "blocks": [
+        {
+          "type": "p",
+          "text": "Trail Blazers vs Nuggets is one of the 25 biggest searches in the United States today. Phoenix Suns vs Golden State Warriors Nov 2, 2026 Box Scores."
+        },
+        {
+          "type": "h2",
+          "text": "The result people are checking"
+        },
+        {
+          "type": "p",
+          "text": "Portland Trail Blazers vs Denver Nuggets Nov 2, 2026 Box Scores. Boston Celtics vs Houston Rockets Nov 2, 2026 Box Scores."
+        },
+        {
+          "type": "p",
+          "text": "People are searching “trail blazers vs nuggets.” This page stays with those accounts and does not add a score, a name, or an outcome that was not in them."
+        }
+      ],
+      "sources": []
+    },
+    {
+      "slug": "celtics-vs-rockets",
+      "query": "celtics vs rockets",
+      "title": "Celtics vs Rockets",
+      "headline": "Rockets 109-93 Celtics (Nov 2, 2026) Game Recap",
+      "dek": "Rockets 109-93 Celtics (Nov 2, 2026) Game Recap.",
+      "angle": "Rockets 109-93 Celtics (Nov 2, 2026) Game Recap",
+      "traffic": "50000",
+      "trafficLabel": "50K+",
+      "image": "/covers/celtics-vs-rockets.svg",
+      "imageSource": "",
+      "publishedAt": "2026-11-03T00:30:00.000Z",
+      "publishedLabel": "",
+      "rank": 23,
+      "blocks": [
+        {
+          "type": "p",
+          "text": "Celtics vs Rockets is one of the 25 biggest searches in the United States today. Rockets 109-93 Celtics (Nov 2, 2026) Game Recap."
+        },
+        {
+          "type": "h2",
+          "text": "The result people are checking"
+        },
+        {
+          "type": "p",
+          "text": "Rockets 109, Celtics 83: Alperen Şengün's request, vintage Marcus Smart and the Kevin Durant effect. Celtics-Rockets recap: C's win streak ends amid shooting woes in Houston."
+        },
+        {
+          "type": "p",
+          "text": "People are searching “celtics vs rockets.” This page stays with those accounts and does not add a score, a name, or an outcome that was not in them."
+        }
+      ],
+      "sources": []
+    },
+    {
+      "slug": "bucks-vs-timberwolves",
+      "query": "bucks vs timberwolves",
+      "title": "Bucks vs Timberwolves",
+      "headline": "Timberwolves 112-100 Bucks (Nov 2, 2026) Game Recap",
+      "dek": "Timberwolves 112-100 Bucks (Nov 2, 2026) Game Recap.",
+      "angle": "Timberwolves 112-100 Bucks (Nov 2, 2026) Game Recap",
+      "traffic": "50000",
+      "trafficLabel": "50K+",
+      "image": "/covers/bucks-vs-timberwolves.svg",
+      "imageSource": "",
+      "publishedAt": "2026-11-03T00:00:00.000Z",
+      "publishedLabel": "",
+      "rank": 24,
+      "blocks": [
+        {
+          "type": "p",
+          "text": "Bucks vs Timberwolves is one of the 25 biggest searches in the United States today. Timberwolves 112-100 Bucks (Nov 2, 2026) Game Recap."
+        },
+        {
+          "type": "h2",
+          "text": "The result people are checking"
+        },
+        {
+          "type": "p",
+          "text": "LaMelo Ball’s sharp shooting lifts Wolves to much-needed win over lowly Bucks. Game Recap: Timberwolves 112, Bucks 100."
+        },
+        {
+          "type": "p",
+          "text": "People are searching “bucks vs timberwolves.” This page stays with those accounts and does not add a score, a name, or an outcome that was not in them."
+        }
+      ],
+      "sources": []
+    },
+    {
+      "slug": "kings-vs-mavericks",
+      "query": "kings vs mavericks",
+      "title": "Kings vs Mavericks",
+      "headline": "Kings 115-100 Mavericks (Nov 2, 2026) Game Recap",
+      "dek": "Kings 115-100 Mavericks (Nov 2, 2026) Game Recap.",
+      "angle": "Kings 115-100 Mavericks (Nov 2, 2026) Game Recap",
+      "traffic": "50000",
+      "trafficLabel": "50K+",
+      "image": "/covers/kings-vs-mavericks.svg",
+      "imageSource": "",
+      "publishedAt": "2026-11-03T00:00:00.000Z",
+      "publishedLabel": "",
+      "rank": 25,
+      "blocks": [
+        {
+          "type": "p",
+          "text": "Kings vs Mavericks is one of the 25 biggest searches in the United States today. Kings 115-100 Mavericks (Nov 2, 2026) Game Recap."
+        },
+        {
+          "type": "h2",
+          "text": "The result people are checking"
+        },
+        {
+          "type": "p",
+          "text": "Kings’ Darius Acuff Jr. has ‘something to smile about’ after earning first NBA win."
+        },
+        {
+          "type": "p",
+          "text": "People are searching “kings vs mavericks.” This page stays with those accounts and does not add a score, a name, or an outcome that was not in them."
+        }
+      ],
+      "sources": []
+    }
+  ]
+}
